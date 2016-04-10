@@ -1,0 +1,689 @@
+Date/Time,Tournamemnt,Opponent,Point Elapsed Seconds,Line,Our Score - End of Point,Their Score - End of Point,Event Type,Action,Passer,Receiver,Defender,Hang Time (secs),Player 0,Player 1,Player 2,Player 3,Player 4,Player 5,Player 6,Player 7,Player 8,Player 9,Player 10,Player 11,Player 12,Player 13,Player 14,Player 15,Player 16,Player 17,Player 18,Player 19,Player 20,Player 21,Player 22,Player 23,Player 24,Player 25,Player 26,Player 27,Elapsed Time (secs)
+2016-04-09 19:00,,Charlotte Express,73,D,1,0,Defense,Pull,,,Runner,6.041,Tree,Runner,JP Burns,Sun,Bradham,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,0
+2016-04-09 19:00,,Charlotte Express,73,D,1,0,Defense,Throwaway,,,Anonymous,,Tree,Runner,JP Burns,Sun,Bradham,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,43
+2016-04-09 19:00,,Charlotte Express,73,D,1,0,Offense,Catch,Runner,C Olsen,,,Tree,Runner,JP Burns,Sun,Bradham,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,46
+2016-04-09 19:00,,Charlotte Express,73,D,1,0,Offense,Catch,C Olsen,Sun,,,Tree,Runner,JP Burns,Sun,Bradham,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,50
+2016-04-09 19:00,,Charlotte Express,73,D,1,0,Offense,Catch,Sun,Tree,,,Tree,Runner,JP Burns,Sun,Bradham,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,54
+2016-04-09 19:00,,Charlotte Express,73,D,1,0,Offense,Catch,Tree,Sun,,,Tree,Runner,JP Burns,Sun,Bradham,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,58
+2016-04-09 19:00,,Charlotte Express,73,D,1,0,Offense,Catch,Sun,JP Burns,,,Tree,Runner,JP Burns,Sun,Bradham,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,63
+2016-04-09 19:00,,Charlotte Express,73,D,1,0,Offense,Catch,JP Burns,Vickroy,,,Tree,Runner,JP Burns,Sun,Bradham,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,67
+2016-04-09 19:00,,Charlotte Express,73,D,1,0,Offense,Goal,Vickroy,Runner,,,Tree,Runner,JP Burns,Sun,Bradham,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,71
+2016-04-09 19:00,,Charlotte Express,96,D,1,1,Defense,Pull,,,Allan L,5.588,Wooten,Breault,Allan L,Bradham,Erickson,Boecking,Sears,,,,,,,,,,,,,,,,,,,,,,141
+2016-04-09 19:00,,Charlotte Express,96,D,1,1,Defense,Throwaway,,,Anonymous,,Wooten,Breault,Allan L,Bradham,Erickson,Boecking,Sears,,,,,,,,,,,,,,,,,,,,,,180
+2016-04-09 19:00,,Charlotte Express,96,D,1,1,Offense,Catch,Allan L,Wooten,,,Wooten,Breault,Allan L,Bradham,Erickson,Boecking,Sears,,,,,,,,,,,,,,,,,,,,,,201
+2016-04-09 19:00,,Charlotte Express,96,D,1,1,Offense,Throwaway,Wooten,Anonymous,,,Wooten,Breault,Allan L,Bradham,Erickson,Boecking,Sears,,,,,,,,,,,,,,,,,,,,,,205
+2016-04-09 19:00,,Charlotte Express,96,D,1,1,Defense,Goal,,,Anonymous,,Wooten,Breault,Allan L,Bradham,Erickson,Boecking,Sears,,,,,,,,,,,,,,,,,,,,,,235
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Catch,Kyle S,Dylan,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,289
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Catch,Dylan,Poole,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,301
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Catch,Poole,Boecking,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,305
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Catch,Boecking,Poole,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,311
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Catch,Poole,Boecking,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,315
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Catch,Boecking,Leonard,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,320
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Throwaway,Leonard,Anonymous,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,328
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Defense,D,,,Gainer,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,396
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Catch,Gainer,Dylan,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,399
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Catch,Dylan,Poole,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,402
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Catch,Poole,Kyle S,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,407
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Catch,Kyle S,Poole,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,411
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Catch,Poole,Dylan,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,414
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Catch,Dylan,Poole,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,419
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Catch,Poole,Dylan,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,422
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Catch,Dylan,Poole,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,432
+2016-04-09 19:00,,Charlotte Express,149,O,2,1,Offense,Goal,Poole,Gainer,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,436
+2016-04-09 19:00,,Charlotte Express,145,D,2,2,Defense,Pull,,,Runner,5.691,Breault,Runner,JP Burns,Sun,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,491
+2016-04-09 19:00,,Charlotte Express,145,D,2,2,Defense,Throwaway,,,Anonymous,,Breault,Runner,JP Burns,Sun,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,503
+2016-04-09 19:00,,Charlotte Express,145,D,2,2,Offense,Catch,Runner,Breault,,,Breault,Runner,JP Burns,Sun,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,516
+2016-04-09 19:00,,Charlotte Express,145,D,2,2,Offense,Catch,Breault,Runner,,,Breault,Runner,JP Burns,Sun,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,520
+2016-04-09 19:00,,Charlotte Express,145,D,2,2,Offense,Catch,Runner,C Olsen,,,Breault,Runner,JP Burns,Sun,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,524
+2016-04-09 19:00,,Charlotte Express,145,D,2,2,Offense,Catch,C Olsen,Sun,,,Breault,Runner,JP Burns,Sun,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,528
+2016-04-09 19:00,,Charlotte Express,145,D,2,2,Offense,Throwaway,Sun,Anonymous,,,Breault,Runner,JP Burns,Sun,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,532
+2016-04-09 19:00,,Charlotte Express,145,D,2,2,Defense,Goal,,,Anonymous,,Breault,Runner,JP Burns,Sun,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,634
+2016-04-09 19:00,,Charlotte Express,168,O,3,2,Offense,Catch,Kyle S,Dylan,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,692
+2016-04-09 19:00,,Charlotte Express,168,O,3,2,Offense,Catch,Dylan,Gainer,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,701
+2016-04-09 19:00,,Charlotte Express,168,O,3,2,Offense,Catch,Gainer,Dylan,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,705
+2016-04-09 19:00,,Charlotte Express,168,O,3,2,Offense,Throwaway,Dylan,Anonymous,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,713
+2016-04-09 19:00,,Charlotte Express,168,O,3,2,Defense,D,,,Erickson,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,817
+2016-04-09 19:00,,Charlotte Express,168,O,3,2,Offense,Catch,Dylan,Gainer,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,825
+2016-04-09 19:00,,Charlotte Express,168,O,3,2,Offense,Catch,Gainer,Leonard,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,829
+2016-04-09 19:00,,Charlotte Express,168,O,3,2,Offense,Catch,Leonard,Trenton,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,833
+2016-04-09 19:00,,Charlotte Express,168,O,3,2,Offense,Catch,Trenton,Dylan,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,839
+2016-04-09 19:00,,Charlotte Express,168,O,3,2,Offense,Catch,Dylan,Kyle S,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,843
+2016-04-09 19:00,,Charlotte Express,168,O,3,2,Offense,Catch,Kyle S,Poole,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,854
+2016-04-09 19:00,,Charlotte Express,168,O,3,2,Offense,Goal,Poole,Dylan,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,858
+2016-04-09 19:00,,Charlotte Express,37,D,4,2,Defense,Pull,,,Runner,5.436,Wooten,Breault,Runner,JP Burns,Allan L,Bradham,Vickroy,,,,,,,,,,,,,,,,,,,,,,920
+2016-04-09 19:00,,Charlotte Express,37,D,4,2,Defense,Throwaway,,,Anonymous,,Wooten,Breault,Runner,JP Burns,Allan L,Bradham,Vickroy,,,,,,,,,,,,,,,,,,,,,,939
+2016-04-09 19:00,,Charlotte Express,37,D,4,2,Offense,Catch,Runner,Allan L,,,Wooten,Breault,Runner,JP Burns,Allan L,Bradham,Vickroy,,,,,,,,,,,,,,,,,,,,,,949
+2016-04-09 19:00,,Charlotte Express,37,D,4,2,Offense,Goal,Allan L,Vickroy,,,Wooten,Breault,Runner,JP Burns,Allan L,Bradham,Vickroy,,,,,,,,,,,,,,,,,,,,,,955
+2016-04-09 19:00,,Charlotte Express,31,D,4,3,Defense,Pull,,,Allan L,7.386,Breault,Tree,Allan L,Hicks,Sun,Boecking,Sears,,,,,,,,,,,,,,,,,,,,,,1102
+2016-04-09 19:00,,Charlotte Express,31,D,4,3,Defense,Goal,,,Anonymous,,Breault,Tree,Allan L,Hicks,Sun,Boecking,Sears,,,,,,,,,,,,,,,,,,,,,,1131
+2016-04-09 19:00,,Charlotte Express,78,O,4,4,Offense,Catch,Leonard,Dylan,,,Dylan,Poole,Trenton,Erickson,Leonard,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,1182
+2016-04-09 19:00,,Charlotte Express,78,O,4,4,Offense,Catch,Dylan,Trenton,,,Dylan,Poole,Trenton,Erickson,Leonard,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,1190
+2016-04-09 19:00,,Charlotte Express,78,O,4,4,Offense,Catch,Trenton,Dylan,,,Dylan,Poole,Trenton,Erickson,Leonard,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,1194
+2016-04-09 19:00,,Charlotte Express,78,O,4,4,Offense,Catch,Dylan,C Olsen,,,Dylan,Poole,Trenton,Erickson,Leonard,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,1198
+2016-04-09 19:00,,Charlotte Express,78,O,4,4,Offense,Catch,C Olsen,Dylan,,,Dylan,Poole,Trenton,Erickson,Leonard,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,1203
+2016-04-09 19:00,,Charlotte Express,78,O,4,4,Offense,Catch,Dylan,Gainer,,,Dylan,Poole,Trenton,Erickson,Leonard,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,1208
+2016-04-09 19:00,,Charlotte Express,78,O,4,4,Offense,Catch,Gainer,Leonard,,,Dylan,Poole,Trenton,Erickson,Leonard,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,1217
+2016-04-09 19:00,,Charlotte Express,78,O,4,4,Offense,Drop,Leonard,Dylan,,,Dylan,Poole,Trenton,Erickson,Leonard,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,1221
+2016-04-09 19:00,,Charlotte Express,78,O,4,4,Defense,Goal,,,Anonymous,,Dylan,Poole,Trenton,Erickson,Leonard,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,1258
+2016-04-09 19:00,,Charlotte Express,7,O,4,4,Cessation,EndOfFirstQuarter,,,,,Dylan,Poole,Trenton,Erickson,Leonard,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,1259
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Leonard,Poole,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1437
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Poole,Trenton,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1446
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Trenton,Poole,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1450
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Poole,Kyle S,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1454
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Kyle S,Leonard,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1458
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Leonard,Kyle S,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1462
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Kyle S,Leonard,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1466
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Leonard,Erickson,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1470
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Throwaway,Erickson,Anonymous,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1474
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Defense,Throwaway,,,Anonymous,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1488
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Kyle S,Hicks,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1497
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Hicks,Leonard,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1501
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Leonard,Kyle S,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1518
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Kyle S,Leonard,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1522
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Leonard,Hicks,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1527
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Hicks,Leonard,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1531
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,MiscPenalty,Leonard,Anonymous,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1545
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Defense,D,,,Leonard,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1549
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Kyle S,Hicks,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1567
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Hicks,Kyle S,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1572
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Kyle S,Hicks,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1576
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Catch,Hicks,Leonard,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1580
+2016-04-09 19:00,,Charlotte Express,152,O,5,4,Offense,Goal,Leonard,Erickson,,,Kyle S,Poole,Hicks,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1587
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Defense,Pull,,,Runner,6.056,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1647
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Defense,D,,,Sears,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1688
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Catch,Runner,Vickroy,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1703
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Catch,Vickroy,JP Burns,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1707
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Catch,JP Burns,Runner,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1711
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Catch,Runner,Sun,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1715
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Catch,Sun,Runner,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1720
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Catch,Runner,JP Burns,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1724
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Catch,JP Burns,Vickroy,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1728
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Throwaway,Vickroy,Anonymous,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1732
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Defense,D,,,Runner,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1766
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Catch,Runner,JP Burns,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1773
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Catch,JP Burns,Sun,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1776
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Catch,Sun,Vickroy,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1780
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Catch,Vickroy,Runner,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1786
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Catch,Anonymous,C Olsen,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1868
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Catch,C Olsen,Wooten,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1894
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Drop,Wooten,Breault,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1901
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Defense,Throwaway,,,Anonymous,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,1925
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Catch,Runner,C Olsen,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,2013
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Offense,Throwaway,C Olsen,Anonymous,,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,2030
+2016-04-09 19:00,,Charlotte Express,629,D,5,5,Defense,Goal,,,Anonymous,,Tree,JP Burns,Trenton,Bradham,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,2274
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Leonard,Kyle S,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2330
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Kyle S,Poole,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2338
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Poole,Boecking,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2342
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Boecking,Kyle S,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2346
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Kyle S,Dylan,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2351
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Dylan,C Olsen,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2354
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,C Olsen,Kyle S,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2359
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Kyle S,Boecking,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2364
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Boecking,Kyle S,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2368
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Kyle S,Leonard,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2372
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Leonard,C Olsen,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2376
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,C Olsen,Boecking,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2380
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Boecking,Poole,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2384
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Poole,Boecking,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2387
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Boecking,Poole,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2390
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Poole,Dylan,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2395
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Dylan,Leonard,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2399
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Leonard,Dylan,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2416
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Dylan,Poole,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2420
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Poole,Dylan,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2424
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Dylan,Poole,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2428
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Poole,Dylan,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2437
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Dylan,Boecking,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2442
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Throwaway,Boecking,Anonymous,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2447
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Defense,Throwaway,,,Anonymous,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2456
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Dylan,Leonard,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2461
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Leonard,Hicks,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2464
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Hicks,Leonard,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2468
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Leonard,Boecking,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2473
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Boecking,Poole,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2478
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Poole,Kyle S,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2482
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Kyle S,Boecking,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2487
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Boecking,Leonard,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2490
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Leonard,Boecking,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2496
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Boecking,Kyle S,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2500
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Anonymous,Erickson,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2608
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Erickson,Allan L,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2612
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Allan L,Runner,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2616
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Runner,Erickson,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2621
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Catch,Erickson,JP Burns,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2625
+2016-04-09 19:00,,Charlotte Express,301,O,6,5,Offense,Goal,JP Burns,Erickson,,,Tree,Runner,JP Burns,Allan L,Erickson,Vickroy,C Olsen,,,,,,,,,,,,,,,,,,,,,,2629
+2016-04-09 19:00,,Charlotte Express,34,D,6,6,Defense,Pull,,,Allan L,7.913,Wooten,Breault,JP Burns,Allan L,Trenton,Bradham,Sears,,,,,,,,,,,,,,,,,,,,,,2692
+2016-04-09 19:00,,Charlotte Express,34,D,6,6,Defense,Goal,,,Anonymous,,Wooten,Breault,JP Burns,Allan L,Trenton,Bradham,Sears,,,,,,,,,,,,,,,,,,,,,,2724
+2016-04-09 19:00,,Charlotte Express,47,O,7,6,Offense,Catch,Dylan,Leonard,,,Kyle S,Dylan,Poole,Erickson,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,2804
+2016-04-09 19:00,,Charlotte Express,47,O,7,6,Offense,Catch,Leonard,Kyle S,,,Kyle S,Dylan,Poole,Erickson,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,2815
+2016-04-09 19:00,,Charlotte Express,47,O,7,6,Offense,Catch,Kyle S,Dylan,,,Kyle S,Dylan,Poole,Erickson,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,2819
+2016-04-09 19:00,,Charlotte Express,47,O,7,6,Offense,Catch,Dylan,Gainer,,,Kyle S,Dylan,Poole,Erickson,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,2823
+2016-04-09 19:00,,Charlotte Express,47,O,7,6,Offense,Catch,Gainer,Boecking,,,Kyle S,Dylan,Poole,Erickson,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,2827
+2016-04-09 19:00,,Charlotte Express,47,O,7,6,Offense,Catch,Boecking,Kyle S,,,Kyle S,Dylan,Poole,Erickson,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,2831
+2016-04-09 19:00,,Charlotte Express,47,O,7,6,Offense,Drop,Kyle S,Poole,,,Kyle S,Dylan,Poole,Erickson,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,2835
+2016-04-09 19:00,,Charlotte Express,47,O,7,6,Defense,Callahan,,,Kyle S,,Kyle S,Dylan,Poole,Erickson,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,2849
+2016-04-09 19:00,,Charlotte Express,62,D,7,6,Defense,Pull,,,Allan L,5.528,Tree,Runner,JP Burns,Allan L,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,2900
+2016-04-09 19:00,,Charlotte Express,62,D,7,6,Defense,D,,,Tree,,Tree,Runner,JP Burns,Allan L,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,2955
+2016-04-09 19:00,,Charlotte Express,62,D,7,6,Cessation,Halftime,,,,,Tree,Runner,JP Burns,Allan L,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,2960
+2016-04-09 19:00,,Charlotte Express,55,D,7,7,Defense,Pull,,,Runner,8.909,Tree,Runner,JP Burns,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,3622
+2016-04-09 19:00,,Charlotte Express,55,D,7,7,Defense,Throwaway,,,Anonymous,,Tree,Runner,JP Burns,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,3631
+2016-04-09 19:00,,Charlotte Express,55,D,7,7,Offense,Catch,Runner,C Olsen,,,Tree,Runner,JP Burns,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,3648
+2016-04-09 19:00,,Charlotte Express,55,D,7,7,Offense,MiscPenalty,C Olsen,Anonymous,,,Tree,Runner,JP Burns,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,3661
+2016-04-09 19:00,,Charlotte Express,55,D,7,7,Defense,Goal,,,Anonymous,,Tree,Runner,JP Burns,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,3675
+2016-04-09 19:00,,Charlotte Express,57,O,8,7,Offense,Catch,Leonard,Dylan,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3731
+2016-04-09 19:00,,Charlotte Express,57,O,8,7,Offense,Catch,Dylan,Erickson,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3741
+2016-04-09 19:00,,Charlotte Express,57,O,8,7,Offense,Catch,Erickson,Dylan,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3746
+2016-04-09 19:00,,Charlotte Express,57,O,8,7,Offense,Catch,Dylan,Trenton,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3750
+2016-04-09 19:00,,Charlotte Express,57,O,8,7,Offense,Catch,Trenton,Poole,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3754
+2016-04-09 19:00,,Charlotte Express,57,O,8,7,Offense,Catch,Poole,Trenton,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3758
+2016-04-09 19:00,,Charlotte Express,57,O,8,7,Offense,Catch,Trenton,Poole,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3762
+2016-04-09 19:00,,Charlotte Express,57,O,8,7,Offense,Catch,Poole,Leonard,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3766
+2016-04-09 19:00,,Charlotte Express,57,O,8,7,Offense,Catch,Leonard,Gainer,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3770
+2016-04-09 19:00,,Charlotte Express,57,O,8,7,Offense,Catch,Gainer,Kyle S,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3774
+2016-04-09 19:00,,Charlotte Express,57,O,8,7,Offense,Catch,Kyle S,Erickson,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3778
+2016-04-09 19:00,,Charlotte Express,57,O,8,7,Offense,Catch,Erickson,Poole,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3782
+2016-04-09 19:00,,Charlotte Express,57,O,8,7,Offense,Goal,Poole,Trenton,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3786
+2016-04-09 19:00,,Charlotte Express,11,D,8,8,Defense,Pull,,,Allan L,8.1,Wooten,Breault,JP Burns,Allan L,Bradham,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,3843
+2016-04-09 19:00,,Charlotte Express,11,D,8,8,Defense,Goal,,,Anonymous,,Wooten,Breault,JP Burns,Allan L,Bradham,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,3852
+2016-04-09 19:00,,Charlotte Express,59,O,9,8,Offense,Catch,Leonard,Kyle S,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3910
+2016-04-09 19:00,,Charlotte Express,59,O,9,8,Offense,Catch,Kyle S,Leonard,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3920
+2016-04-09 19:00,,Charlotte Express,59,O,9,8,Offense,Catch,Leonard,Poole,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3923
+2016-04-09 19:00,,Charlotte Express,59,O,9,8,Offense,Catch,Poole,Dylan,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3927
+2016-04-09 19:00,,Charlotte Express,59,O,9,8,Offense,Catch,Dylan,Gainer,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3932
+2016-04-09 19:00,,Charlotte Express,59,O,9,8,Offense,Catch,Gainer,Kyle S,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3937
+2016-04-09 19:00,,Charlotte Express,59,O,9,8,Offense,Catch,Kyle S,Erickson,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3941
+2016-04-09 19:00,,Charlotte Express,59,O,9,8,Offense,Catch,Erickson,Dylan,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3944
+2016-04-09 19:00,,Charlotte Express,59,O,9,8,Offense,Catch,Dylan,Gainer,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3950
+2016-04-09 19:00,,Charlotte Express,59,O,9,8,Offense,Catch,Gainer,Trenton,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3953
+2016-04-09 19:00,,Charlotte Express,59,O,9,8,Offense,Catch,Trenton,Gainer,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3960
+2016-04-09 19:00,,Charlotte Express,59,O,9,8,Offense,Goal,Gainer,Erickson,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3967
+2016-04-09 19:00,,Charlotte Express,94,D,10,8,Defense,Pull,,,Runner,,Tree,Runner,JP Burns,Allan L,Bradham,Vickroy,Boecking,,,,,,,,,,,,,,,,,,,,,,4065
+2016-04-09 19:00,,Charlotte Express,94,D,10,8,Defense,Throwaway,,,Anonymous,,Tree,Runner,JP Burns,Allan L,Bradham,Vickroy,Boecking,,,,,,,,,,,,,,,,,,,,,,4069
+2016-04-09 19:00,,Charlotte Express,94,D,10,8,Offense,Catch,Runner,Tree,,,Tree,Runner,JP Burns,Allan L,Bradham,Vickroy,Boecking,,,,,,,,,,,,,,,,,,,,,,4083
+2016-04-09 19:00,,Charlotte Express,94,D,10,8,Offense,Throwaway,Tree,Anonymous,,,Tree,Runner,JP Burns,Allan L,Bradham,Vickroy,Boecking,,,,,,,,,,,,,,,,,,,,,,4090
+2016-04-09 19:00,,Charlotte Express,94,D,10,8,Defense,Throwaway,,,Anonymous,,Tree,Runner,JP Burns,Allan L,Bradham,Vickroy,Boecking,,,,,,,,,,,,,,,,,,,,,,4127
+2016-04-09 19:00,,Charlotte Express,94,D,10,8,Offense,Catch,Runner,Boecking,,,Tree,Runner,JP Burns,Allan L,Bradham,Vickroy,Boecking,,,,,,,,,,,,,,,,,,,,,,4141
+2016-04-09 19:00,,Charlotte Express,94,D,10,8,Offense,Catch,Boecking,Allan L,,,Tree,Runner,JP Burns,Allan L,Bradham,Vickroy,Boecking,,,,,,,,,,,,,,,,,,,,,,4145
+2016-04-09 19:00,,Charlotte Express,94,D,10,8,Offense,Catch,Allan L,Vickroy,,,Tree,Runner,JP Burns,Allan L,Bradham,Vickroy,Boecking,,,,,,,,,,,,,,,,,,,,,,4150
+2016-04-09 19:00,,Charlotte Express,94,D,10,8,Offense,Goal,Vickroy,Bradham,,,Tree,Runner,JP Burns,Allan L,Bradham,Vickroy,Boecking,,,,,,,,,,,,,,,,,,,,,,4157
+2016-04-09 19:00,,Charlotte Express,70,D,11,8,Defense,Pull,,,Allan L,5.507,Wooten,Breault,Allan L,Hicks,Trenton,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,4216
+2016-04-09 19:00,,Charlotte Express,70,D,11,8,Defense,Throwaway,,,Anonymous,,Wooten,Breault,Allan L,Hicks,Trenton,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,4244
+2016-04-09 19:00,,Charlotte Express,70,D,11,8,Offense,Catch,Allan L,Hicks,,,Wooten,Breault,Allan L,Hicks,Trenton,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,4258
+2016-04-09 19:00,,Charlotte Express,70,D,11,8,Offense,Catch,Hicks,C Olsen,,,Wooten,Breault,Allan L,Hicks,Trenton,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,4261
+2016-04-09 19:00,,Charlotte Express,70,D,11,8,Offense,Catch,C Olsen,Allan L,,,Wooten,Breault,Allan L,Hicks,Trenton,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,4265
+2016-04-09 19:00,,Charlotte Express,70,D,11,8,Offense,Catch,Allan L,Sears,,,Wooten,Breault,Allan L,Hicks,Trenton,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,4268
+2016-04-09 19:00,,Charlotte Express,70,D,11,8,Offense,Catch,Sears,Trenton,,,Wooten,Breault,Allan L,Hicks,Trenton,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,4272
+2016-04-09 19:00,,Charlotte Express,70,D,11,8,Offense,Catch,Trenton,Allan L,,,Wooten,Breault,Allan L,Hicks,Trenton,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,4276
+2016-04-09 19:00,,Charlotte Express,70,D,11,8,Offense,Goal,Allan L,Sears,,,Wooten,Breault,Allan L,Hicks,Trenton,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,4284
+2016-04-09 19:00,,Charlotte Express,105,D,12,8,Defense,Pull,,,Runner,5.779,Runner,JP Burns,Bradham,Erickson,Vickroy,Boecking,C Olsen,,,,,,,,,,,,,,,,,,,,,,4439
+2016-04-09 19:00,,Charlotte Express,105,D,12,8,Defense,Throwaway,,,Anonymous,,Runner,JP Burns,Bradham,Erickson,Vickroy,Boecking,C Olsen,,,,,,,,,,,,,,,,,,,,,,4482
+2016-04-09 19:00,,Charlotte Express,105,D,12,8,Offense,Catch,Runner,Boecking,,,Runner,JP Burns,Bradham,Erickson,Vickroy,Boecking,C Olsen,,,,,,,,,,,,,,,,,,,,,,4504
+2016-04-09 19:00,,Charlotte Express,105,D,12,8,Offense,Catch,Boecking,Bradham,,,Runner,JP Burns,Bradham,Erickson,Vickroy,Boecking,C Olsen,,,,,,,,,,,,,,,,,,,,,,4507
+2016-04-09 19:00,,Charlotte Express,105,D,12,8,Offense,Catch,Bradham,Runner,,,Runner,JP Burns,Bradham,Erickson,Vickroy,Boecking,C Olsen,,,,,,,,,,,,,,,,,,,,,,4512
+2016-04-09 19:00,,Charlotte Express,105,D,12,8,Offense,Catch,Runner,Boecking,,,Runner,JP Burns,Bradham,Erickson,Vickroy,Boecking,C Olsen,,,,,,,,,,,,,,,,,,,,,,4515
+2016-04-09 19:00,,Charlotte Express,105,D,12,8,Offense,Catch,Boecking,Erickson,,,Runner,JP Burns,Bradham,Erickson,Vickroy,Boecking,C Olsen,,,,,,,,,,,,,,,,,,,,,,4520
+2016-04-09 19:00,,Charlotte Express,105,D,12,8,Offense,Catch,Erickson,Vickroy,,,Runner,JP Burns,Bradham,Erickson,Vickroy,Boecking,C Olsen,,,,,,,,,,,,,,,,,,,,,,4524
+2016-04-09 19:00,,Charlotte Express,105,D,12,8,Offense,Catch,Vickroy,Boecking,,,Runner,JP Burns,Bradham,Erickson,Vickroy,Boecking,C Olsen,,,,,,,,,,,,,,,,,,,,,,4528
+2016-04-09 19:00,,Charlotte Express,105,D,12,8,Offense,Catch,Boecking,Runner,,,Runner,JP Burns,Bradham,Erickson,Vickroy,Boecking,C Olsen,,,,,,,,,,,,,,,,,,,,,,4532
+2016-04-09 19:00,,Charlotte Express,105,D,12,8,Offense,Goal,Runner,Vickroy,,,Runner,JP Burns,Bradham,Erickson,Vickroy,Boecking,C Olsen,,,,,,,,,,,,,,,,,,,,,,4542
+2016-04-09 19:00,,Charlotte Express,22,D,12,9,Defense,Pull,,,Allan L,7.301,Wooten,Breault,Tree,Allan L,Trenton,Bradham,Sears,,,,,,,,,,,,,,,,,,,,,,4598
+2016-04-09 19:00,,Charlotte Express,22,D,12,9,Defense,Goal,,,Anonymous,,Wooten,Breault,Tree,Allan L,Trenton,Bradham,Sears,,,,,,,,,,,,,,,,,,,,,,4618
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Dylan,Poole,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4683
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Poole,C Olsen,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4692
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,C Olsen,Boecking,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4697
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Drop,Boecking,Gainer,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4713
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Defense,D,,,Boecking,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4730
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Boecking,Leonard,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4734
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Leonard,Kyle S,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4738
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Kyle S,Poole,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4742
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Poole,Kyle S,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4746
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Kyle S,Leonard,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4768
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Leonard,Gainer,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4772
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Gainer,Leonard,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4778
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Leonard,C Olsen,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4782
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,C Olsen,Boecking,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4785
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Boecking,Kyle S,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4789
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Kyle S,Poole,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4794
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Poole,Dylan,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4800
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Dylan,Gainer,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4804
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Gainer,Leonard,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4808
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Catch,Leonard,Poole,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4812
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Throwaway,Poole,Anonymous,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4820
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Defense,D,,,C Olsen,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4887
+2016-04-09 19:00,,Charlotte Express,217,O,13,9,Offense,Goal,Kyle S,Trenton,,,Kyle S,Poole,Trenton,Leonard,Boecking,C Olsen,Gainer,,,,,,,,,,,,,,,,,,,,,,4898
+2016-04-09 19:00,,Charlotte Express,48,D,14,9,Defense,Pull,,,Allan L,7.795,Tree,Runner,JP Burns,Allan L,Bradham,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,4957
+2016-04-09 19:00,,Charlotte Express,48,D,14,9,Defense,Throwaway,,,Anonymous,,Tree,Runner,JP Burns,Allan L,Bradham,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,4988
+2016-04-09 19:00,,Charlotte Express,48,D,14,9,Offense,Goal,Allan L,Tree,,,Tree,Runner,JP Burns,Allan L,Bradham,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,5003
+2016-04-09 19:00,,Charlotte Express,23,D,14,9,Defense,Pull,,,Allan L,8.274,Wooten,Breault,Allan L,Hicks,Bradham,Boecking,C Olsen,,,,,,,,,,,,,,,,,,,,,,5063
+2016-04-09 19:00,,Charlotte Express,23,D,14,9,Defense,D,,,Wooten,,Wooten,Breault,Allan L,Hicks,Bradham,Boecking,C Olsen,,,,,,,,,,,,,,,,,,,,,,5076
+2016-04-09 19:00,,Charlotte Express,23,D,14,9,Cessation,EndOfThirdQuarter,,,,,Wooten,Breault,Allan L,Hicks,Bradham,Boecking,C Olsen,,,,,,,,,,,,,,,,,,,,,,5084
+2016-04-09 19:00,,Charlotte Express,34,O,15,9,Offense,Catch,Dylan,Kyle S,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5236
+2016-04-09 19:00,,Charlotte Express,34,O,15,9,Offense,Catch,Kyle S,Erickson,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5244
+2016-04-09 19:00,,Charlotte Express,34,O,15,9,Offense,Catch,Erickson,Gainer,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5247
+2016-04-09 19:00,,Charlotte Express,34,O,15,9,Offense,Catch,Gainer,Kyle S,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5252
+2016-04-09 19:00,,Charlotte Express,34,O,15,9,Offense,Catch,Kyle S,Trenton,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5256
+2016-04-09 19:00,,Charlotte Express,34,O,15,9,Offense,Catch,Trenton,Kyle S,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5260
+2016-04-09 19:00,,Charlotte Express,34,O,15,9,Offense,Catch,Kyle S,Dylan,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5263
+2016-04-09 19:00,,Charlotte Express,34,O,15,9,Offense,Goal,Dylan,Gainer,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5268
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Defense,Pull,,,Allan L,8.604,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5365
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Defense,Throwaway,,,Anonymous,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5384
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Offense,Catch,Tree,Vickroy,,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5403
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Offense,Catch,Vickroy,Allan L,,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5407
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Offense,Catch,Allan L,Tree,,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5411
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Offense,Catch,Tree,Allan L,,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5414
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Offense,Catch,Allan L,C Olsen,,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5440
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Offense,Catch,C Olsen,Vickroy,,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5444
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Offense,Catch,Vickroy,Tree,,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5448
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Offense,Catch,Tree,C Olsen,,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5452
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Offense,Catch,C Olsen,Vickroy,,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5455
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Offense,Drop,Vickroy,C Olsen,,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5500
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Defense,D,,,JP Burns,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5553
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Offense,Catch,Tree,JP Burns,,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5565
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Offense,Catch,JP Burns,C Olsen,,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5586
+2016-04-09 19:00,,Charlotte Express,227,D,16,9,Offense,Goal,C Olsen,Bradham,,,Tree,JP Burns,Allan L,Bradham,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,5590
+2016-04-09 19:00,,Charlotte Express,34,D,16,10,Defense,Pull,,,Allan L,6.363,Wooten,Breault,Runner,Allan L,Hicks,Vickroy,Boecking,,,,,,,,,,,,,,,,,,,,,,5654
+2016-04-09 19:00,,Charlotte Express,34,D,16,10,Defense,Goal,,,Anonymous,,Wooten,Breault,Runner,Allan L,Hicks,Vickroy,Boecking,,,,,,,,,,,,,,,,,,,,,,5686
+2016-04-09 19:00,,Charlotte Express,171,O,16,11,Offense,Catch,Kyle S,Trenton,,,Kyle S,JP Burns,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5763
+2016-04-09 19:00,,Charlotte Express,171,O,16,11,Offense,Catch,Trenton,Kyle S,,,Kyle S,JP Burns,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5772
+2016-04-09 19:00,,Charlotte Express,171,O,16,11,Offense,Catch,Kyle S,Dylan,,,Kyle S,JP Burns,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5797
+2016-04-09 19:00,,Charlotte Express,171,O,16,11,Offense,Throwaway,Dylan,Anonymous,,,Kyle S,JP Burns,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5806
+2016-04-09 19:00,,Charlotte Express,171,O,16,11,Defense,Goal,,,Anonymous,,Kyle S,JP Burns,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5932
+2016-04-09 19:00,,Charlotte Express,76,O,17,11,Offense,Catch,Runner,C Olsen,,,Tree,Runner,Allan L,Vickroy,Boecking,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6007
+2016-04-09 19:00,,Charlotte Express,76,O,17,11,Offense,Catch,C Olsen,Boecking,,,Tree,Runner,Allan L,Vickroy,Boecking,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6036
+2016-04-09 19:00,,Charlotte Express,76,O,17,11,Offense,Catch,Boecking,Runner,,,Tree,Runner,Allan L,Vickroy,Boecking,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6040
+2016-04-09 19:00,,Charlotte Express,76,O,17,11,Offense,Catch,Runner,Boecking,,,Tree,Runner,Allan L,Vickroy,Boecking,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6044
+2016-04-09 19:00,,Charlotte Express,76,O,17,11,Offense,Catch,Boecking,Tree,,,Tree,Runner,Allan L,Vickroy,Boecking,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6048
+2016-04-09 19:00,,Charlotte Express,76,O,17,11,Offense,Catch,Tree,Vickroy,,,Tree,Runner,Allan L,Vickroy,Boecking,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6052
+2016-04-09 19:00,,Charlotte Express,76,O,17,11,Offense,Catch,Vickroy,Boecking,,,Tree,Runner,Allan L,Vickroy,Boecking,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6056
+2016-04-09 19:00,,Charlotte Express,76,O,17,11,Offense,Catch,Boecking,Runner,,,Tree,Runner,Allan L,Vickroy,Boecking,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6060
+2016-04-09 19:00,,Charlotte Express,76,O,17,11,Offense,Catch,Runner,Allan L,,,Tree,Runner,Allan L,Vickroy,Boecking,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6064
+2016-04-09 19:00,,Charlotte Express,76,O,17,11,Offense,Catch,Allan L,Vickroy,,,Tree,Runner,Allan L,Vickroy,Boecking,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6068
+2016-04-09 19:00,,Charlotte Express,76,O,17,11,Offense,Catch,Vickroy,Allan L,,,Tree,Runner,Allan L,Vickroy,Boecking,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6072
+2016-04-09 19:00,,Charlotte Express,76,O,17,11,Offense,Catch,Allan L,C Olsen,,,Tree,Runner,Allan L,Vickroy,Boecking,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6076
+2016-04-09 19:00,,Charlotte Express,76,O,17,11,Offense,Goal,C Olsen,Sears,,,Tree,Runner,Allan L,Vickroy,Boecking,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6081
+2016-04-09 19:00,,Charlotte Express,40,D,17,12,Defense,Pull,,,Allan L,7.248,Wooten,Breault,Runner,JP Burns,Allan L,Bradham,Gainer,,,,,,,,,,,,,,,,,,,,,,6139
+2016-04-09 19:00,,Charlotte Express,40,D,17,12,Defense,Goal,,,Anonymous,,Wooten,Breault,Runner,JP Burns,Allan L,Bradham,Gainer,,,,,,,,,,,,,,,,,,,,,,6177
+2016-04-09 19:00,,Charlotte Express,135,O,17,13,Offense,Catch,Hicks,Leonard,,,Kyle S,Dylan,Poole,Hicks,Trenton,Bradham,Leonard,,,,,,,,,,,,,,,,,,,,,,6233
+2016-04-09 19:00,,Charlotte Express,135,O,17,13,Offense,Catch,Leonard,Erickson,,,Kyle S,Dylan,Poole,Hicks,Trenton,Bradham,Leonard,,,,,,,,,,,,,,,,,,,,,,6242
+2016-04-09 19:00,,Charlotte Express,135,O,17,13,Offense,Catch,Erickson,Dylan,,,Kyle S,Dylan,Poole,Hicks,Trenton,Bradham,Leonard,,,,,,,,,,,,,,,,,,,,,,6245
+2016-04-09 19:00,,Charlotte Express,135,O,17,13,Offense,Catch,Dylan,Hicks,,,Kyle S,Dylan,Poole,Hicks,Trenton,Bradham,Leonard,,,,,,,,,,,,,,,,,,,,,,6250
+2016-04-09 19:00,,Charlotte Express,135,O,17,13,Offense,Catch,Hicks,Poole,,,Kyle S,Dylan,Poole,Hicks,Trenton,Bradham,Leonard,,,,,,,,,,,,,,,,,,,,,,6256
+2016-04-09 19:00,,Charlotte Express,135,O,17,13,Offense,Catch,Poole,Trenton,,,Kyle S,Dylan,Poole,Hicks,Trenton,Bradham,Leonard,,,,,,,,,,,,,,,,,,,,,,6262
+2016-04-09 19:00,,Charlotte Express,135,O,17,13,Offense,Catch,Trenton,Leonard,,,Kyle S,Dylan,Poole,Hicks,Trenton,Bradham,Leonard,,,,,,,,,,,,,,,,,,,,,,6268
+2016-04-09 19:00,,Charlotte Express,135,O,17,13,Offense,Catch,Leonard,Erickson,,,Kyle S,Dylan,Poole,Hicks,Trenton,Bradham,Leonard,,,,,,,,,,,,,,,,,,,,,,6272
+2016-04-09 19:00,,Charlotte Express,135,O,17,13,Offense,Catch,Erickson,Trenton,,,Kyle S,Dylan,Poole,Hicks,Trenton,Bradham,Leonard,,,,,,,,,,,,,,,,,,,,,,6276
+2016-04-09 19:00,,Charlotte Express,135,O,17,13,Offense,Catch,Trenton,Leonard,,,Kyle S,Dylan,Poole,Hicks,Trenton,Bradham,Leonard,,,,,,,,,,,,,,,,,,,,,,6280
+2016-04-09 19:00,,Charlotte Express,135,O,17,13,Offense,Throwaway,Leonard,Anonymous,,,Kyle S,Dylan,Poole,Hicks,Trenton,Bradham,Leonard,,,,,,,,,,,,,,,,,,,,,,6295
+2016-04-09 19:00,,Charlotte Express,135,O,17,13,Defense,Goal,,,Anonymous,,Kyle S,Dylan,Poole,Hicks,Trenton,Bradham,Leonard,,,,,,,,,,,,,,,,,,,,,,6366
+2016-04-09 19:00,,Charlotte Express,51,O,18,13,Offense,Catch,JP Burns,Runner,,,Runner,JP Burns,Allan L,Vickroy,Boecking,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,6513
+2016-04-09 19:00,,Charlotte Express,51,O,18,13,Offense,Catch,Runner,Boecking,,,Runner,JP Burns,Allan L,Vickroy,Boecking,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,6522
+2016-04-09 19:00,,Charlotte Express,51,O,18,13,Offense,Catch,Boecking,Vickroy,,,Runner,JP Burns,Allan L,Vickroy,Boecking,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,6526
+2016-04-09 19:00,,Charlotte Express,51,O,18,13,Offense,Catch,Vickroy,Allan L,,,Runner,JP Burns,Allan L,Vickroy,Boecking,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,6530
+2016-04-09 19:00,,Charlotte Express,51,O,18,13,Offense,Catch,Allan L,JP Burns,,,Runner,JP Burns,Allan L,Vickroy,Boecking,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,6534
+2016-04-09 19:00,,Charlotte Express,51,O,18,13,Offense,Catch,JP Burns,Vickroy,,,Runner,JP Burns,Allan L,Vickroy,Boecking,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,6538
+2016-04-09 19:00,,Charlotte Express,51,O,18,13,Offense,Catch,Vickroy,Boecking,,,Runner,JP Burns,Allan L,Vickroy,Boecking,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,6542
+2016-04-09 19:00,,Charlotte Express,51,O,18,13,Offense,Catch,Boecking,Runner,,,Runner,JP Burns,Allan L,Vickroy,Boecking,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,6546
+2016-04-09 19:00,,Charlotte Express,51,O,18,13,Offense,Catch,Runner,JP Burns,,,Runner,JP Burns,Allan L,Vickroy,Boecking,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,6550
+2016-04-09 19:00,,Charlotte Express,51,O,18,13,Offense,Catch,JP Burns,Vickroy,,,Runner,JP Burns,Allan L,Vickroy,Boecking,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,6554
+2016-04-09 19:00,,Charlotte Express,51,O,18,13,Offense,Catch,Vickroy,Allan L,,,Runner,JP Burns,Allan L,Vickroy,Boecking,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,6558
+2016-04-09 19:00,,Charlotte Express,51,O,18,13,Offense,Goal,Allan L,Sears,,,Runner,JP Burns,Allan L,Vickroy,Boecking,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,6562
+2016-04-09 19:00,,Charlotte Express,30,D,18,14,Defense,PullOb,,,Allan L,,Breault,Tree,Allan L,Trenton,Bradham,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6623
+2016-04-09 19:00,,Charlotte Express,30,D,18,14,Defense,Goal,,,Anonymous,,Breault,Tree,Allan L,Trenton,Bradham,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6651
+2016-04-09 19:00,,Charlotte Express,44,O,18,15,Offense,Catch,Leonard,Kyle S,,,Kyle S,Dylan,Poole,Hicks,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,6705
+2016-04-09 19:00,,Charlotte Express,44,O,18,15,Offense,Catch,Kyle S,Poole,,,Kyle S,Dylan,Poole,Hicks,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,6714
+2016-04-09 19:00,,Charlotte Express,44,O,18,15,Offense,Throwaway,Poole,Anonymous,,,Kyle S,Dylan,Poole,Hicks,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,6723
+2016-04-09 19:00,,Charlotte Express,44,O,18,15,Defense,Goal,,,Anonymous,,Kyle S,Dylan,Poole,Hicks,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,6747
+2016-04-09 19:00,,Charlotte Express,22,O,18,16,Offense,Drop,Runner,Tree,,,Tree,Runner,JP Burns,Allan L,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6809
+2016-04-09 19:00,,Charlotte Express,22,O,18,16,Defense,Goal,,,Anonymous,,Tree,Runner,JP Burns,Allan L,Vickroy,C Olsen,Sears,,,,,,,,,,,,,,,,,,,,,,6829
+2016-04-09 19:00,,Charlotte Express,73,O,18,16,Offense,Catch,Kyle S,Leonard,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,6886
+2016-04-09 19:00,,Charlotte Express,73,O,18,16,Offense,Catch,Leonard,Gainer,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,6898
+2016-04-09 19:00,,Charlotte Express,73,O,18,16,Offense,Catch,Gainer,Boecking,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,6902
+2016-04-09 19:00,,Charlotte Express,73,O,18,16,Offense,Catch,Boecking,Leonard,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,6906
+2016-04-09 19:00,,Charlotte Express,73,O,18,16,Offense,Catch,Leonard,Dylan,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,6910
+2016-04-09 19:00,,Charlotte Express,73,O,18,16,Offense,Throwaway,Dylan,Anonymous,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,6921
+2016-04-09 19:00,,Charlotte Express,73,O,18,16,Defense,D,,,Dylan,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,6934
+2016-04-09 19:00,,Charlotte Express,73,O,18,16,Offense,Catch,Dylan,Leonard,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,6947
+2016-04-09 19:00,,Charlotte Express,73,O,18,16,Cessation,GameOver,,,,,Kyle S,Dylan,Poole,Trenton,Leonard,Boecking,Gainer,,,,,,,,,,,,,,,,,,,,,,6957
+2016-04-02 19:05,,Nashville Nightwatch,73,O,1,0,Offense,Catch,Kyle S,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,0
+2016-04-02 19:05,,Nashville Nightwatch,73,O,1,0,Offense,Catch,Dylan,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,17
+2016-04-02 19:05,,Nashville Nightwatch,73,O,1,0,Offense,Catch,A Taylor,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,26
+2016-04-02 19:05,,Nashville Nightwatch,73,O,1,0,Offense,Catch,Kyle S,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,30
+2016-04-02 19:05,,Nashville Nightwatch,73,O,1,0,Offense,Catch,Poole,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,33
+2016-04-02 19:05,,Nashville Nightwatch,73,O,1,0,Offense,Catch,Gainer,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,37
+2016-04-02 19:05,,Nashville Nightwatch,73,O,1,0,Offense,Catch,Poole,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,43
+2016-04-02 19:05,,Nashville Nightwatch,73,O,1,0,Offense,Catch,Gainer,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,47
+2016-04-02 19:05,,Nashville Nightwatch,73,O,1,0,Offense,Catch,Poole,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,51
+2016-04-02 19:05,,Nashville Nightwatch,73,O,1,0,Offense,Catch,A Taylor,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,55
+2016-04-02 19:05,,Nashville Nightwatch,73,O,1,0,Offense,Catch,Poole,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,59
+2016-04-02 19:05,,Nashville Nightwatch,73,O,1,0,Offense,Catch,A Taylor,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,63
+2016-04-02 19:05,,Nashville Nightwatch,73,O,1,0,Offense,Catch,Poole,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,67
+2016-04-02 19:05,,Nashville Nightwatch,73,O,1,0,Offense,Goal,Gainer,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,71
+2016-04-02 19:05,,Nashville Nightwatch,129,D,1,1,Defense,Pull,,,Runner,4.629,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,129
+2016-04-02 19:05,,Nashville Nightwatch,129,D,1,1,Defense,Throwaway,,,Anonymous,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,178
+2016-04-02 19:05,,Nashville Nightwatch,129,D,1,1,Offense,Catch,Runner,JP Burns,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,181
+2016-04-02 19:05,,Nashville Nightwatch,129,D,1,1,Offense,Catch,JP Burns,Sun,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,185
+2016-04-02 19:05,,Nashville Nightwatch,129,D,1,1,Offense,Catch,Sun,JP Burns,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,189
+2016-04-02 19:05,,Nashville Nightwatch,129,D,1,1,Offense,Catch,JP Burns,Berendes,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,193
+2016-04-02 19:05,,Nashville Nightwatch,129,D,1,1,Offense,Catch,Berendes,Vickroy,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,197
+2016-04-02 19:05,,Nashville Nightwatch,129,D,1,1,Offense,Catch,Berendes,Runner,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,206
+2016-04-02 19:05,,Nashville Nightwatch,129,D,1,1,Offense,Catch,Runner,JP Burns,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,210
+2016-04-02 19:05,,Nashville Nightwatch,129,D,1,1,Offense,Catch,JP Burns,Vickroy,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,214
+2016-04-02 19:05,,Nashville Nightwatch,129,D,1,1,Offense,Catch,Vickroy,Runner,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,219
+2016-04-02 19:05,,Nashville Nightwatch,129,D,1,1,Offense,Catch,Runner,A Olsen,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,228
+2016-04-02 19:05,,Nashville Nightwatch,129,D,1,1,Offense,Drop,A Olsen,Berendes,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,232
+2016-04-02 19:05,,Nashville Nightwatch,129,D,1,1,Defense,Goal,,,Anonymous,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,256
+2016-04-02 19:05,,Nashville Nightwatch,67,O,1,2,Offense,Catch,Dylan,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,336
+2016-04-02 19:05,,Nashville Nightwatch,67,O,1,2,Offense,Catch,Poole,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,345
+2016-04-02 19:05,,Nashville Nightwatch,67,O,1,2,Offense,Catch,Dylan,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,349
+2016-04-02 19:05,,Nashville Nightwatch,67,O,1,2,Offense,Catch,Gainer,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,353
+2016-04-02 19:05,,Nashville Nightwatch,67,O,1,2,Offense,Catch,Dylan,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,357
+2016-04-02 19:05,,Nashville Nightwatch,67,O,1,2,Offense,Catch,Poole,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,361
+2016-04-02 19:05,,Nashville Nightwatch,67,O,1,2,Offense,Catch,Gainer,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,365
+2016-04-02 19:05,,Nashville Nightwatch,67,O,1,2,Offense,Throwaway,Kyle S,Anonymous,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,369
+2016-04-02 19:05,,Nashville Nightwatch,67,O,1,2,Defense,Throwaway,,,Anonymous,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,377
+2016-04-02 19:05,,Nashville Nightwatch,67,O,1,2,Offense,Catch,Dylan,Trenton,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,387
+2016-04-02 19:05,,Nashville Nightwatch,67,O,1,2,Offense,Throwaway,Trenton,Anonymous,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,391
+2016-04-02 19:05,,Nashville Nightwatch,67,O,1,2,Defense,Goal,,,Anonymous,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,401
+2016-04-02 19:05,,Nashville Nightwatch,79,O,1,3,Offense,Catch,Kyle S,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,450
+2016-04-02 19:05,,Nashville Nightwatch,79,O,1,3,Offense,Catch,Dylan,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,458
+2016-04-02 19:05,,Nashville Nightwatch,79,O,1,3,Offense,Catch,Kyle S,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,462
+2016-04-02 19:05,,Nashville Nightwatch,79,O,1,3,Offense,Catch,Dylan,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,466
+2016-04-02 19:05,,Nashville Nightwatch,79,O,1,3,Offense,Catch,Poole,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,470
+2016-04-02 19:05,,Nashville Nightwatch,79,O,1,3,Offense,Catch,Dylan,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,474
+2016-04-02 19:05,,Nashville Nightwatch,79,O,1,3,Offense,Catch,Gainer,Erickson,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,478
+2016-04-02 19:05,,Nashville Nightwatch,79,O,1,3,Offense,Catch,Erickson,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,482
+2016-04-02 19:05,,Nashville Nightwatch,79,O,1,3,Offense,Catch,A Taylor,Erickson,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,486
+2016-04-02 19:05,,Nashville Nightwatch,79,O,1,3,Offense,Catch,Erickson,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,489
+2016-04-02 19:05,,Nashville Nightwatch,79,O,1,3,Offense,Throwaway,Kyle S,Anonymous,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,495
+2016-04-02 19:05,,Nashville Nightwatch,79,O,1,3,Defense,Goal,,,Anonymous,,A Taylor,Kyle S,Dylan,Poole,Trenton,Erickson,Gainer,,,,,,,,,,,,,,,,,,,,,,527
+2016-04-02 19:05,,Nashville Nightwatch,304,O,1,4,Offense,Catch,Allan L,Runner,,,Tree,Runner,JP Burns,Allan L,Sun,Leonard,Vickroy,,,,,,,,,,,,,,,,,,,,,,579
+2016-04-02 19:05,,Nashville Nightwatch,304,O,1,4,Offense,Catch,Runner,Leonard,,,Tree,Runner,JP Burns,Allan L,Sun,Leonard,Vickroy,,,,,,,,,,,,,,,,,,,,,,588
+2016-04-02 19:05,,Nashville Nightwatch,304,O,1,4,Offense,Catch,Leonard,Tree,,,Tree,Runner,JP Burns,Allan L,Sun,Leonard,Vickroy,,,,,,,,,,,,,,,,,,,,,,593
+2016-04-02 19:05,,Nashville Nightwatch,304,O,1,4,Offense,Catch,Tree,Leonard,,,Tree,Runner,JP Burns,Allan L,Sun,Leonard,Vickroy,,,,,,,,,,,,,,,,,,,,,,597
+2016-04-02 19:05,,Nashville Nightwatch,304,O,1,4,Offense,Catch,Leonard,Allan L,,,Tree,Runner,JP Burns,Allan L,Sun,Leonard,Vickroy,,,,,,,,,,,,,,,,,,,,,,601
+2016-04-02 19:05,,Nashville Nightwatch,304,O,1,4,Offense,Catch,Allan L,JP Burns,,,Tree,Runner,JP Burns,Allan L,Sun,Leonard,Vickroy,,,,,,,,,,,,,,,,,,,,,,604
+2016-04-02 19:05,,Nashville Nightwatch,304,O,1,4,Offense,Drop,JP Burns,Vickroy,,,Tree,Runner,JP Burns,Allan L,Sun,Leonard,Vickroy,,,,,,,,,,,,,,,,,,,,,,610
+2016-04-02 19:05,,Nashville Nightwatch,304,O,1,4,Defense,Throwaway,,,Anonymous,,Tree,Runner,JP Burns,Allan L,Sun,Leonard,Vickroy,,,,,,,,,,,,,,,,,,,,,,615
+2016-04-02 19:05,,Nashville Nightwatch,304,O,1,4,Offense,Drop,Allan L,Runner,,,Tree,Runner,JP Burns,Allan L,Sun,Leonard,Vickroy,,,,,,,,,,,,,,,,,,,,,,647
+2016-04-02 19:05,,Nashville Nightwatch,304,O,1,4,Defense,D,,,Allan L,,Tree,Runner,JP Burns,Allan L,Sun,Leonard,Vickroy,,,,,,,,,,,,,,,,,,,,,,669
+2016-04-02 19:05,,Nashville Nightwatch,304,O,1,4,Offense,Throwaway,Allan L,Anonymous,,,Tree,Runner,JP Burns,Allan L,Sun,Leonard,Vickroy,,,,,,,,,,,,,,,,,,,,,,716
+2016-04-02 19:05,,Nashville Nightwatch,304,O,1,4,Defense,Goal,,,Anonymous,,Tree,Runner,JP Burns,Allan L,Sun,Leonard,Vickroy,,,,,,,,,,,,,,,,,,,,,,881
+2016-04-02 19:05,,Nashville Nightwatch,80,O,2,4,Offense,Catch,Dylan,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,933
+2016-04-02 19:05,,Nashville Nightwatch,80,O,2,4,Offense,Catch,Kyle S,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,941
+2016-04-02 19:05,,Nashville Nightwatch,80,O,2,4,Offense,Catch,Dylan,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,945
+2016-04-02 19:05,,Nashville Nightwatch,80,O,2,4,Offense,Catch,A Taylor,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,948
+2016-04-02 19:05,,Nashville Nightwatch,80,O,2,4,Offense,Drop,Gainer,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,962
+2016-04-02 19:05,,Nashville Nightwatch,80,O,2,4,Defense,D,,,Gainer,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,996
+2016-04-02 19:05,,Nashville Nightwatch,80,O,2,4,Offense,Catch,Gainer,Trenton,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1000
+2016-04-02 19:05,,Nashville Nightwatch,80,O,2,4,Offense,Catch,Trenton,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1004
+2016-04-02 19:05,,Nashville Nightwatch,80,O,2,4,Offense,Catch,Kyle S,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1008
+2016-04-02 19:05,,Nashville Nightwatch,80,O,2,4,Offense,Goal,Poole,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1011
+2016-04-02 19:05,,Nashville Nightwatch,21,D,2,5,Defense,Pull,,,Runner,5.361,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,1076
+2016-04-02 19:05,,Nashville Nightwatch,21,D,2,5,Defense,Goal,,,Anonymous,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,1095
+2016-04-02 19:05,,Nashville Nightwatch,29,O,2,6,Offense,Catch,Dylan,Leonard,,,A Taylor,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1154
+2016-04-02 19:05,,Nashville Nightwatch,29,O,2,6,Offense,Catch,Leonard,A Taylor,,,A Taylor,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1163
+2016-04-02 19:05,,Nashville Nightwatch,29,O,2,6,Offense,Throwaway,A Taylor,Anonymous,,,A Taylor,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1166
+2016-04-02 19:05,,Nashville Nightwatch,29,O,2,6,Defense,Goal,,,Anonymous,,A Taylor,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1181
+2016-04-02 19:05,,Nashville Nightwatch,37,O,3,6,Offense,Catch,Kyle S,Dylan,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1235
+2016-04-02 19:05,,Nashville Nightwatch,37,O,3,6,Offense,Catch,Dylan,Kyle S,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1246
+2016-04-02 19:05,,Nashville Nightwatch,37,O,3,6,Offense,Catch,Kyle S,Gainer,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1250
+2016-04-02 19:05,,Nashville Nightwatch,37,O,3,6,Offense,Catch,Gainer,Erickson,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1254
+2016-04-02 19:05,,Nashville Nightwatch,37,O,3,6,Offense,Catch,Erickson,Poole,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1258
+2016-04-02 19:05,,Nashville Nightwatch,37,O,3,6,Offense,Catch,Poole,Erickson,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1262
+2016-04-02 19:05,,Nashville Nightwatch,37,O,3,6,Offense,Catch,Erickson,Poole,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1266
+2016-04-02 19:05,,Nashville Nightwatch,37,O,3,6,Offense,Goal,Poole,Dylan,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1270
+2016-04-02 19:05,,Nashville Nightwatch,22,D,3,6,Defense,Pull,,,Runner,4.696,Tree,Runner,Bradham,Archie,A Olsen,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,1330
+2016-04-02 19:05,,Nashville Nightwatch,22,D,3,6,Defense,D,,,Kelvin W,,Tree,Runner,Bradham,Archie,A Olsen,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,1346
+2016-04-02 19:05,,Nashville Nightwatch,22,D,3,6,Cessation,EndOfFirstQuarter,,,,,Tree,Runner,Bradham,Archie,A Olsen,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,1350
+2016-04-02 19:05,,Nashville Nightwatch,124,D,3,7,Defense,Pull,,,Allan L,6.748,Tree,Runner,JP Burns,Bradham,Archie,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,1517
+2016-04-02 19:05,,Nashville Nightwatch,124,D,3,7,Defense,D,,,Tree,,Tree,Runner,JP Burns,Bradham,Archie,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,1535
+2016-04-02 19:05,,Nashville Nightwatch,124,D,3,7,Offense,Catch,Tree,Allan L,,,Tree,Runner,JP Burns,Bradham,Archie,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,1538
+2016-04-02 19:05,,Nashville Nightwatch,124,D,3,7,Offense,Catch,Allan L,Sears,,,Tree,Runner,JP Burns,Bradham,Archie,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,1543
+2016-04-02 19:05,,Nashville Nightwatch,124,D,3,7,Offense,Catch,Sears,Allan L,,,Tree,Runner,JP Burns,Bradham,Archie,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,1548
+2016-04-02 19:05,,Nashville Nightwatch,124,D,3,7,Offense,Catch,Anonymous,Runner,,,Tree,Runner,JP Burns,Bradham,Archie,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,1599
+2016-04-02 19:05,,Nashville Nightwatch,124,D,3,7,Offense,Catch,Runner,Tree,,,Tree,Runner,JP Burns,Bradham,Archie,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,1603
+2016-04-02 19:05,,Nashville Nightwatch,124,D,3,7,Offense,Catch,Tree,Archie,,,Tree,Runner,JP Burns,Bradham,Archie,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,1607
+2016-04-02 19:05,,Nashville Nightwatch,124,D,3,7,Offense,Catch,Archie,Tree,,,Tree,Runner,JP Burns,Bradham,Archie,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,1611
+2016-04-02 19:05,,Nashville Nightwatch,124,D,3,7,Offense,Catch,Tree,JP Burns,,,Tree,Runner,JP Burns,Bradham,Archie,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,1615
+2016-04-02 19:05,,Nashville Nightwatch,124,D,3,7,Offense,Drop,JP Burns,Bradham,,,Tree,Runner,JP Burns,Bradham,Archie,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,1619
+2016-04-02 19:05,,Nashville Nightwatch,124,D,3,7,Defense,Goal,,,Anonymous,,Tree,Runner,JP Burns,Bradham,Archie,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,1639
+2016-04-02 19:05,,Nashville Nightwatch,20,O,4,7,Offense,Catch,Dylan,Gainer,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1699
+2016-04-02 19:05,,Nashville Nightwatch,20,O,4,7,Offense,Catch,Gainer,Dylan,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1712
+2016-04-02 19:05,,Nashville Nightwatch,20,O,4,7,Offense,Goal,Dylan,Trenton,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1717
+2016-04-02 19:05,,Nashville Nightwatch,28,D,4,8,Defense,Pull,,,Runner,7.686,Runner,Sun,A Olsen,Vickroy,Berendes,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,1784
+2016-04-02 19:05,,Nashville Nightwatch,28,D,4,8,Defense,Goal,,,Anonymous,,Runner,Sun,A Olsen,Vickroy,Berendes,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,1810
+2016-04-02 19:05,,Nashville Nightwatch,90,O,5,8,Offense,Catch,Dylan,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1860
+2016-04-02 19:05,,Nashville Nightwatch,90,O,5,8,Offense,Catch,Kyle S,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1869
+2016-04-02 19:05,,Nashville Nightwatch,90,O,5,8,Offense,Catch,Dylan,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1873
+2016-04-02 19:05,,Nashville Nightwatch,90,O,5,8,Offense,Throwaway,Kyle S,Anonymous,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1877
+2016-04-02 19:05,,Nashville Nightwatch,90,O,5,8,Defense,Throwaway,,,Anonymous,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1886
+2016-04-02 19:05,,Nashville Nightwatch,90,O,5,8,Offense,Catch,Kyle S,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1903
+2016-04-02 19:05,,Nashville Nightwatch,90,O,5,8,Offense,Catch,Gainer,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1908
+2016-04-02 19:05,,Nashville Nightwatch,90,O,5,8,Offense,Catch,A Taylor,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1911
+2016-04-02 19:05,,Nashville Nightwatch,90,O,5,8,Offense,Catch,Kyle S,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1915
+2016-04-02 19:05,,Nashville Nightwatch,90,O,5,8,Offense,Throwaway,Dylan,Anonymous,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1920
+2016-04-02 19:05,,Nashville Nightwatch,90,O,5,8,Defense,D,,,Kyle S,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1935
+2016-04-02 19:05,,Nashville Nightwatch,90,O,5,8,Offense,Catch,Kyle S,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1940
+2016-04-02 19:05,,Nashville Nightwatch,90,O,5,8,Offense,Goal,A Taylor,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,1948
+2016-04-02 19:05,,Nashville Nightwatch,39,D,5,9,Defense,Pull,,,Allan L,9.172,Tree,JP Burns,Allan L,Archie,A Olsen,Vickroy,Kelvin W,,,,,,,,,,,,,,,,,,,,,,2013
+2016-04-02 19:05,,Nashville Nightwatch,39,D,5,9,Defense,Goal,,,Anonymous,,Tree,JP Burns,Allan L,Archie,A Olsen,Vickroy,Kelvin W,,,,,,,,,,,,,,,,,,,,,,2050
+2016-04-02 19:05,,Nashville Nightwatch,45,O,6,9,Offense,Catch,Kyle S,Poole,,,A Taylor,Kyle S,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2113
+2016-04-02 19:05,,Nashville Nightwatch,45,O,6,9,Offense,Catch,Poole,Leonard,,,A Taylor,Kyle S,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2121
+2016-04-02 19:05,,Nashville Nightwatch,45,O,6,9,Offense,Catch,Leonard,A Taylor,,,A Taylor,Kyle S,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2125
+2016-04-02 19:05,,Nashville Nightwatch,45,O,6,9,Offense,Catch,A Taylor,Poole,,,A Taylor,Kyle S,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2128
+2016-04-02 19:05,,Nashville Nightwatch,45,O,6,9,Offense,Catch,Poole,Gainer,,,A Taylor,Kyle S,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2132
+2016-04-02 19:05,,Nashville Nightwatch,45,O,6,9,Offense,Catch,Gainer,Erickson,,,A Taylor,Kyle S,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2136
+2016-04-02 19:05,,Nashville Nightwatch,45,O,6,9,Offense,Catch,Erickson,A Taylor,,,A Taylor,Kyle S,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2140
+2016-04-02 19:05,,Nashville Nightwatch,45,O,6,9,Offense,Catch,A Taylor,Leonard,,,A Taylor,Kyle S,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2144
+2016-04-02 19:05,,Nashville Nightwatch,45,O,6,9,Offense,Catch,Leonard,A Taylor,,,A Taylor,Kyle S,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2148
+2016-04-02 19:05,,Nashville Nightwatch,45,O,6,9,Offense,Catch,A Taylor,Leonard,,,A Taylor,Kyle S,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2152
+2016-04-02 19:05,,Nashville Nightwatch,45,O,6,9,Offense,Goal,Leonard,Poole,,,A Taylor,Kyle S,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2156
+2016-04-02 19:05,,Nashville Nightwatch,240,D,6,10,Defense,Pull,,,Runner,7.58,Tree,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,2215
+2016-04-02 19:05,,Nashville Nightwatch,240,D,6,10,Defense,Throwaway,,,Anonymous,,Tree,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,2225
+2016-04-02 19:05,,Nashville Nightwatch,240,D,6,10,Offense,Catch,Runner,JP Burns,,,Tree,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,2248
+2016-04-02 19:05,,Nashville Nightwatch,240,D,6,10,Offense,Catch,JP Burns,Sears,,,Tree,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,2252
+2016-04-02 19:05,,Nashville Nightwatch,240,D,6,10,Offense,Catch,Sears,Sun,,,Tree,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,2256
+2016-04-02 19:05,,Nashville Nightwatch,240,D,6,10,Offense,Throwaway,Sun,Anonymous,,,Tree,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,2265
+2016-04-02 19:05,,Nashville Nightwatch,240,D,6,10,Defense,Goal,,,Anonymous,,Tree,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,2453
+2016-04-02 19:05,,Nashville Nightwatch,36,O,7,10,Offense,Catch,Dylan,Kyle S,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2509
+2016-04-02 19:05,,Nashville Nightwatch,36,O,7,10,Offense,Catch,Kyle S,Leonard,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2519
+2016-04-02 19:05,,Nashville Nightwatch,36,O,7,10,Offense,Catch,Leonard,Gainer,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2522
+2016-04-02 19:05,,Nashville Nightwatch,36,O,7,10,Offense,Catch,Gainer,Dylan,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2526
+2016-04-02 19:05,,Nashville Nightwatch,36,O,7,10,Offense,Catch,Dylan,Gainer,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2535
+2016-04-02 19:05,,Nashville Nightwatch,36,O,7,10,Offense,Catch,Gainer,Leonard,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2540
+2016-04-02 19:05,,Nashville Nightwatch,36,O,7,10,Offense,Goal,Leonard,Erickson,,,Kyle S,Dylan,Poole,Trenton,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2543
+2016-04-02 19:05,,Nashville Nightwatch,39,D,8,10,Defense,Pull,,,Allan L,9.782,Tree,JP Burns,Allan L,Sun,A Olsen,Vickroy,Kelvin W,,,,,,,,,,,,,,,,,,,,,,2649
+2016-04-02 19:05,,Nashville Nightwatch,39,D,8,10,Defense,Throwaway,,,Anonymous,,Tree,JP Burns,Allan L,Sun,A Olsen,Vickroy,Kelvin W,,,,,,,,,,,,,,,,,,,,,,2654
+2016-04-02 19:05,,Nashville Nightwatch,39,D,8,10,Offense,Catch,Tree,Allan L,,,Tree,JP Burns,Allan L,Sun,A Olsen,Vickroy,Kelvin W,,,,,,,,,,,,,,,,,,,,,,2674
+2016-04-02 19:05,,Nashville Nightwatch,39,D,8,10,Offense,Catch,Allan L,Vickroy,,,Tree,JP Burns,Allan L,Sun,A Olsen,Vickroy,Kelvin W,,,,,,,,,,,,,,,,,,,,,,2681
+2016-04-02 19:05,,Nashville Nightwatch,39,D,8,10,Offense,Goal,Vickroy,A Olsen,,,Tree,JP Burns,Allan L,Sun,A Olsen,Vickroy,Kelvin W,,,,,,,,,,,,,,,,,,,,,,2686
+2016-04-02 19:05,,Nashville Nightwatch,189,D,9,10,Defense,Pull,,,Runner,6.83,Kyle S,Dylan,Poole,Trenton,A Olsen,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2755
+2016-04-02 19:05,,Nashville Nightwatch,189,D,9,10,Defense,D,,,Sun,,Kyle S,Dylan,Poole,Trenton,A Olsen,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2805
+2016-04-02 19:05,,Nashville Nightwatch,189,D,9,10,Offense,Catch,Runner,Erickson,,,Kyle S,Dylan,Poole,Trenton,A Olsen,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2812
+2016-04-02 19:05,,Nashville Nightwatch,189,D,9,10,Offense,Catch,Erickson,Archie,,,Kyle S,Dylan,Poole,Trenton,A Olsen,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2816
+2016-04-02 19:05,,Nashville Nightwatch,189,D,9,10,Offense,Catch,Anonymous,Leonard,,,Kyle S,Dylan,Poole,Trenton,A Olsen,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2905
+2016-04-02 19:05,,Nashville Nightwatch,189,D,9,10,Offense,Catch,Leonard,Kyle S,,,Kyle S,Dylan,Poole,Trenton,A Olsen,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2917
+2016-04-02 19:05,,Nashville Nightwatch,189,D,9,10,Offense,Catch,Kyle S,Leonard,,,Kyle S,Dylan,Poole,Trenton,A Olsen,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2922
+2016-04-02 19:05,,Nashville Nightwatch,189,D,9,10,Offense,Catch,Leonard,Kyle S,,,Kyle S,Dylan,Poole,Trenton,A Olsen,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2925
+2016-04-02 19:05,,Nashville Nightwatch,189,D,9,10,Offense,Catch,Kyle S,Leonard,,,Kyle S,Dylan,Poole,Trenton,A Olsen,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2929
+2016-04-02 19:05,,Nashville Nightwatch,189,D,9,10,Offense,Catch,Leonard,Dylan,,,Kyle S,Dylan,Poole,Trenton,A Olsen,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2935
+2016-04-02 19:05,,Nashville Nightwatch,189,D,9,10,Offense,Goal,Dylan,Trenton,,,Kyle S,Dylan,Poole,Trenton,A Olsen,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,2942
+2016-04-02 19:05,,Nashville Nightwatch,74,D,9,11,Defense,Pull,,,Runner,5.797,Tree,Runner,JP Burns,Sun,Archie,A Olsen,Vickroy,,,,,,,,,,,,,,,,,,,,,,3011
+2016-04-02 19:05,,Nashville Nightwatch,74,D,9,11,Defense,Goal,,,Anonymous,,Tree,Runner,JP Burns,Sun,Archie,A Olsen,Vickroy,,,,,,,,,,,,,,,,,,,,,,3083
+2016-04-02 19:05,,Nashville Nightwatch,34,O,10,11,Offense,Catch,Kyle S,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3144
+2016-04-02 19:05,,Nashville Nightwatch,34,O,10,11,Offense,Catch,Poole,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3152
+2016-04-02 19:05,,Nashville Nightwatch,34,O,10,11,Offense,Catch,Gainer,Leonard,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3156
+2016-04-02 19:05,,Nashville Nightwatch,34,O,10,11,Offense,Catch,Leonard,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3160
+2016-04-02 19:05,,Nashville Nightwatch,34,O,10,11,Offense,Catch,Poole,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3164
+2016-04-02 19:05,,Nashville Nightwatch,34,O,10,11,Offense,Catch,A Taylor,Leonard,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3168
+2016-04-02 19:05,,Nashville Nightwatch,34,O,10,11,Offense,Catch,Leonard,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3172
+2016-04-02 19:05,,Nashville Nightwatch,34,O,10,11,Offense,Goal,Dylan,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,3176
+2016-04-02 19:05,,Nashville Nightwatch,135,D,10,11,Defense,Pull,,,Runner,8.974,Kyle S,Dylan,Tree,Runner,Berendes,Kelvin W,Gainer,,,,,,,,,,,,,,,,,,,,,,3293
+2016-04-02 19:05,,Nashville Nightwatch,135,D,10,11,Defense,Throwaway,,,Anonymous,,Kyle S,Dylan,Tree,Runner,Berendes,Kelvin W,Gainer,,,,,,,,,,,,,,,,,,,,,,3311
+2016-04-02 19:05,,Nashville Nightwatch,135,D,10,11,Offense,Catch,Runner,Kyle S,,,Kyle S,Dylan,Tree,Runner,Berendes,Kelvin W,Gainer,,,,,,,,,,,,,,,,,,,,,,3413
+2016-04-02 19:05,,Nashville Nightwatch,135,D,10,11,Offense,Catch,Kyle S,Gainer,,,Kyle S,Dylan,Tree,Runner,Berendes,Kelvin W,Gainer,,,,,,,,,,,,,,,,,,,,,,3422
+2016-04-02 19:05,,Nashville Nightwatch,135,D,10,11,Cessation,Halftime,,,,,Kyle S,Dylan,Tree,Runner,Berendes,Kelvin W,Gainer,,,,,,,,,,,,,,,,,,,,,,3426
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,Dylan,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4498
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,Kyle S,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4508
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,Gainer,Leonard,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4514
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,Leonard,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4517
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,A Taylor,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4533
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,Poole,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4536
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,A Taylor,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4542
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,Poole,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4546
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,A Taylor,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4550
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Drop,Kyle S,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4553
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Defense,Throwaway,,,Anonymous,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4569
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,Dylan,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4597
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,Kyle S,Leonard,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4601
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,Leonard,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4605
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,A Taylor,Poole,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4612
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,Poole,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4615
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Catch,Gainer,Leonard,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4620
+2016-04-02 19:05,,Nashville Nightwatch,132,O,11,11,Offense,Goal,Leonard,Trenton,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,4628
+2016-04-02 19:05,,Nashville Nightwatch,102,D,11,12,Defense,Pull,,,Sun,7.79,Tree,JP Burns,Allan L,Sun,Archie,A Olsen,Vickroy,,,,,,,,,,,,,,,,,,,,,,4691
+2016-04-02 19:05,,Nashville Nightwatch,102,D,11,12,Defense,Throwaway,,,Anonymous,,Tree,JP Burns,Allan L,Sun,Archie,A Olsen,Vickroy,,,,,,,,,,,,,,,,,,,,,,4700
+2016-04-02 19:05,,Nashville Nightwatch,102,D,11,12,Offense,Throwaway,Tree,Anonymous,,,Tree,JP Burns,Allan L,Sun,Archie,A Olsen,Vickroy,,,,,,,,,,,,,,,,,,,,,,4728
+2016-04-02 19:05,,Nashville Nightwatch,102,D,11,12,Defense,D,,,A Olsen,,Tree,JP Burns,Allan L,Sun,Archie,A Olsen,Vickroy,,,,,,,,,,,,,,,,,,,,,,4736
+2016-04-02 19:05,,Nashville Nightwatch,102,D,11,12,Offense,Catch,JP Burns,Sun,,,Tree,JP Burns,Allan L,Sun,Archie,A Olsen,Vickroy,,,,,,,,,,,,,,,,,,,,,,4742
+2016-04-02 19:05,,Nashville Nightwatch,102,D,11,12,Offense,Catch,Sun,Allan L,,,Tree,JP Burns,Allan L,Sun,Archie,A Olsen,Vickroy,,,,,,,,,,,,,,,,,,,,,,4745
+2016-04-02 19:05,,Nashville Nightwatch,102,D,11,12,Offense,Catch,Allan L,A Olsen,,,Tree,JP Burns,Allan L,Sun,Archie,A Olsen,Vickroy,,,,,,,,,,,,,,,,,,,,,,4753
+2016-04-02 19:05,,Nashville Nightwatch,102,D,11,12,Offense,Throwaway,A Olsen,Anonymous,,,Tree,JP Burns,Allan L,Sun,Archie,A Olsen,Vickroy,,,,,,,,,,,,,,,,,,,,,,4757
+2016-04-02 19:05,,Nashville Nightwatch,102,D,11,12,Defense,Goal,,,Anonymous,,Tree,JP Burns,Allan L,Sun,Archie,A Olsen,Vickroy,,,,,,,,,,,,,,,,,,,,,,4791
+2016-04-02 19:05,,Nashville Nightwatch,294,O,12,12,Offense,Catch,Poole,Dylan,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,4843
+2016-04-02 19:05,,Nashville Nightwatch,294,O,12,12,Offense,Catch,Dylan,Erickson,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,4853
+2016-04-02 19:05,,Nashville Nightwatch,294,O,12,12,Offense,Catch,Erickson,A Taylor,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,4857
+2016-04-02 19:05,,Nashville Nightwatch,294,O,12,12,Offense,Drop,A Taylor,Gainer,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,4862
+2016-04-02 19:05,,Nashville Nightwatch,294,O,12,12,Defense,D,,,Trenton,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,4883
+2016-04-02 19:05,,Nashville Nightwatch,294,O,12,12,Offense,Throwaway,Dylan,Anonymous,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,4907
+2016-04-02 19:05,,Nashville Nightwatch,294,O,12,12,Defense,D,,,Kelvin W,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,5122
+2016-04-02 19:05,,Nashville Nightwatch,294,O,12,12,Offense,Throwaway,Runner,Anonymous,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,5126
+2016-04-02 19:05,,Nashville Nightwatch,294,O,12,12,Defense,Callahan,,,JP Burns,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,5135
+2016-04-02 19:05,,Nashville Nightwatch,47,D,13,12,Defense,Pull,,,Allan L,7.932,Tree,Runner,Allan L,Sun,Bradham,Archie,Sears,,,,,,,,,,,,,,,,,,,,,,5188
+2016-04-02 19:05,,Nashville Nightwatch,47,D,13,12,Defense,Throwaway,,,Anonymous,,Tree,Runner,Allan L,Sun,Bradham,Archie,Sears,,,,,,,,,,,,,,,,,,,,,,5202
+2016-04-02 19:05,,Nashville Nightwatch,47,D,13,12,Offense,Catch,Runner,Allan L,,,Tree,Runner,Allan L,Sun,Bradham,Archie,Sears,,,,,,,,,,,,,,,,,,,,,,5211
+2016-04-02 19:05,,Nashville Nightwatch,47,D,13,12,Offense,Catch,Allan L,Sun,,,Tree,Runner,Allan L,Sun,Bradham,Archie,Sears,,,,,,,,,,,,,,,,,,,,,,5218
+2016-04-02 19:05,,Nashville Nightwatch,47,D,13,12,Offense,Catch,Sun,Allan L,,,Tree,Runner,Allan L,Sun,Bradham,Archie,Sears,,,,,,,,,,,,,,,,,,,,,,5222
+2016-04-02 19:05,,Nashville Nightwatch,47,D,13,12,Offense,Catch,Allan L,Archie,,,Tree,Runner,Allan L,Sun,Bradham,Archie,Sears,,,,,,,,,,,,,,,,,,,,,,5228
+2016-04-02 19:05,,Nashville Nightwatch,47,D,13,12,Offense,Goal,Archie,Sears,,,Tree,Runner,Allan L,Sun,Bradham,Archie,Sears,,,,,,,,,,,,,,,,,,,,,,5233
+2016-04-02 19:05,,Nashville Nightwatch,63,D,14,12,Defense,Pull,,,Allan L,6.17,Tree,JP Burns,Allan L,Bradham,A Olsen,Vickroy,Kelvin W,,,,,,,,,,,,,,,,,,,,,,5297
+2016-04-02 19:05,,Nashville Nightwatch,63,D,14,12,Defense,D,,,Bradham,,Tree,JP Burns,Allan L,Bradham,A Olsen,Vickroy,Kelvin W,,,,,,,,,,,,,,,,,,,,,,5339
+2016-04-02 19:05,,Nashville Nightwatch,63,D,14,12,Offense,Catch,JP Burns,A Olsen,,,Tree,JP Burns,Allan L,Bradham,A Olsen,Vickroy,Kelvin W,,,,,,,,,,,,,,,,,,,,,,5347
+2016-04-02 19:05,,Nashville Nightwatch,63,D,14,12,Offense,Goal,A Olsen,Allan L,,,Tree,JP Burns,Allan L,Bradham,A Olsen,Vickroy,Kelvin W,,,,,,,,,,,,,,,,,,,,,,5358
+2016-04-02 19:05,,Nashville Nightwatch,73,D,14,13,Defense,PullOb,,,Runner,,Runner,Trenton,Sun,Archie,Vickroy,Berendes,Sears,,,,,,,,,,,,,,,,,,,,,,5427
+2016-04-02 19:05,,Nashville Nightwatch,73,D,14,13,Defense,Goal,,,Anonymous,,Runner,Trenton,Sun,Archie,Vickroy,Berendes,Sears,,,,,,,,,,,,,,,,,,,,,,5498
+2016-04-02 19:05,,Nashville Nightwatch,61,O,15,13,Offense,Catch,Leonard,Poole,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5555
+2016-04-02 19:05,,Nashville Nightwatch,61,O,15,13,Offense,Catch,Poole,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5563
+2016-04-02 19:05,,Nashville Nightwatch,61,O,15,13,Offense,Catch,A Taylor,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5567
+2016-04-02 19:05,,Nashville Nightwatch,61,O,15,13,Offense,Catch,Gainer,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5571
+2016-04-02 19:05,,Nashville Nightwatch,61,O,15,13,Offense,Catch,Dylan,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5575
+2016-04-02 19:05,,Nashville Nightwatch,61,O,15,13,Offense,Catch,A Taylor,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5579
+2016-04-02 19:05,,Nashville Nightwatch,61,O,15,13,Offense,Catch,Kyle S,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5585
+2016-04-02 19:05,,Nashville Nightwatch,61,O,15,13,Offense,Catch,A Taylor,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5588
+2016-04-02 19:05,,Nashville Nightwatch,61,O,15,13,Offense,Catch,Kyle S,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5594
+2016-04-02 19:05,,Nashville Nightwatch,61,O,15,13,Offense,Catch,Dylan,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5601
+2016-04-02 19:05,,Nashville Nightwatch,61,O,15,13,Offense,Goal,Gainer,Poole,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5614
+2016-04-02 19:05,,Nashville Nightwatch,95,D,15,14,Defense,Pull,,,Allan L,6.671,Tree,Runner,JP Burns,Allan L,Sun,Archie,Vickroy,,,,,,,,,,,,,,,,,,,,,,5710
+2016-04-02 19:05,,Nashville Nightwatch,95,D,15,14,Defense,D,,,Tree,,Tree,Runner,JP Burns,Allan L,Sun,Archie,Vickroy,,,,,,,,,,,,,,,,,,,,,,5741
+2016-04-02 19:05,,Nashville Nightwatch,95,D,15,14,Offense,Catch,Runner,Sun,,,Tree,Runner,JP Burns,Allan L,Sun,Archie,Vickroy,,,,,,,,,,,,,,,,,,,,,,5755
+2016-04-02 19:05,,Nashville Nightwatch,95,D,15,14,Offense,Catch,Sun,Runner,,,Tree,Runner,JP Burns,Allan L,Sun,Archie,Vickroy,,,,,,,,,,,,,,,,,,,,,,5768
+2016-04-02 19:05,,Nashville Nightwatch,95,D,15,14,Offense,Drop,Runner,Allan L,,,Tree,Runner,JP Burns,Allan L,Sun,Archie,Vickroy,,,,,,,,,,,,,,,,,,,,,,5782
+2016-04-02 19:05,,Nashville Nightwatch,95,D,15,14,Defense,Goal,,,Anonymous,,Tree,Runner,JP Burns,Allan L,Sun,Archie,Vickroy,,,,,,,,,,,,,,,,,,,,,,5803
+2016-04-02 19:05,,Nashville Nightwatch,28,O,16,14,Offense,Catch,Kyle S,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5856
+2016-04-02 19:05,,Nashville Nightwatch,28,O,16,14,Offense,Catch,Dylan,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5867
+2016-04-02 19:05,,Nashville Nightwatch,28,O,16,14,Offense,Catch,Gainer,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5871
+2016-04-02 19:05,,Nashville Nightwatch,28,O,16,14,Offense,Catch,Kyle S,Leonard,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5875
+2016-04-02 19:05,,Nashville Nightwatch,28,O,16,14,Offense,Catch,Leonard,Erickson,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5879
+2016-04-02 19:05,,Nashville Nightwatch,28,O,16,14,Offense,Goal,Erickson,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Erickson,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,5882
+2016-04-02 19:05,,Nashville Nightwatch,27,D,16,14,Defense,Pull,,,Runner,9.016,Tree,Runner,Bradham,A Olsen,Berendes,Kelvin W,Gainer,,,,,,,,,,,,,,,,,,,,,,5950
+2016-04-02 19:05,,Nashville Nightwatch,27,D,16,14,Defense,Throwaway,,,Anonymous,,Tree,Runner,Bradham,A Olsen,Berendes,Kelvin W,Gainer,,,,,,,,,,,,,,,,,,,,,,5971
+2016-04-02 19:05,,Nashville Nightwatch,27,D,16,14,Cessation,EndOfThirdQuarter,,,,,Tree,Runner,Bradham,A Olsen,Berendes,Kelvin W,Gainer,,,,,,,,,,,,,,,,,,,,,,5975
+2016-04-02 19:05,,Nashville Nightwatch,37,D,16,15,Defense,Pull,,,Allan L,4.826,Allan L,Bradham,Archie,A Olsen,Vickroy,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6160
+2016-04-02 19:05,,Nashville Nightwatch,37,D,16,15,Defense,Goal,,,Anonymous,,Allan L,Bradham,Archie,A Olsen,Vickroy,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6195
+2016-04-02 19:05,,Nashville Nightwatch,59,O,17,15,Offense,Catch,Kyle S,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6283
+2016-04-02 19:05,,Nashville Nightwatch,59,O,17,15,Offense,Catch,Dylan,Trenton,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6293
+2016-04-02 19:05,,Nashville Nightwatch,59,O,17,15,Offense,Catch,Trenton,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6296
+2016-04-02 19:05,,Nashville Nightwatch,59,O,17,15,Offense,Catch,A Taylor,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6303
+2016-04-02 19:05,,Nashville Nightwatch,59,O,17,15,Offense,Catch,Kyle S,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6307
+2016-04-02 19:05,,Nashville Nightwatch,59,O,17,15,Offense,Catch,Dylan,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6310
+2016-04-02 19:05,,Nashville Nightwatch,59,O,17,15,Offense,Catch,A Taylor,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6313
+2016-04-02 19:05,,Nashville Nightwatch,59,O,17,15,Offense,Catch,Gainer,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6319
+2016-04-02 19:05,,Nashville Nightwatch,59,O,17,15,Offense,Catch,A Taylor,Leonard,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6322
+2016-04-02 19:05,,Nashville Nightwatch,59,O,17,15,Offense,Catch,Leonard,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6325
+2016-04-02 19:05,,Nashville Nightwatch,59,O,17,15,Offense,Catch,Dylan,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6329
+2016-04-02 19:05,,Nashville Nightwatch,59,O,17,15,Offense,Catch,Gainer,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6334
+2016-04-02 19:05,,Nashville Nightwatch,59,O,17,15,Offense,Goal,Dylan,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6340
+2016-04-02 19:05,,Nashville Nightwatch,38,D,18,15,Defense,Pull,,,Runner,6.363,Tree,Runner,JP Burns,Sun,A Olsen,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6406
+2016-04-02 19:05,,Nashville Nightwatch,38,D,18,15,Defense,Throwaway,,,Anonymous,,Tree,Runner,JP Burns,Sun,A Olsen,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6418
+2016-04-02 19:05,,Nashville Nightwatch,38,D,18,15,Offense,Catch,Runner,JP Burns,,,Tree,Runner,JP Burns,Sun,A Olsen,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6429
+2016-04-02 19:05,,Nashville Nightwatch,38,D,18,15,Offense,Catch,JP Burns,A Olsen,,,Tree,Runner,JP Burns,Sun,A Olsen,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6433
+2016-04-02 19:05,,Nashville Nightwatch,38,D,18,15,Offense,Catch,A Olsen,Sun,,,Tree,Runner,JP Burns,Sun,A Olsen,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6437
+2016-04-02 19:05,,Nashville Nightwatch,38,D,18,15,Offense,Goal,Sun,Berendes,,,Tree,Runner,JP Burns,Sun,A Olsen,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6442
+2016-04-02 19:05,,Nashville Nightwatch,47,D,19,15,Defense,Pull,,,Allan L,12.914,Allan L,Bradham,Archie,A Olsen,Vickroy,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6510
+2016-04-02 19:05,,Nashville Nightwatch,47,D,19,15,Defense,Throwaway,,,Anonymous,,Allan L,Bradham,Archie,A Olsen,Vickroy,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6539
+2016-04-02 19:05,,Nashville Nightwatch,47,D,19,15,Offense,Goal,Allan L,Vickroy,,,Allan L,Bradham,Archie,A Olsen,Vickroy,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6555
+2016-04-02 19:05,,Nashville Nightwatch,16,D,20,15,Defense,Pull,,,Runner,,Tree,Runner,JP Burns,Sun,Bradham,Vickroy,Berendes,,,,,,,,,,,,,,,,,,,,,,6640
+2016-04-02 19:05,,Nashville Nightwatch,16,D,20,15,Defense,D,,,Tree,,Tree,Runner,JP Burns,Sun,Bradham,Vickroy,Berendes,,,,,,,,,,,,,,,,,,,,,,6644
+2016-04-02 19:05,,Nashville Nightwatch,16,D,20,15,Offense,Catch,Runner,Vickroy,,,Tree,Runner,JP Burns,Sun,Bradham,Vickroy,Berendes,,,,,,,,,,,,,,,,,,,,,,6647
+2016-04-02 19:05,,Nashville Nightwatch,16,D,20,15,Offense,Catch,Vickroy,Sun,,,Tree,Runner,JP Burns,Sun,Bradham,Vickroy,Berendes,,,,,,,,,,,,,,,,,,,,,,6650
+2016-04-02 19:05,,Nashville Nightwatch,16,D,20,15,Offense,Goal,Sun,Tree,,,Tree,Runner,JP Burns,Sun,Bradham,Vickroy,Berendes,,,,,,,,,,,,,,,,,,,,,,6654
+2016-04-02 19:05,,Nashville Nightwatch,121,D,20,16,Defense,PullOb,,,Allan L,,Allan L,Sun,Archie,A Olsen,Erickson,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6712
+2016-04-02 19:05,,Nashville Nightwatch,121,D,20,16,Defense,D,,,Allan L,,Allan L,Sun,Archie,A Olsen,Erickson,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6760
+2016-04-02 19:05,,Nashville Nightwatch,121,D,20,16,Offense,Catch,Allan L,Sun,,,Allan L,Sun,Archie,A Olsen,Erickson,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6781
+2016-04-02 19:05,,Nashville Nightwatch,121,D,20,16,Offense,Catch,Sun,Allan L,,,Allan L,Sun,Archie,A Olsen,Erickson,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6787
+2016-04-02 19:05,,Nashville Nightwatch,121,D,20,16,Offense,Catch,Allan L,Sun,,,Allan L,Sun,Archie,A Olsen,Erickson,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6790
+2016-04-02 19:05,,Nashville Nightwatch,121,D,20,16,Offense,Throwaway,Sun,Anonymous,,,Allan L,Sun,Archie,A Olsen,Erickson,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6796
+2016-04-02 19:05,,Nashville Nightwatch,121,D,20,16,Defense,Goal,,,Anonymous,,Allan L,Sun,Archie,A Olsen,Erickson,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,6831
+2016-04-02 19:05,,Nashville Nightwatch,59,O,21,16,Offense,Catch,Kyle S,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6879
+2016-04-02 19:05,,Nashville Nightwatch,59,O,21,16,Offense,Catch,Dylan,Gainer,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6888
+2016-04-02 19:05,,Nashville Nightwatch,59,O,21,16,Offense,Catch,Gainer,Trenton,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6891
+2016-04-02 19:05,,Nashville Nightwatch,59,O,21,16,Offense,Catch,Trenton,Leonard,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6895
+2016-04-02 19:05,,Nashville Nightwatch,59,O,21,16,Offense,Catch,Leonard,Kyle S,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6900
+2016-04-02 19:05,,Nashville Nightwatch,59,O,21,16,Offense,Catch,Kyle S,Trenton,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6903
+2016-04-02 19:05,,Nashville Nightwatch,59,O,21,16,Offense,Catch,Trenton,Dylan,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6906
+2016-04-02 19:05,,Nashville Nightwatch,59,O,21,16,Offense,Catch,Dylan,A Taylor,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6912
+2016-04-02 19:05,,Nashville Nightwatch,59,O,21,16,Offense,Goal,A Taylor,Leonard,,,A Taylor,Kyle S,Dylan,Poole,Trenton,Leonard,Gainer,,,,,,,,,,,,,,,,,,,,,,6936
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Defense,Pull,,,Runner,5.487,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7016
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Defense,Throwaway,,,Anonymous,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7049
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Catch,Runner,Vickroy,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7070
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Catch,Vickroy,Runner,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7073
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Catch,Runner,A Olsen,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7077
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Catch,A Olsen,Berendes,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7080
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Throwaway,Berendes,Anonymous,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7091
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Defense,Throwaway,,,Anonymous,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7108
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Catch,Runner,A Olsen,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7125
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Catch,A Olsen,Vickroy,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7129
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Catch,Vickroy,Runner,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7133
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Catch,Runner,Sun,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7137
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Catch,Sun,Runner,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7141
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Catch,Runner,Berendes,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7145
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Catch,Berendes,Runner,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7148
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Catch,Runner,JP Burns,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7152
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Catch,JP Burns,Vickroy,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7160
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Catch,Vickroy,JP Burns,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7164
+2016-04-02 19:05,,Nashville Nightwatch,154,D,22,16,Offense,Goal,JP Burns,Vickroy,,,Runner,JP Burns,Sun,A Olsen,Vickroy,Berendes,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7168
+2016-04-02 19:05,,Nashville Nightwatch,61,D,23,16,Defense,Pull,,,Allan L,5.126,Tree,Allan L,Bradham,Archie,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,7224
+2016-04-02 19:05,,Nashville Nightwatch,61,D,23,16,Defense,D,,,Allan L,,Tree,Allan L,Bradham,Archie,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,7256
+2016-04-02 19:05,,Nashville Nightwatch,61,D,23,16,Offense,Catch,Allan L,Erickson,,,Tree,Allan L,Bradham,Archie,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,7259
+2016-04-02 19:05,,Nashville Nightwatch,61,D,23,16,Offense,Catch,Erickson,Tree,,,Tree,Allan L,Bradham,Archie,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,7263
+2016-04-02 19:05,,Nashville Nightwatch,61,D,23,16,Offense,Goal,Tree,Archie,,,Tree,Allan L,Bradham,Archie,Erickson,Sears,Gainer,,,,,,,,,,,,,,,,,,,,,,7283
+2016-04-02 19:05,,Nashville Nightwatch,73,D,24,16,Defense,Pull,,,Vickroy,5.387,Runner,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,7343
+2016-04-02 19:05,,Nashville Nightwatch,73,D,24,16,Defense,Throwaway,,,Anonymous,,Runner,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,7353
+2016-04-02 19:05,,Nashville Nightwatch,73,D,24,16,Offense,Catch,JP Burns,Sun,,,Runner,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,7361
+2016-04-02 19:05,,Nashville Nightwatch,73,D,24,16,Offense,Catch,Sun,Runner,,,Runner,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,7366
+2016-04-02 19:05,,Nashville Nightwatch,73,D,24,16,Offense,Catch,Runner,A Olsen,,,Runner,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,7369
+2016-04-02 19:05,,Nashville Nightwatch,73,D,24,16,Offense,Catch,A Olsen,Vickroy,,,Runner,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,7374
+2016-04-02 19:05,,Nashville Nightwatch,73,D,24,16,Offense,Catch,Vickroy,Runner,,,Runner,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,7379
+2016-04-02 19:05,,Nashville Nightwatch,73,D,24,16,Offense,Catch,Runner,JP Burns,,,Runner,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,7382
+2016-04-02 19:05,,Nashville Nightwatch,73,D,24,16,Offense,Throwaway,JP Burns,Anonymous,,,Runner,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,7389
+2016-04-02 19:05,,Nashville Nightwatch,73,D,24,16,Defense,Throwaway,,,Anonymous,,Runner,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,7398
+2016-04-02 19:05,,Nashville Nightwatch,73,D,24,16,Offense,Goal,Runner,Bradham,,,Runner,JP Burns,Sun,Bradham,A Olsen,Vickroy,Sears,,,,,,,,,,,,,,,,,,,,,,7414
+2016-04-02 19:05,,Nashville Nightwatch,57,D,25,16,Defense,Pull,,,Allan L,10.567,Tree,Allan L,Trenton,Vickroy,Berendes,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7575
+2016-04-02 19:05,,Nashville Nightwatch,57,D,25,16,Defense,Throwaway,,,Anonymous,,Tree,Allan L,Trenton,Vickroy,Berendes,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7586
+2016-04-02 19:05,,Nashville Nightwatch,57,D,25,16,Offense,Goal,Tree,Trenton,,,Tree,Allan L,Trenton,Vickroy,Berendes,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7630
+2016-04-02 19:05,,Nashville Nightwatch,41,D,26,16,Defense,Pull,,,Sun,6.113,Runner,JP Burns,Sun,Bradham,Berendes,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7659
+2016-04-02 19:05,,Nashville Nightwatch,41,D,26,16,Defense,D,,,Kelvin W,,Runner,JP Burns,Sun,Bradham,Berendes,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7686
+2016-04-02 19:05,,Nashville Nightwatch,41,D,26,16,Offense,Goal,Runner,Kelvin W,,,Runner,JP Burns,Sun,Bradham,Berendes,Sears,Kelvin W,,,,,,,,,,,,,,,,,,,,,,7698
+2016-04-02 19:05,,Nashville Nightwatch,82,D,26,16,Defense,PullOb,,,Allan L,,Tree,JP Burns,Allan L,Bradham,A Olsen,Erickson,Vickroy,,,,,,,,,,,,,,,,,,,,,,7770
+2016-04-02 19:05,,Nashville Nightwatch,82,D,26,16,Defense,Throwaway,,,Anonymous,,Tree,JP Burns,Allan L,Bradham,A Olsen,Erickson,Vickroy,,,,,,,,,,,,,,,,,,,,,,7831
+2016-04-02 19:05,,Nashville Nightwatch,82,D,26,16,Cessation,GameOver,,,,,Tree,JP Burns,Allan L,Bradham,A Olsen,Erickson,Vickroy,,,,,,,,,,,,,,,,,,,,,,7850
