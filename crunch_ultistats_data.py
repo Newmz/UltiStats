@@ -8,5 +8,6 @@ for filename in os.listdir(dataDir):
 	print "hello"
 	for playerName in players:
 		print playerName + " played " + str(len(players[playerName]["gameDates"])) + " games"
+		print playerName + " played " + str(players[playerName]["secondsPlayed"]) + " seconds"
 	#do stuff to players (Either store them temporarily or put them in
 	#the csv right away, I haven't thought this through yet)

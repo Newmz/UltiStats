@@ -20,14 +20,15 @@ def process_spreadsheet(fname):
 			for line_ in linereader:
 				line = line_[0].split(",")
 				#compute statistics here.
-				if previousLine != None:
-					#put all statistics that need previous line here
-					print line		
-				#put all statistics that don't need the previous line here
-
 				#It is important that trackgames comes first as it is responsable
 				#for instantiating players into the structure
 				trackGames(players, line)
+				if previousLine != None:
+					#put all statistics that need previous line here
+					a = None
+				if line[12]!="" or line[5]!=previousLine[5] or line[6]!=previousLine[6]:
+						#put all statistics that only get counted once per point here
+						trackSeconds(players, line)
 				#this is the last thing we do each loop
 				previousLine = line
 		except Exception as inst:
@@ -49,11 +50,13 @@ def trackGames(players, line):
 			players[playerName]["gameDates"].add(date)
 		else:
 			players[playerName] = {"gameDates":set([date])}
+			players[playerName]["secondsPlayed"]=0
 	return
 
-dataDir = "data"
-for filename in os.listdir(dataDir):
-	players = process_spreadsheet(dataDir+"/"+filename)
-	print "hello"
-	for playerName in players:
-		print playerName + " played " + str(len(players[playerName]["gameDates"])) + " games"
+def trackSeconds(players, line):
+	playerZeroIndex = 13
+	playerSixIndex  = 19
+	for playerIndex in range(playerZeroIndex, playerSixIndex):
+		playerName = line[playerIndex]
+		players[playerName]["secondsPlayed"]+=int(line[3])
+	return
