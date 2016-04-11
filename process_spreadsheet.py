@@ -29,6 +29,8 @@ def process_spreadsheet(fname):
 				if line[12]!="" or line[5]!=previousLine[5] or line[6]!=previousLine[6]:
 						#put all statistics that only get counted once per point here
 						trackSeconds(players, line)
+						trackOPoints(players, line)
+						trackDPoints(players, line)
 				#this is the last thing we do each loop
 				previousLine = line
 		except Exception as inst:
@@ -51,7 +53,8 @@ def trackGames(players, line):
 		else:
 			players[playerName] = {"gameDates":set([date])}
 			players[playerName]["secondsPlayed"]=0
-	return
+			players[playerName]["OPoints"] = 0
+			players[playerName]["DPoints"] = 0
 
 def trackSeconds(players, line):
 	playerZeroIndex = 13
@@ -59,4 +62,19 @@ def trackSeconds(players, line):
 	for playerIndex in range(playerZeroIndex, playerSixIndex):
 		playerName = line[playerIndex]
 		players[playerName]["secondsPlayed"]+=int(line[3])
-	return
+
+def trackOPoints(players, line):
+	playerZeroIndex = 13
+	playerSixIndex  = 19
+	if line[4]=="O":
+		for playerIndex in range(playerZeroIndex, playerSixIndex):
+			playerName = line[playerIndex]
+			players[playerName]["OPoints"]+=1
+
+def trackDPoints(players, line):
+	playerZeroIndex = 13
+	playerSixIndex  = 19
+	if line[4]=="D":
+		for playerIndex in range(playerZeroIndex, playerSixIndex):
+			playerName = line[playerIndex]
+			players[playerName]["DPoints"]+=1
