@@ -31,6 +31,8 @@ def process_spreadsheet(fname):
 						trackSeconds(players, line)
 						trackOPoints(players, line)
 						trackDPoints(players, line)
+						trackOConversions(players, line, previousLine)
+						trackDConversions(players, line, previousLine)
 				#this is the last thing we do each loop
 				previousLine = line
 		except Exception as inst:
@@ -55,6 +57,8 @@ def trackGames(players, line):
 			players[playerName]["secondsPlayed"]=0
 			players[playerName]["OPoints"] = 0
 			players[playerName]["DPoints"] = 0
+			players[playerName]["OPointConversions"] = 0
+			players[playerName]["DPointConversions"] = 0
 
 def trackSeconds(players, line):
 	playerZeroIndex = 13
@@ -78,3 +82,23 @@ def trackDPoints(players, line):
 		for playerIndex in range(playerZeroIndex, playerSixIndex):
 			playerName = line[playerIndex]
 			players[playerName]["DPoints"]+=1
+
+def trackOConversions(players, line, previousLine):
+	playerZeroIndex = 13
+	playerSixIndex  = 19
+	if line[4]=="O":
+		#check if we scored this O-point
+		if (previousLine == None and line[5]=="1") or line[5]==previousLine[5]+1:
+			for playerIndex in range(playerZeroIndex, playerSixIndex):
+				playerName = line[playerIndex]
+				players[playerName]["OPointConversions"]+=1
+
+def trackDConversions(players, line, previousLine):
+	playerZeroIndex = 13
+	playerSixIndex  = 19
+	if line[4]=="D":
+		#check if we scored this O-point
+		if (previousLine == None and line[5]=="1") or line[5]==previousLine[5]+1:
+			for playerIndex in range(playerZeroIndex, playerSixIndex):
+				playerName = line[playerIndex]
+				players[playerName]["DPointConversions"]+=1
