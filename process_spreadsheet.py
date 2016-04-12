@@ -13,6 +13,7 @@ def process_spreadsheet(fname):
 		header = next(linereader)
 		try:
 			if header != assumed_header:
+				
 				raise Exception("Exception: the header is not what we thought")
 			#We have opened the file and read out the header. Now we read line
 			#by line
@@ -25,7 +26,9 @@ def process_spreadsheet(fname):
 				trackGames(players, line)
 				if previousLine != None:
 					#put all statistics that need previous line here
+					trackTouches(players, line, previousLine)
 					a = None
+				
 				if line[12]!="" or line[5]!=previousLine[5] or line[6]!=previousLine[6]:
 						#put all statistics that only get counted once per point here
 						trackSeconds(players, line)
@@ -39,7 +42,43 @@ def process_spreadsheet(fname):
 			print inst.args
 	return players			
 
-#process_spreadsheet("AtlantaHustle2016-stats.csv")
+#process_spreadsheet("AH2015.csv")
+
+#a touch is recorded when:
+#	a player picks up/catches a pull
+#	a player catches a pass (including for a score)
+#	a callahan
+# this function can easily be modified to track goals/assists/catches.
+
+def trackTouches(players, line, previousLine):
+	#cally
+	if line[7] == "Defense" and line[8] == "Callahan":
+		#print line[11] + " +1 touch (callahan)"
+		pname = line[11]
+		players[pname]["touches"] += 1
+	#cally is the only way to get a touch when line[7] == "defense",
+	# so we can continue
+	if line[7] != "Offense":
+		return
+	#the only way I found out to find if it was from a pull is if
+	#	previousLine[7] == Defense && previousLine[8] == Goal OR
+	#	previousLine[7] == Cessation && line[7] == Offense.
+	#in this case, add a touch for the person throwing AND the person catching.
+	if (previousLine[7] == "Defense" and previousLine[8] == "Goal") or \
+	 (previousLine[7] == "Cessation" and line[7] == "Offense"):
+		#print  line[9] + " +1 touch (pull)"
+		pname = line[9]
+		players[pname]["touches"] += 1
+	if line[8] == "Goal":
+		#print line[10] + " +1 touch (goal)"
+		pname = line[10]
+		players[pname]["touches"] += 1
+
+	elif line[8] == "Catch":
+		#print line[10] + " +1 touch(catch)"
+		pname = line[10]
+		players[pname]["touches"] += 1
+
 
 #If there is a player on this line who hasn't added this game to their
 #stats yet add it
@@ -59,6 +98,7 @@ def trackGames(players, line):
 			players[playerName]["DPoints"] = 0
 			players[playerName]["OPointConversions"] = 0
 			players[playerName]["DPointConversions"] = 0
+			players[playerName]["touches"] = 0
 
 def trackSeconds(players, line):
 	playerZeroIndex = 13
@@ -88,7 +128,7 @@ def trackOConversions(players, line, previousLine):
 	playerSixIndex  = 19
 	if line[4]=="O":
 		#check if we scored this O-point
-		if (previousLine == None and line[5]=="1") or line[5]==previousLine[5]+1:
+		if (previousLine == None and line[5]=="1") or int(line[5])==int(previousLine[5])+1:
 			for playerIndex in range(playerZeroIndex, playerSixIndex):
 				playerName = line[playerIndex]
 				players[playerName]["OPointConversions"]+=1
@@ -98,7 +138,7 @@ def trackDConversions(players, line, previousLine):
 	playerSixIndex  = 19
 	if line[4]=="D":
 		#check if we scored this O-point
-		if (previousLine == None and line[5]=="1") or line[5]==previousLine[5]+1:
+		if (previousLine == None and line[5]=="1") or int(line[5])==int(previousLine[5])+1:
 			for playerIndex in range(playerZeroIndex, playerSixIndex):
 				playerName = line[playerIndex]
 				players[playerName]["DPointConversions"]+=1
