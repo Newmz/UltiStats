@@ -63,6 +63,8 @@ def addPlayer(playerName, players, line):
 	players[playerName]["goals"] = 0
 	players[playerName]["assists"] = 0
 	players[playerName]["Ds"] = 0
+	players[playerName]["catches"] = 0
+	players[playerName]["throws"] = 0
 
 #a touch is recorded when:
 #	a player picks up/catches a pull
@@ -99,6 +101,7 @@ def trackTouches(players, line, previousLine):
 		players[pname]["touches"] += 1
 		players[pname]["goals"] += 1
 		players[line[9]]["assists"] += 1
+		players[line[9]]["throws"] += 1
 	#touch from catch
 	elif line[8] == "Catch":
 		pname = line[10]
@@ -106,7 +109,7 @@ def trackTouches(players, line, previousLine):
 			addPlayer(pname, players, line)
 		players[pname]["touches"] += 1
 		players[pname]["catches"] += 1
-		players[line[9]]["assists"] += 1
+		players[line[9]]["throws"] += 1
 
 
 #If there is a player on this line who hasn't added this game to their
@@ -124,21 +127,8 @@ def trackGames(players, line):
 		if playerName in players:
 			players[playerName]["gameDates"].add(date)
 		else:
-			players[playerName] = {"gameDates":set([date])}
-			players[playerName]["secondsPlayed"]= 0
-			players[playerName]["OPoints"] = 0
-			players[playerName]["DPoints"] = 0
-			players[playerName]["OPointConversions"] = 0
-			players[playerName]["DPointConversions"] = 0
-			players[playerName]["touches"] = 0
-			players[playerName]["pulls"] = 0
-			players[playerName]["pullHangtime"] = 0
-			players[playerName]["timedPulls"] = 0
-			players[playerName]["callahansFor"] = 0
-			players[playerName]["callahansAgainst"] = 0
-			players[playerName]["goals"] = 0
-			players[playerName]["assists"] = 0
-			players[playerName]["Ds"] = 0
+			addPlayer(playerName, players, line)
+
 
 def trackSeconds(players, line):
 	playerZeroIndex = 13
