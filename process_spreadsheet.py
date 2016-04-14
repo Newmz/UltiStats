@@ -12,8 +12,7 @@ def process_spreadsheet(fname):
 		linereader = csv.reader(csvfile, delimiter="\n")
 		header = next(linereader)
 		try:
-			if header != assumed_header:
-				
+			if header != assumed_header: 
 				raise Exception("Exception: the header is not what we thought")
 			#We have opened the file and read out the header. Now we read line
 			#by line
@@ -26,10 +25,10 @@ def process_spreadsheet(fname):
 				trackGames(players, line)
 				if previousLine != None:
 					#put all statistics that need previous line here
-					#trackTouches(players, line, previousLine)
+					trackTouches(players, line, previousLine)
 					a = None
 				
-				if line[12]!="" or line[5]!=previousLine[5] or line[6]!=previousLine[6]:
+				if (len(line)>15) and (line[12]!="" or previousLine is None or line[5]!=previousLine[5] or line[6]!=previousLine[6]):
 						#put all statistics that only get counted once per point here
 						trackSeconds(players, line)
 						trackOPoints(players, line)
@@ -46,6 +45,25 @@ def process_spreadsheet(fname):
 
 #process_spreadsheet("AH2015.csv")
 
+def addPlayer(playerName, players, line):
+	dateTime = line[0].split(" ")
+	date = dateTime[0]
+	players[playerName] = {"gameDates":set([date])}
+	players[playerName]["secondsPlayed"]= 0
+	players[playerName]["OPoints"] = 0
+	players[playerName]["DPoints"] = 0
+	players[playerName]["OPointConversions"] = 0
+	players[playerName]["DPointConversions"] = 0
+	players[playerName]["touches"] = 0
+	players[playerName]["pulls"] = 0
+	players[playerName]["pullHangtime"] = 0
+	players[playerName]["timedPulls"] = 0
+	players[playerName]["callahansFor"] = 0
+	players[playerName]["callahansAgainst"] = 0
+	players[playerName]["goals"] = 0
+	players[playerName]["assists"] = 0
+	players[playerName]["Ds"] = 0
+
 #a touch is recorded when:
 #	a player picks up/catches a pull
 #	a player catches a pass (including for a score)
@@ -55,31 +73,40 @@ def process_spreadsheet(fname):
 def trackTouches(players, line, previousLine):
 	#cally
 	if line[7] == "Defense" and line[8] == "Callahan":
-		#print line[11] + " +1 touch (callahan)"
 		pname = line[11]
+		if pname not in players:
+			addPlayer(pname, players, line)
 		players[pname]["touches"] += 1
+		players[pname]["callahansFor"] += 1
+		players[pname]["goals"] += 1
+		players[pname]["Ds"] += 1
 	#cally is the only way to get a touch when line[7] == "defense",
-	# so we can continue
+	# so we can return early
 	if line[7] != "Offense":
 		return
-	#the only way I found out to find if it was from a pull is if
-	#	previousLine[7] == Defense && previousLine[8] == Goal OR
-	#	previousLine[7] == Cessation && line[7] == Offense.
-	#in this case, add a touch for the person throwing AND the person catching.
+	#touch from pull
 	if (previousLine[7] == "Defense" and previousLine[8] == "Goal") or \
 	 (previousLine[7] == "Cessation" and line[7] == "Offense"):
-		#print  line[9] + " +1 touch (pull)"
 		pname = line[9]
+		if pname not in players:
+			addPlayer(pname, players, line)
 		players[pname]["touches"] += 1
+	#touch from goal
 	if line[8] == "Goal":
-		#print line[10] + " +1 touch (goal)"
 		pname = line[10]
+		if pname not in players:
+			addPlayer(pname, players, line)
 		players[pname]["touches"] += 1
-
+		players[pname]["goals"] += 1
+		players[line[9]]["assists"] += 1
+	#touch from catch
 	elif line[8] == "Catch":
-		#print line[10] + " +1 touch(catch)"
 		pname = line[10]
+		if pname not in players:
+			addPlayer(pname, players, line)
 		players[pname]["touches"] += 1
+		players[pname]["catches"] += 1
+		players[line[9]]["assists"] += 1
 
 
 #If there is a player on this line who hasn't added this game to their
@@ -87,15 +114,18 @@ def trackTouches(players, line, previousLine):
 def trackGames(players, line):
 	dateTime = line[0].split(" ")
 	date = dateTime[0]
+	if line[7] == "Cessation" or len(line) <15:
+		return
 	playerZeroIndex = 13
-	playerSixIndex  = 19
+	playerSixIndex  = 20
 	for playerIndex in range(playerZeroIndex, playerSixIndex):
 		playerName = line[playerIndex]
+		#print "\t\t" + playerName
 		if playerName in players:
 			players[playerName]["gameDates"].add(date)
 		else:
 			players[playerName] = {"gameDates":set([date])}
-			players[playerName]["secondsPlayed"]=0
+			players[playerName]["secondsPlayed"]= 0
 			players[playerName]["OPoints"] = 0
 			players[playerName]["DPoints"] = 0
 			players[playerName]["OPointConversions"] = 0
@@ -104,17 +134,22 @@ def trackGames(players, line):
 			players[playerName]["pulls"] = 0
 			players[playerName]["pullHangtime"] = 0
 			players[playerName]["timedPulls"] = 0
+			players[playerName]["callahansFor"] = 0
+			players[playerName]["callahansAgainst"] = 0
+			players[playerName]["goals"] = 0
+			players[playerName]["assists"] = 0
+			players[playerName]["Ds"] = 0
 
 def trackSeconds(players, line):
 	playerZeroIndex = 13
-	playerSixIndex  = 19
+	playerSixIndex  = 20
 	for playerIndex in range(playerZeroIndex, playerSixIndex):
 		playerName = line[playerIndex]
 		players[playerName]["secondsPlayed"]+=int(line[3])
 
 def trackOPoints(players, line):
 	playerZeroIndex = 13
-	playerSixIndex  = 19
+	playerSixIndex  = 20
 	if line[4]=="O":
 		for playerIndex in range(playerZeroIndex, playerSixIndex):
 			playerName = line[playerIndex]
@@ -122,7 +157,7 @@ def trackOPoints(players, line):
 
 def trackDPoints(players, line):
 	playerZeroIndex = 13
-	playerSixIndex  = 19
+	playerSixIndex  = 20
 	if line[4]=="D":
 		for playerIndex in range(playerZeroIndex, playerSixIndex):
 			playerName = line[playerIndex]
@@ -130,7 +165,7 @@ def trackDPoints(players, line):
 
 def trackOConversions(players, line, previousLine):
 	playerZeroIndex = 13
-	playerSixIndex  = 19
+	playerSixIndex  = 20
 	if line[4]=="O":
 		#check if we scored this O-point
 		if (previousLine == None and line[5]=="1") or int(line[5])==int(previousLine[5])+1:
@@ -140,7 +175,7 @@ def trackOConversions(players, line, previousLine):
 
 def trackDConversions(players, line, previousLine):
 	playerZeroIndex = 13
-	playerSixIndex  = 19
+	playerSixIndex  = 20
 	if line[4]=="D":
 		#check if we scored this O-point
 		if (previousLine == None and line[5]=="1") or int(line[5])==int(previousLine[5])+1:
