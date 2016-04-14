@@ -26,7 +26,7 @@ def process_spreadsheet(fname):
 				trackGames(players, line)
 				if previousLine != None:
 					#put all statistics that need previous line here
-					trackTouches(players, line, previousLine)
+					#trackTouches(players, line, previousLine)
 					a = None
 				
 				if line[12]!="" or line[5]!=previousLine[5] or line[6]!=previousLine[6]:
@@ -36,6 +36,8 @@ def process_spreadsheet(fname):
 						trackDPoints(players, line)
 						trackOConversions(players, line, previousLine)
 						trackDConversions(players, line, previousLine)
+						trackPulls(players, line)
+						trackPullHangtime(players, line)
 				#this is the last thing we do each loop
 				previousLine = line
 		except Exception as inst:
@@ -99,6 +101,9 @@ def trackGames(players, line):
 			players[playerName]["OPointConversions"] = 0
 			players[playerName]["DPointConversions"] = 0
 			players[playerName]["touches"] = 0
+			players[playerName]["pulls"] = 0
+			players[playerName]["pullHangtime"] = 0
+			players[playerName]["timedPulls"] = 0
 
 def trackSeconds(players, line):
 	playerZeroIndex = 13
@@ -142,3 +147,17 @@ def trackDConversions(players, line, previousLine):
 			for playerIndex in range(playerZeroIndex, playerSixIndex):
 				playerName = line[playerIndex]
 				players[playerName]["DPointConversions"]+=1
+
+def trackPulls(players, line):
+	if line[11]!="":
+		players[line[11]]["pulls"]+=1
+	else:
+		print "No one to give this pull to"
+
+def trackPullHangtime(players, line):
+	#if the puller was tracked
+	if line[11]!="":
+		#if the hangtime was tracked
+		if line[12]:
+			players[line[11]]["pullHangtime"]+=float(line[12])
+			players[line[11]]["timedPulls"]+=1
