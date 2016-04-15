@@ -9,7 +9,5 @@ callahans against
 throws
 catches
 drops
-pulls
 ob pulls
-pull hangtime
 stalls
