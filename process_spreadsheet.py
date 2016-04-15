@@ -26,6 +26,12 @@ def process_spreadsheet(fname):
 				if previousLine != None:
 					#put all statistics that need previous line here
 					trackTouches(players, line, previousLine)
+					trackStalls(players, line)
+					trackThrowaways(players, line)
+					trackDs(players, line)
+					trackDrops(players, line)
+					trackPenalties(players, line)
+
 					a = None
 				
 				if (len(line)>15) and (line[12]!="" or previousLine is None or line[5]!=previousLine[5] or line[6]!=previousLine[6]):
@@ -65,6 +71,11 @@ def addPlayer(playerName, players, line):
 	players[playerName]["Ds"] = 0
 	players[playerName]["catches"] = 0
 	players[playerName]["throws"] = 0
+	players[playerName]["stalls"] = 0
+	players[playerName]["OB Pulls"] = 0
+	players[playerName]["throwaways"] = 0
+	players[playerName]["drops"] = 0
+	players[playerName]["penalties"] = 0
 
 #a touch is recorded when:
 #	a player picks up/catches a pull
@@ -111,6 +122,41 @@ def trackTouches(players, line, previousLine):
 		players[pname]["catches"] += 1
 		players[line[9]]["throws"] += 1
 
+def trackStalls(players, line):
+	if line[8] == "Stall":
+		pname = line[9]
+		if pname not in players:
+			addPlayer(pname, players, line)
+		players[pname]["stalls"] += 1
+
+def trackThrowaways(players, line):
+	if line[8] == "Throwaway":
+		pname = line[9]
+		if pname not in players:
+			addPlayer(pname, players, line)
+		players[pname]["throwaways"] += 1
+		players[pname]["throws"] += 1
+
+def trackDrops(players, line):
+	if line[8] == "Drop":
+		pname = line[9]
+		if pname not in players:
+			addPlayer(pname, players, line)
+		players[pname]["drops"] += 1
+
+def trackDs(players, line):
+	if line[8] == "D":
+		pname = line[11]
+		if pname not in players:
+			addPlayer(pname, players, line)
+		players[pname]["Ds"] += 1
+
+def trackPenalties(players, line):
+	if line[8] == "MiscPenalty":
+		pname = line[9]
+		if pname not in players:
+			addPlayer(pname, players, line)
+		players[pname]["penalties"] += 1
 
 #If there is a player on this line who hasn't added this game to their
 #stats yet add it
@@ -175,6 +221,9 @@ def trackDConversions(players, line, previousLine):
 
 def trackPulls(players, line):
 	if line[11]!="":
+		if line[8] == "PullOb":
+			players[line[11]]["OB Pulls"] += 1
+			return
 		players[line[11]]["pulls"]+=1
 	else:
 		print "No one to give this pull to"

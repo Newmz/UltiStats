@@ -19,12 +19,16 @@ def writeToCSV(players, playerName):
 	outstr += str(players[playerName]["assists"]) + ","
 	outstr += str(players[playerName]["pulls"]) + ","
 	if players[playerName]["timedPulls"] == 0:
-		outstr += "0,0,"
+		outstr += "0,"
 	else:
-		outstr += str(players[playerName]["timedPulls"]) + ","
 		outstr += str(players[playerName]["pullHangtime"]/players[playerName]["timedPulls"]) + ","
 	outstr += str(players[playerName]["callahansFor"]) + ","
-	outstr += str(players[playerName]["callahansAgainst"])
+	outstr += str(players[playerName]["callahansAgainst"]) + ","
+	outstr += str(players[playerName]["stalls"]) + ","
+	outstr += str(players[playerName]["throwaways"]) + ","
+	outstr += str(players[playerName]["drops"]) + ","
+	outstr += str(players[playerName]["OB Pulls"]) + ","
+	outstr += str(players[playerName]["penalties"])
 	return outstr
 
 
@@ -32,7 +36,8 @@ dataDir = "data"
 for filename in os.listdir(dataDir):
 	players = process_spreadsheet(dataDir+"/"+filename)
 	print "hello"
-	print "name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull hangtime,callies,bad callies"
+	print "name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull\
+	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover)"
 	for playerName in players:
 		print writeToCSV(players, playerName)
 		#currently printing for debugging purposes but once this is done we can write to a csv
