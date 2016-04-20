@@ -1,6 +1,7 @@
 import csv
 import os
 from process_spreadsheet import process_spreadsheet
+from debugging_image import debuggingImage
 
 def writeToCSV(players, playerName):
 	
@@ -40,6 +41,8 @@ for filename in os.listdir(dataDir):
 	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover)"
 	for playerName in players:
 		print writeToCSV(players, playerName)
+
+
 		#currently printing for debugging purposes but once this is done we can write to a csv
 		# print playerName + " played " + str(len(players[playerName]["gameDates"])) + " games"
 		# print playerName + " played " + str(players[playerName]["secondsPlayed"]) + " seconds"
