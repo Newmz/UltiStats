@@ -8,6 +8,7 @@ assumed_header = ['Date/Time,Tournamemnt,Opponent,Point Elapsed Seconds,Line,Our
 def process_spreadsheet(fname):
 	players = {}
 	#we open the csv and prepare to read it line by line
+
 	with open(fname, 'rb') as csvfile:
 		linereader = csv.reader(csvfile, delimiter="\n")
 		header = next(linereader)
@@ -17,7 +18,9 @@ def process_spreadsheet(fname):
 			#We have opened the file and read out the header. Now we read line
 			#by line
 			previousLine = None
+			lineSuccess = []
 			for line_ in linereader:
+				statRecorded = set()
 				line = line_[0].split(",")
 				#compute statistics here.
 				#It is important that trackgames comes first as it is responsable
@@ -25,12 +28,12 @@ def process_spreadsheet(fname):
 				trackGames(players, line)
 				if previousLine != None:
 					#put all statistics that need previous line here
-					trackTouches(players, line, previousLine)
-					trackStalls(players, line)
-					trackThrowaways(players, line)
-					trackDs(players, line)
-					trackDrops(players, line)
-					trackPenalties(players, line)
+					statRecorded.add(trackTouches(players, line, previousLine))
+					statRecorded.add(trackStalls(players, line))
+					statRecorded.add(trackThrowaways(players, line))
+					statRecorded.add(trackDs(players, line))
+					statRecorded.add(trackDrops(players, line))
+					statRecorded.add(trackPenalties(players, line))
 
 					a = None
 				
@@ -41,13 +44,15 @@ def process_spreadsheet(fname):
 						trackDPoints(players, line)
 						trackOConversions(players, line, previousLine)
 						trackDConversions(players, line, previousLine)
-						trackPulls(players, line)
-						trackPullHangtime(players, line)
+						statRecorded.add(trackPulls(players, line))
+						statRecorded.add(trackPullHangtime(players, line))
 				#this is the last thing we do each loop
+				lineSuccess.append(True in statRecorded)
+				
 				previousLine = line
 		except Exception as inst:
 			print inst.args
-	return players			
+	return [players, lineSuccess]
 
 #process_spreadsheet("AH2015.csv")
 
@@ -84,6 +89,7 @@ def addPlayer(playerName, players, line):
 # this function can easily be modified to track goals/assists/catches.
 
 def trackTouches(players, line, previousLine):
+	statRecorded = False
 	#cally
 	if line[7] == "Defense" and line[8] == "Callahan":
 		pname = line[11]
@@ -93,10 +99,11 @@ def trackTouches(players, line, previousLine):
 		players[pname]["callahansFor"] += 1
 		players[pname]["goals"] += 1
 		players[pname]["Ds"] += 1
+		statRecorded = True
 	#cally is the only way to get a touch when line[7] == "defense",
 	# so we can return early
 	if line[7] != "Offense":
-		return
+		return statRecorded
 	#touch from pull
 	if (previousLine[7] == "Defense" and previousLine[8] == "Goal") or \
 	 (previousLine[7] == "Cessation" and line[7] == "Offense"):
@@ -104,6 +111,7 @@ def trackTouches(players, line, previousLine):
 		if pname not in players:
 			addPlayer(pname, players, line)
 		players[pname]["touches"] += 1
+		statRecorded = True
 	#touch from goal
 	if line[8] == "Goal":
 		pname = line[10]
@@ -113,6 +121,7 @@ def trackTouches(players, line, previousLine):
 		players[pname]["goals"] += 1
 		players[line[9]]["assists"] += 1
 		players[line[9]]["throws"] += 1
+		statRecorded = True
 	#touch from catch
 	elif line[8] == "Catch":
 		pname = line[10]
@@ -121,6 +130,8 @@ def trackTouches(players, line, previousLine):
 		players[pname]["touches"] += 1
 		players[pname]["catches"] += 1
 		players[line[9]]["throws"] += 1
+		statRecorded = True
+	return statRecorded
 
 def trackStalls(players, line):
 	if line[8] == "Stall":
@@ -128,6 +139,8 @@ def trackStalls(players, line):
 		if pname not in players:
 			addPlayer(pname, players, line)
 		players[pname]["stalls"] += 1
+		return True
+	return False
 
 def trackThrowaways(players, line):
 	if line[8] == "Throwaway":
@@ -136,6 +149,8 @@ def trackThrowaways(players, line):
 			addPlayer(pname, players, line)
 		players[pname]["throwaways"] += 1
 		players[pname]["throws"] += 1
+		return True
+	return False
 
 def trackDrops(players, line):
 	if line[8] == "Drop":
@@ -143,6 +158,8 @@ def trackDrops(players, line):
 		if pname not in players:
 			addPlayer(pname, players, line)
 		players[pname]["drops"] += 1
+		return True
+	return False
 
 def trackDs(players, line):
 	if line[8] == "D":
@@ -150,6 +167,8 @@ def trackDs(players, line):
 		if pname not in players:
 			addPlayer(pname, players, line)
 		players[pname]["Ds"] += 1
+		return True
+	return False
 
 def trackPenalties(players, line):
 	if line[8] == "MiscPenalty":
@@ -157,6 +176,8 @@ def trackPenalties(players, line):
 		if pname not in players:
 			addPlayer(pname, players, line)
 		players[pname]["penalties"] += 1
+		return True
+	return False
 
 #If there is a player on this line who hasn't added this game to their
 #stats yet add it
@@ -182,6 +203,7 @@ def trackSeconds(players, line):
 	for playerIndex in range(playerZeroIndex, playerSixIndex):
 		playerName = line[playerIndex]
 		players[playerName]["secondsPlayed"]+=int(line[3])
+
 
 def trackOPoints(players, line):
 	playerZeroIndex = 13
@@ -225,8 +247,10 @@ def trackPulls(players, line):
 			players[line[11]]["OB Pulls"] += 1
 			return
 		players[line[11]]["pulls"]+=1
+		return True
 	else:
 		print "No one to give this pull to"
+		return False
 
 def trackPullHangtime(players, line):
 	#if the puller was tracked
@@ -235,3 +259,7 @@ def trackPullHangtime(players, line):
 		if line[12]:
 			players[line[11]]["pullHangtime"]+=float(line[12])
 			players[line[11]]["timedPulls"]+=1
+			return True
+		return False
+	return False
+

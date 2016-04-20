@@ -4,7 +4,6 @@ from process_spreadsheet import process_spreadsheet
 from debugging_image import debuggingImage
 
 def writeToCSV(players, playerName):
-	
 	outstr = ''
 	outstr += playerName + ","
 	outstr += str(len(players[playerName]["gameDates"])) + ","
@@ -35,7 +34,7 @@ def writeToCSV(players, playerName):
 
 dataDir = "data"
 for filename in os.listdir(dataDir):
-	players = process_spreadsheet(dataDir+"/"+filename)
+	[players, successLines] = process_spreadsheet(dataDir+"/"+filename)
 	print "hello"
 	print "name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull\
 	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover)"
@@ -57,6 +56,16 @@ for filename in os.listdir(dataDir):
 		# print playerName + " had " + str(players[playerName]["goals"]) + " goals"
 		# print playerName + " had " + str(players[playerName]["assists"]) + " assists"
 		# print playerName + " had " + str(players[playerName]["catches"]) + " catches"
+	goodlines = 0
+	badlines = 0
+	totallines = 0
+	for thing in successLines:
+		if (thing):
+			goodlines += 1
+		else:
+			badlines += 1
+		totallines += 1
+	print str(goodlines) + "/" + str(totallines) + " successful lines parsed"
 
 	#do stuff to players (Either store them temporarily or put them in
 	#the csv right away, I haven't thought this through yet)
