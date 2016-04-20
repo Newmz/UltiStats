@@ -1,0 +1,5 @@
+Faulty lines for debuggingImages/AtlantaHustle2016-stats_debuggerline 15
+line 40
+line 58
+line 67
+line 68

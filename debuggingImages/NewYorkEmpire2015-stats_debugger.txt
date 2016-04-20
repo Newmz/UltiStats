@@ -1,0 +1,10 @@
+Faulty lines for debuggingImages/NewYorkEmpire2015-stats_debuggerline 39
+line 45
+line 67
+line 77
+line 82
+line 91
+line 92
+line 108
+line 125
+line 133
