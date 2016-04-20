@@ -4,7 +4,7 @@ from process_spreadsheet import process_spreadsheet
 from debugging_image import debugging_image
 from report_faulty_lines import report_faulty_lines
 
-def writeToCSV(players, playerName):
+def writeToCSV(players, playerName, outfile):
 	outstr = ''
 	outstr += playerName + ","
 	outstr += str(len(players[playerName]["gameDates"])) + ","
@@ -30,17 +30,21 @@ def writeToCSV(players, playerName):
 	outstr += str(players[playerName]["drops"]) + ","
 	outstr += str(players[playerName]["OB Pulls"]) + ","
 	outstr += str(players[playerName]["penalties"])
-	return outstr
+	outstr += "\n"
+	outfile.write(outstr)
 
 
 dataDir = "data"
 for filename in os.listdir(dataDir):
 	[players, successLines] = process_spreadsheet(dataDir+"/"+filename)
+	outfile = filename[:len(filename)-4] + "_stats.csv"
+	x = open(outfile, 'w')
 	print "hello"
-	print "name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull\
-	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover)"
+	x.write("name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull\
+	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover)\n")
 	for playerName in players:
-		print writeToCSV(players, playerName)
+		writeToCSV(players, playerName, x)
+	x.close()
 #Handle stats on our stats!
 	goodlines = 0
 	badlines = 0
