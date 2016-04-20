@@ -14,7 +14,7 @@ def process_spreadsheet(fname):
 		header = next(linereader)
 		try:
 			if header != assumed_header: 
-				raise Exception("Exception: the header is not what we thought")
+				raise Exception("Exception: the header for " + fname +"is not what we thought")
 			#We have opened the file and read out the header. Now we read line
 			#by line
 			previousLine = None
@@ -186,15 +186,15 @@ def trackGames(players, line):
 	date = dateTime[0]
 	if line[7] == "Cessation" or len(line) <15:
 		return
-	playerZeroIndex = 13
-	playerSixIndex  = 20
-	for playerIndex in range(playerZeroIndex, playerSixIndex):
+	playerIndex = 13
+	while line[playerIndex]!="" and playerIndex<39:
 		playerName = line[playerIndex]
 		#print "\t\t" + playerName
 		if playerName in players:
 			players[playerName]["gameDates"].add(date)
 		else:
 			addPlayer(playerName, players, line)
+		playerIndex += 1
 
 
 def trackSeconds(players, line):

@@ -1,7 +1,8 @@
 import csv
 import os
 from process_spreadsheet import process_spreadsheet
-from debugging_image import debuggingImage
+from debugging_image import debugging_image
+from report_faulty_lines import report_faulty_lines
 
 def writeToCSV(players, playerName):
 	outstr = ''
@@ -40,22 +41,7 @@ for filename in os.listdir(dataDir):
 	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover)"
 	for playerName in players:
 		print writeToCSV(players, playerName)
-
-
-		#currently printing for debugging purposes but once this is done we can write to a csv
-		# print playerName + " played " + str(len(players[playerName]["gameDates"])) + " games"
-		# print playerName + " played " + str(players[playerName]["secondsPlayed"]) + " seconds"
-		# print playerName + " played " + str(players[playerName]["OPoints"]) + " O-points"
-		# print playerName + " converted " + str(players[playerName]["OPointConversions"]) + " of these"
-		# print playerName + " played " + str(players[playerName]["DPoints"]) + " D-points"
-		# print playerName + " converted " + str(players[playerName]["DPointConversions"]) + " of these"
-		# print playerName + " had " + str(players[playerName]["touches"]) + " touches"
-		# print playerName + " had " + str(players[playerName]["pulls"]) + " pulls"
-		# if players[playerName]["timedPulls"]!=0:
-		# 	print playerName + " had their pulls hang an average of " + str(players[playerName]["pullHangtime"]/players[playerName]["timedPulls"]) +" seconds"
-		# print playerName + " had " + str(players[playerName]["goals"]) + " goals"
-		# print playerName + " had " + str(players[playerName]["assists"]) + " assists"
-		# print playerName + " had " + str(players[playerName]["catches"]) + " catches"
+#Handle stats on our stats!
 	goodlines = 0
 	badlines = 0
 	totallines = 0
@@ -66,6 +52,9 @@ for filename in os.listdir(dataDir):
 			badlines += 1
 		totallines += 1
 	print str(goodlines) + "/" + str(totallines) + " successful lines parsed"
+	debuggingFileName = "debuggingImages/"+filename.split(".")[0]+"_debugger"
+	debugging_image(successLines, debuggingFileName+".png")
+	report_faulty_lines(successLines, debuggingFileName+".txt")
 
 	#do stuff to players (Either store them temporarily or put them in
 	#the csv right away, I haven't thought this through yet)
