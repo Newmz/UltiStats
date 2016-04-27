@@ -29,7 +29,7 @@ def process_spreadsheet(fname):
 					trackGames(players, line)
 					if previousLine != None:
 						#put all statistics that need previous line here
-						statRecorded.add(trackTouches(players, line, previousLine))
+						statRecorded.add(trackTouches(players, line, previousLine,lineNum))
 						statRecorded.add(trackStalls(players, line))
 						statRecorded.add(trackThrowaways(players, line))
 						statRecorded.add(trackDs(players, line))
@@ -49,6 +49,8 @@ def process_spreadsheet(fname):
 							statRecorded.add(trackPullHangtime(players, line))
 					#this is the last thing we do each loop
 					lineSuccess.append(True in statRecorded)
+					if not (True in statRecorded):
+						print line[8] + " not being recorded at line " + str(lineNum+2)
 					
 					previousLine = line
 				except Exception as inst:
@@ -90,8 +92,7 @@ def addPlayer(playerName, players, line):
 #	a player catches a pass (including for a score)
 #	a callahan
 # this function can easily be modified to track goals/assists/catches.
-
-def trackTouches(players, line, previousLine):
+def trackTouches(players, line, previousLine, lineNum):
 	statRecorded = False
 	#cally
 	if line[7] == "Defense" and line[8] == "Callahan":
@@ -107,7 +108,7 @@ def trackTouches(players, line, previousLine):
 	# so we can return early
 	if line[7] != "Offense":
 		return statRecorded
-	#touch from pull
+	#touch from pullPullOb
 	if (previousLine[7] == "Defense" and previousLine[8] == "Goal") or \
 	 (previousLine[7] == "Cessation" and line[7] == "Offense"):
 		pname = line[9]
@@ -117,6 +118,7 @@ def trackTouches(players, line, previousLine):
 		statRecorded = True
 	#touch from goal
 	if line[8] == "Goal":
+		print "HELLLLLOOOOOO from line " + str(lineNum + 2)
 		pname = line[10]
 		if pname not in players:
 			addPlayer(pname, players, line)
@@ -187,7 +189,7 @@ def trackPenalties(players, line):
 def trackGames(players, line):
 	dateTime = line[0].split(" ")
 	date = dateTime[0]
-	if line[7] == "Cessation" or len(line) <15:
+	if line[7] == "Cessation" or len(line) < 15:
 		return
 	playerIndex = 13
 	while line[playerIndex]!="" and playerIndex<39:

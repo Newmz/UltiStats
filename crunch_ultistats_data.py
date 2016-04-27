@@ -51,7 +51,7 @@ for filename in os.listdir(dataDir):
 		else:
 			badlines += 1
 		totallines += 1
-	print str(goodlines) + "/" + str(totallines) + " successful lines parsed"
+	print str(goodlines) + "/" + str(totallines) + " successful lines parsed of " + filename
 	debuggingFileName = "debuggingImages/"+filename.split(".")[0]+"_debugger"
 	debugging_image(successLines, debuggingFileName+".png")
 	report_faulty_lines(successLines, debuggingFileName+".txt")
