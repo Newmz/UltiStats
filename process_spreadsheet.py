@@ -92,6 +92,8 @@ def addPlayer(playerName, players, line):
 # this function can easily be modified to track goals/assists/catches.
 
 def trackTouches(players, line, previousLine):
+	if line[7] == "Cessation":
+		return True
 	statRecorded = False
 	#cally
 	if line[7] == "Defense" and line[8] == "Callahan":
@@ -106,6 +108,8 @@ def trackTouches(players, line, previousLine):
 	#cally is the only way to get a touch when line[7] == "defense",
 	# so we can return early
 	if line[7] != "Offense":
+		if line[8] == "Goal":
+			return True;
 		return statRecorded
 	#touch from pull
 	if (previousLine[7] == "Defense" and previousLine[8] == "Goal") or \

@@ -35,9 +35,12 @@ def writeToCSV(players, playerName, outfile):
 
 
 dataDir = "data"
+newDataDir = "Output_Data"
 for filename in os.listdir(dataDir):
+	if filename[len(filename)-4:] != ".csv":
+		continue
 	[players, successLines] = process_spreadsheet(dataDir+"/"+filename)
-	outfile = filename[:len(filename)-4] + "_stats.csv"
+	outfile = newDataDir + "/" + filename[:len(filename)-4] + "_stats.csv"
 	x = open(outfile, 'w')
 	print "hello"
 	x.write("name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull\
