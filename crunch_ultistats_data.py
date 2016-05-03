@@ -35,7 +35,7 @@ def writeToCSV(players, playerName, outfile):
 
 
 dataDir = "data"
-newDataDir = "Output_Data"
+newDataDir = "Workspace"
 for filename in os.listdir(dataDir):
 	if filename[len(filename)-4:] != ".csv":
 		continue
