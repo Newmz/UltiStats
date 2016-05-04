@@ -4,14 +4,12 @@ from process_spreadsheet import process_spreadsheet
 from debugging_image import debugging_image
 from report_faulty_lines import report_faulty_lines
 from writeToCSV import writeToCSV
+from trackTeamStats import trackTeamStats
 
 dataDir = "data"
-playersOutputFile = "processedPlayerData.csv"
-teamsOutputFile   = "processedTeamData.csv"
 newDataDir = "Workspace"
-
-outfileLocation = newDataDir + "/" + playersOutputFile
-outfile = open(outfileLocation, 'w')
+outfile = open(newDataDir + "/processedPlayerData.csv", 'w')
+teamOutfile = open(newDataDir + "/processedTeamData.csv", 'w')
 for filename in os.listdir(dataDir):
 	if filename[len(filename)-4:] != ".csv":
 		continue
@@ -19,7 +17,7 @@ for filename in os.listdir(dataDir):
 	team = filename[:len(filename)-4]
 	
 	writeToCSV(players, outfile, team)
-	
+	trackTeamStats(players, teamOutfile, team)
 #Handle stats on our stats!
 	goodlines = 0
 	badlines = 0
@@ -35,5 +33,4 @@ for filename in os.listdir(dataDir):
 	debugging_image(successLines, debuggingFileName+".png")
 	report_faulty_lines(successLines, debuggingFileName+".txt")
 outfile.close()
-	#do stuff to players (Either store them temporarily or put them in
-	#the csv right away, I haven't thought this through yet)
+teamOutfile.close()
