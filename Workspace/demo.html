@@ -1,5 +1,17 @@
 <!DOCTYPE html>
 <head>
+<style>
+.axis {
+   font: 10px sans-serif;
+ }
+
+ .axis path,
+ .axis line {
+   fill: none;
+   stroke: #000;
+   shape-rendering: crispEdges;
+ }
+</style>
 <meta charset="UTF-8"></meta>
 </head>
 <body>
@@ -10,8 +22,8 @@
 	width = 800 - margin.left - margin.right,
 	height = 600 - margin.top - margin.bottom;
 	
-	var xRange = d3.scale.ordinal().rangeRoundBands([0, width], .05);
-	var yRange = d3.scale.linear().range(height, 0);
+	var xRange = d3.scale.ordinal().rangeRoundBands([0, width], .1);
+	var yRange = d3.scale.linear().range([height, 0]);
 	var xAxisFormat = d3.svg.axis()
 			.scale(xRange)
 			.orient("bottom");
@@ -33,20 +45,45 @@
 		if (error) throw error;
 		myData = data;
 		myData.forEach(function(d) {
-			console.log(d);
 			for (var stat in d) {
 				if (stat === "name") continue;
 				d[stat] = +d[stat];
-				console.log(d[stat]);
 			}
-			
-			
-
 		});
-		console.log(d3.max(data, function(d) {
-			return +d.catches;
-		}));
-	});
+		//xRange.domain(data.map(function(d) { return d.name; }));
+  		//yRange.domain([0, d3.max(data, function(d) { return d.catches; })]);
+  		xRange.domain(myData.map(function(d) { return d["name"]; }));
+  		yRange.domain([0, d3.max(myData, function(d) { return d["goals"]; })]);
+  		svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0,560)")
+      .call(xAxisFormat)
+    .selectAll("text")
+      .style("text-anchor", "end")
+      .attr("dx", "-.8em")
+      .attr("dy", "-.55em")
+      .attr("transform", "rotate(-90)" );
+
+      svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxisFormat)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Goals");
+
+  svg.selectAll("bar")
+      .data(data)
+    .enter().append("rect")
+      .style("fill", "steelblue")
+      .attr("x", function(d) { return xRange(d.name); })
+      .attr("width", xRange.rangeBand())
+      .attr("y", function(d) { return yRange(d["goals"]); })
+      .attr("height", function(d) { return height - yRange(d["goals"]); });
+  		
+});
 		
 
 
