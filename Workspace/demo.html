@@ -23,6 +23,13 @@
     fill:steelblue;
  }
 
+ .dot {
+    fill:steelblue;
+ }
+ .dot:hover {
+    fill:gold;
+ }
+
  div.tooltip {  
     position: absolute;     
     text-align: center;     
@@ -42,7 +49,7 @@
 	<script src="d3.js"></script>
 	<script src="d3.min.js"></script>
 	<script>
-	var margin = {top:20, right:20, left:20, bottom:60},
+	var margin = {top:20, right:20, left:30, bottom:60},
 	width = 640 - margin.left - margin.right,
 	height = 400 - margin.top - margin.bottom;
 	
@@ -90,12 +97,10 @@
       }
   			
 			
-		});
-		
-      newGraph(teamData);
-});
+		});newScatterPlot(teamData, "catches", "goals");   
+    });
   function clearGraph() {
-    d3.select("svg").remove("#chart");
+    d3.selectAll("svg").remove("#chart");
     svg = d3.select("body").append("svg")
         .attr("id", "graph")
         .attr("width", width + margin.left + margin.right)
@@ -104,10 +109,62 @@
         .attr("transform", 
           "translate(" + margin.left + "," + margin.top + ")");
   }
+
+  function newScatterPlot(graphData, stat1, stat2) {
+    clearGraph();
+    var xValue = function(d) { return d[stat1]}, // data -> value
+        xMap = function(d) { return xRange(xValue(d));}; // data -> display
+    var yValue = function(d) { return d[stat2];}, // data -> value
+        yMap = function(d) { return yRange(yValue(d));}; // data -> display
+
+    xRange = d3.scale.linear().domain([0, d3.max(teamData, function(d) { return d[stat1];})]).range([0, width]);
+    yRange.domain([0, d3.max(teamData, function(d) { return d[stat2]; })]).range([height, 0]);
+    xAxis = d3.svg.axis().scale(xRange).orient("bottom");
+    svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0,320)")
+      .call(xAxis)
+    .append("text")
+      .attr("class", "label")
+      .attr("x", width)
+      .attr("y", -6)
+      .style("text-anchor", "end")
+      .text(stat1);
+
+      svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxisFormat)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text(stat2);
+
+      svg.selectAll(".dot")
+            .data(teamData)
+          .enter().append("circle")
+            .attr("class", "dot")
+            .attr("r", 3.5)
+            .attr("cx", xMap)
+            .attr("cy", yMap)
+            .on("mouseover", function(d) {
+              div.transition()    
+                .duration(100)    
+                .style("opacity", .9);
+              div .html(d["name"])  
+                      .style("left", (d3.event.pageX) + "px")   
+                      .style("top", (d3.event.pageY - 28) + "px");  
+            })
+
+
+  }
+
   function newGraph(teamData, stat) {
     clearGraph();
     xRange.domain(teamData.map(function(d) { return d["name"]; })).rangeRoundBands([0, width], .1);
-      yRange.domain([0, d3.max(teamData, function(d) { return d["assists"]; })]).range([height, 0]);
+      yRange.domain([0, d3.max(teamData, function(d) { return d[stat]; })]).range([height, 0]);
+      xAxisFormat.scale(d3.scale.linear());
       svg.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0,320)")
@@ -126,7 +183,7 @@
       .attr("y", 6)
       .attr("dy", ".71em")
       .style("text-anchor", "end")
-      .text("Assists");
+      .text(stat);
 
   svg.selectAll("bar")
       .data(teamData)
@@ -134,14 +191,14 @@
       .attr("class", "bar")
       .attr("x", function(d) { return xRange(d["name"]); })
       .attr("width", xRange.rangeBand())
-      .attr("y", function(d) { return yRange(d["assists"]); })
-      .attr("height", function(d) { return height - yRange(d["assists"]); })
+      .attr("y", function(d) { return yRange(d[stat]); })
+      .attr("height", function(d) { return height - yRange(d[stat]); })
       .on("mouseover", function(d) {
         //make div tooltip
         div.transition()    
                 .duration(100)    
                 .style("opacity", .9);
-        div .html(d["name"])  
+        div .html(d["name"] + "\n" + d[stat])  
                 .style("left", (d3.event.pageX) + "px")   
                 .style("top", (d3.event.pageY - 28) + "px");    
       })
