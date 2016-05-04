@@ -23,6 +23,8 @@
     fill:steelblue;
  }
 
+
+
  div.tooltip {  
     position: absolute;     
     text-align: center;     
@@ -39,6 +41,7 @@
 <meta charset="UTF-8"></meta>
 </head>
 <body>
+  <ul id="dropDownMenu"></ul>
 	<script src="d3.js"></script>
 	<script src="d3.min.js"></script>
 	<script>
@@ -46,8 +49,8 @@
 	width = 640 - margin.left - margin.right,
 	height = 400 - margin.top - margin.bottom;
 	
-	var xRange = d3.scale.ordinal();//.rangeRoundBands([0, width], .1);
-	var yRange = d3.scale.linear();//.range([height, 0]);
+	var xRange = d3.scale.ordinal(); //.rangeRoundBands([0, width], .1);
+	var yRange = d3.scale.linear();  //.range([height, 0]);
 	var xAxisFormat = d3.svg.axis()
 			.scale(xRange)
 			.orient("bottom");
@@ -60,6 +63,7 @@
       var div = d3.select("body").append("div") 
     .attr("class", "tooltip")       
     .style("opacity", 0);
+  var dropDownMenu = d3.select("#dropDownMenu");
 
 	var svg = d3.select("body").append("svg")
         .attr("id", "graph")
@@ -70,13 +74,21 @@
           "translate(" + margin.left + "," + margin.top + ")");
 
     	var myData;
-    	var teamData = [];
+    	var graphData = [];
+
+ 
+
+  d3.csv("processedTeamData.csv", function(error, data){
+    if(error) throw error;
+    teamData = data;
+    createSelectionMenu(teamData);
+  });
 
 	d3.csv("processedPlayerData.csv", function(error, data) {
 		if (error) throw error;
 		myData = data;
 		myData.forEach(function(d) {
-			if (d["name"] === "") {
+      if (d["name"] === "") {
 
       }
       else {
@@ -85,15 +97,75 @@
           d[stat] = +d[stat];
         }
         if (d["team"] === "AtlantaHustle2015-stats") {
-          teamData.push(d);
+          graphData.push(d);
         }
       }
-  			
-			
-		});
+        
+      
+    });
 		
-      newGraph(teamData);
+      newGraph(graphData);
 });
+
+  function createSelectionMenu(teamData){
+    dropDownMenu.selectAll("li")
+      .data(teamData)
+      .enter().append("li")
+      .text(function(d){
+        return d["name"];
+      }).on("click", graphTeam);
+  };
+
+  function graphTeam(team){
+    d3.select(this)
+      .on("click", ungraphTeam)
+      .attr("color", "#e41a1c")
+    myData.forEach(function(d) {
+      if (d["name"] === "") {
+
+      }
+      else {
+        for (var stat in d) {
+          if (stat === "name" || stat === "team") continue;
+          d[stat] = +d[stat];
+        }
+        console.log(team["name"])
+        if (d["team"] === team["name"]) {
+          graphData.push(d);
+        }
+      }       
+    });
+    //console.log(graphData)
+    newGraph(graphData, "catches");    
+  }
+
+  function ungraphTeam(team){
+    d3.select(this)
+      .on("click", graphTeam)
+      .attr("fill", "black")
+    var newGraphData = [];
+    graphData.forEach(function(d) {
+      if (d["name"] === "") {
+
+      }
+      else {
+        for (var stat in d) {
+          if (stat === "name" || stat === "team") continue;
+          d[stat] = +d[stat];
+        }
+        if (d["team"] === team["name"]) {
+          
+        }
+        else{
+          newGraphData.push(d);
+        }
+      }       
+    });
+    //console.log(graphData)
+    graphData = newGraphData;
+    newGraph(graphData, "catches");    
+  }
+
   function clearGraph() {
     d3.select("svg").remove("#chart");
     svg = d3.select("body").append("svg")
@@ -104,10 +176,10 @@
         .attr("transform", 
           "translate(" + margin.left + "," + margin.top + ")");
   }
-  function newGraph(teamData, stat) {
+  function newGraph(graphData, stat) {
     clearGraph();
-    xRange.domain(teamData.map(function(d) { return d["name"]; })).rangeRoundBands([0, width], .1);
-      yRange.domain([0, d3.max(teamData, function(d) { return d["assists"]; })]).range([height, 0]);
+    xRange.domain(graphData.map(function(d) { return d["name"]; })).rangeRoundBands([0, width], .1);
+      yRange.domain([0, d3.max(graphData, function(d) { return d["assists"]; })]).range([height, 0]);
       svg.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0,320)")
@@ -129,7 +201,7 @@
       .text("Assists");
 
   svg.selectAll("bar")
-      .data(teamData)
+      .data(graphData)
     .enter().append("rect")
       .attr("class", "bar")
       .attr("x", function(d) { return xRange(d["name"]); })
