@@ -77,7 +77,7 @@
           "translate(" + margin.left + "," + margin.top + ")");
 
     	var myData;
-    	var teamData = [];
+    	var graphData = [];
 
 	d3.csv("processedPlayerData.csv", function(error, data) {
 		if (error) throw error;
@@ -92,12 +92,15 @@
           d[stat] = +d[stat];
         }
         if (d["team"] === "AtlantaHustle2015-stats") {
-          teamData.push(d);
+          graphData.push(d);
         }
       }
   			
 			
-		});newScatterPlot(teamData, "catches", "goals");   
+		});newGraph(graphData, "catches");
+    newScatterPlot(graphData, "catches", "goals");  
+    newGraph(graphData, "catches");
+        
     });
   function clearGraph() {
     d3.selectAll("svg").remove("#chart");
@@ -117,8 +120,8 @@
     var yValue = function(d) { return d[stat2];}, // data -> value
         yMap = function(d) { return yRange(yValue(d));}; // data -> display
 
-    xRange = d3.scale.linear().domain([0, d3.max(teamData, function(d) { return d[stat1];})]).range([0, width]);
-    yRange.domain([0, d3.max(teamData, function(d) { return d[stat2]; })]).range([height, 0]);
+    xRange = d3.scale.linear().domain([0, d3.max(graphData, function(d) { return d[stat1];})]).range([0, width]);
+    yRange.domain([0, d3.max(graphData, function(d) { return d[stat2]; })]).range([height, 0]);
     xAxis = d3.svg.axis().scale(xRange).orient("bottom");
     svg.append("g")
       .attr("class", "x axis")
@@ -142,7 +145,7 @@
       .text(stat2);
 
       svg.selectAll(".dot")
-            .data(teamData)
+            .data(graphData)
           .enter().append("circle")
             .attr("class", "dot")
             .attr("r", 3.5)
@@ -155,16 +158,21 @@
               div .html(d["name"])  
                       .style("left", (d3.event.pageX) + "px")   
                       .style("top", (d3.event.pageY - 28) + "px");  
-            })
+            });
 
 
   }
 
-  function newGraph(teamData, stat) {
+  function newGraph(graphData, stat) {
     clearGraph();
-    xRange.domain(teamData.map(function(d) { return d["name"]; })).rangeRoundBands([0, width], .1);
-      yRange.domain([0, d3.max(teamData, function(d) { return d[stat]; })]).range([height, 0]);
-      xAxisFormat.scale(d3.scale.linear());
+    var xRange = d3.scale.ordinal();//.rangeRoundBands([0, width], .1);
+    var yRange = d3.scale.linear();//.range([height, 0]);
+    var xAxisFormat = d3.svg.axis()
+      .scale(xRange)
+      .orient("bottom");
+    xRange.domain(graphData.map(function(d) { return d["name"]; })).rangeRoundBands([0, width], .1);
+      yRange.domain([0, d3.max(graphData, function(d) { return d[stat]; })]).range([height, 0]);
+      
       svg.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0,320)")
@@ -186,7 +194,7 @@
       .text(stat);
 
   svg.selectAll("bar")
-      .data(teamData)
+      .data(graphData)
     .enter().append("rect")
       .attr("class", "bar")
       .attr("x", function(d) { return xRange(d["name"]); })
