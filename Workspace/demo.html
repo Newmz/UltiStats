@@ -4,7 +4,9 @@
 .axis {
    font: 10px sans-serif;
  }
-
+.background {
+	fill:black;
+}
  .axis path,
  .axis line {
    fill: none;
@@ -18,7 +20,7 @@
 	<script src="d3.js"></script>
 	<script src="d3.min.js"></script>
 	<script>
-	var margin = {top:20, right:20, left:20, bottom:20},
+	var margin = {top:20, right:20, left:20, bottom:60},
 	width = 800 - margin.left - margin.right,
 	height = 600 - margin.top - margin.bottom;
 	
@@ -40,29 +42,35 @@
           "translate(" + margin.left + "," + margin.top + ")");
 
     	var myData;
+    	var teamData = [];
 
-	d3.csv("AtlantaHustle2015-stats_stats.csv", function(error, data) {
+	d3.csv("processedPlayerData.csv", function(error, data) {
 		if (error) throw error;
 		myData = data;
 		myData.forEach(function(d) {
+			
 			for (var stat in d) {
-				if (stat === "name") continue;
+				if (stat === "name" || stat === "team") continue;
 				d[stat] = +d[stat];
 			}
+			if (d["team"] === "AtlantaHustle2015-stats") {
+				teamData.push(d);
+			}
+			
 		});
 		//xRange.domain(data.map(function(d) { return d.name; }));
   		//yRange.domain([0, d3.max(data, function(d) { return d.catches; })]);
-  		xRange.domain(myData.map(function(d) { return d["name"]; }));
-  		yRange.domain([0, d3.max(myData, function(d) { return d["goals"]; })]);
+  		xRange.domain(teamData.map(function(d) { return d["name"]; }));
+  		yRange.domain([0, d3.max(teamData, function(d) { return d["goals"]; })]);
   		svg.append("g")
       .attr("class", "x axis")
-      .attr("transform", "translate(0,560)")
+      .attr("transform", "translate(0,520)")
       .call(xAxisFormat)
     .selectAll("text")
       .style("text-anchor", "end")
       .attr("dx", "-.8em")
       .attr("dy", "-.55em")
-      .attr("transform", "rotate(-90)" );
+      .attr("transform", "rotate(-60)" );
 
       svg.append("g")
       .attr("class", "y axis")
@@ -78,7 +86,7 @@
       .data(data)
     .enter().append("rect")
       .style("fill", "steelblue")
-      .attr("x", function(d) { return xRange(d.name); })
+      .attr("x", function(d) { return xRange(d["name"]); })
       .attr("width", xRange.rangeBand())
       .attr("y", function(d) { return yRange(d["goals"]); })
       .attr("height", function(d) { return height - yRange(d["goals"]); });
