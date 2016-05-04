@@ -43,11 +43,11 @@
 	<script src="d3.min.js"></script>
 	<script>
 	var margin = {top:20, right:20, left:20, bottom:60},
-	width = 800 - margin.left - margin.right,
-	height = 600 - margin.top - margin.bottom;
+	width = 640 - margin.left - margin.right,
+	height = 400 - margin.top - margin.bottom;
 	
-	var xRange = d3.scale.ordinal().rangeRoundBands([0, width], .1);
-	var yRange = d3.scale.linear().range([height, 0]);
+	var xRange = d3.scale.ordinal();//.rangeRoundBands([0, width], .1);
+	var yRange = d3.scale.linear();//.range([height, 0]);
 	var xAxisFormat = d3.svg.axis()
 			.scale(xRange)
 			.orient("bottom");
@@ -91,13 +91,26 @@
   			
 			
 		});
-		//xRange.domain(data.map(function(d) { return d.name; }));
-  		//yRange.domain([0, d3.max(data, function(d) { return d.catches; })]);
-  		xRange.domain(teamData.map(function(d) { return d["name"]; }));
-  		yRange.domain([0, d3.max(teamData, function(d) { return d["goals"]; })]);
-  		svg.append("g")
+		
+      newGraph(teamData);
+});
+  function clearGraph() {
+    d3.select("svg").remove("#chart");
+    svg = d3.select("body").append("svg")
+        .attr("id", "graph")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform", 
+          "translate(" + margin.left + "," + margin.top + ")");
+  }
+  function newGraph(teamData, stat) {
+    clearGraph();
+    xRange.domain(teamData.map(function(d) { return d["name"]; })).rangeRoundBands([0, width], .1);
+      yRange.domain([0, d3.max(teamData, function(d) { return d["assists"]; })]).range([height, 0]);
+      svg.append("g")
       .attr("class", "x axis")
-      .attr("transform", "translate(0,520)")
+      .attr("transform", "translate(0,320)")
       .call(xAxisFormat)
     .selectAll("text")
       .style("text-anchor", "end")
@@ -113,7 +126,7 @@
       .attr("y", 6)
       .attr("dy", ".71em")
       .style("text-anchor", "end")
-      .text("Goals");
+      .text("Assists");
 
   svg.selectAll("bar")
       .data(teamData)
@@ -121,8 +134,8 @@
       .attr("class", "bar")
       .attr("x", function(d) { return xRange(d["name"]); })
       .attr("width", xRange.rangeBand())
-      .attr("y", function(d) { return yRange(d["goals"]); })
-      .attr("height", function(d) { return height - yRange(d["goals"]); })
+      .attr("y", function(d) { return yRange(d["assists"]); })
+      .attr("height", function(d) { return height - yRange(d["assists"]); })
       .on("mouseover", function(d) {
         //make div tooltip
         div.transition()    
@@ -136,12 +149,10 @@
         div.transition()
                 .duration(100)
                 .style("opacity", 0)
-      });
-
-  		
-});
-		
+      });   
+		}
 
 
 	</script>
+  }
 </body>
