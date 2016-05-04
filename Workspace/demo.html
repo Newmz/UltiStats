@@ -7,12 +7,34 @@
 .background {
 	fill:black;
 }
+.graph {
+  background-color:gray;
+}
  .axis path,
  .axis line {
    fill: none;
    stroke: #000;
    shape-rendering: crispEdges;
  }
+ .bar:hover {
+    fill:gold;
+ }
+ .bar {
+    fill:steelblue;
+ }
+
+ div.tooltip {  
+    position: absolute;     
+    text-align: center;     
+    width: 60px;          
+    height: 28px;         
+    padding: 2px;       
+    font: 12px sans-serif;    
+    background: gold; 
+    border: 0px;    
+    border-radius: 8px;     
+    pointer-events: none;     
+}
 </style>
 <meta charset="UTF-8"></meta>
 </head>
@@ -34,7 +56,13 @@
 			.orient("left")
 			.ticks(10);
 
+      // Define the div for the tooltip
+      var div = d3.select("body").append("div") 
+    .attr("class", "tooltip")       
+    .style("opacity", 0);
+
 	var svg = d3.select("body").append("svg")
+        .attr("id", "graph")
     		.attr("width", width + margin.left + margin.right)
     		.attr("height", height + margin.top + margin.bottom)
   		.append("g")
@@ -48,14 +76,19 @@
 		if (error) throw error;
 		myData = data;
 		myData.forEach(function(d) {
-			
-			for (var stat in d) {
-				if (stat === "name" || stat === "team") continue;
-				d[stat] = +d[stat];
-			}
-			if (d["team"] === "AtlantaHustle2015-stats") {
-				teamData.push(d);
-			}
+			if (d["name"] === "") {
+
+      }
+      else {
+        for (var stat in d) {
+          if (stat === "name" || stat === "team") continue;
+          d[stat] = +d[stat];
+        }
+        if (d["team"] === "AtlantaHustle2015-stats") {
+          teamData.push(d);
+        }
+      }
+  			
 			
 		});
 		//xRange.domain(data.map(function(d) { return d.name; }));
@@ -83,13 +116,28 @@
       .text("Goals");
 
   svg.selectAll("bar")
-      .data(data)
+      .data(teamData)
     .enter().append("rect")
-      .style("fill", "steelblue")
+      .attr("class", "bar")
       .attr("x", function(d) { return xRange(d["name"]); })
       .attr("width", xRange.rangeBand())
       .attr("y", function(d) { return yRange(d["goals"]); })
-      .attr("height", function(d) { return height - yRange(d["goals"]); });
+      .attr("height", function(d) { return height - yRange(d["goals"]); })
+      .on("mouseover", function(d) {
+        //make div tooltip
+        div.transition()    
+                .duration(100)    
+                .style("opacity", .9);
+        div .html(d["name"])  
+                .style("left", (d3.event.pageX) + "px")   
+                .style("top", (d3.event.pageY - 28) + "px");    
+      })
+      .on("mouseout", function(d){
+        div.transition()
+                .duration(100)
+                .style("opacity", 0)
+      });
+
   		
 });
 		
