@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <head>
+<meta charset="utf-8"></head>
 <style>
 .axis {
    font: 10px sans-serif;
@@ -22,8 +23,26 @@
  .bar {
     fill:steelblue;
  }
-.menuSelector {
-  width:140px;
+.selector {
+  height: 400px;
+   width:320px; 
+   overflow-y:auto;
+    overflow-x:auto; 
+    float:auto; 
+    position:absolute;
+     left:800px; 
+     background-color:silver; 
+     border-width:20px; 
+     border-color:black
+}
+
+.stat1 {
+  top:400px;
+  left:20px;
+  position:absolute;
+  background-color:silver;
+  height:16px;
+  display:inline-block;
 }
 
  .dot {
@@ -37,8 +56,8 @@
  div.tooltip {  
     position: absolute;     
     text-align: center;     
-    width: 60px;          
-    height: 28px;         
+    width: 80px;          
+    height: 40px;         
     padding: 2px;       
     font: 12px sans-serif;    
     background: gold; 
@@ -50,14 +69,17 @@
 <meta charset="UTF-8"></meta>
 </head>
 <body>
-<div style="height: 400px; width:320px; overflow-y:auto; overflow-x:auto; float:auto; position:absolute; left:640px;" dir=ltr>
+<div class="selector"  dir=ltr>
   <ul id="dropDownMenu"></ul>
+</div>
+<div class="stat1">
+    <select class="statDropDown"></select>
 </div>
 	<script src="d3.js"></script>
 	<script src="d3.min.js"></script>
 	<script>
 	var margin = {top:20, right:20, left:30, bottom:60},
-	width = 640 - margin.left - margin.right,
+	width = 800 - margin.left - margin.right,
 	height = 400 - margin.top - margin.bottom;
 	
 	var xRange = d3.scale.ordinal(); //.rangeRoundBands([0, width], .1);
@@ -84,6 +106,7 @@
     		.attr("transform", 
           "translate(" + margin.left + "," + margin.top + ")");
 
+      var stats = [];
     	var myData;
     	var graphData = [];
 
@@ -104,16 +127,28 @@
         for (var stat in d) {
           if (stat === "name" || stat === "team") continue;
           d[stat] = +d[stat];
-        }
-        if (d["team"] === "AtlantaHustle2015-stats") {
-          //graphData.push(d);
+          stats.push(stat);
         }
       }        
       
     });
 		
-      newGraph(graphData);
+    populateStatDropDown(stats);
 });
+
+
+  function populateStatDropDown(statList) {
+    var s1 = d3.select("body").append("select")
+          .attr("class", "statDropDown");
+    var s2 = d3.select("body").append("select")
+          .attr("class", "statDropDown");
+
+    d3.selectAll("#statDropDown")
+          .data(statList)
+          .enter()
+          .append("option")
+            .text(function(d) {return d});
+  }
 
   function createSelectionMenu(teamData){
     dropDownMenu.selectAll("li")
@@ -141,7 +176,7 @@
           if (stat === "name" || stat === "team") continue;
           d[stat] = +d[stat];
         }
-        console.log(team["name"])
+        
         if (d["team"] === team["name"]) {
           graphData.push(d);
         }
@@ -153,7 +188,7 @@
 
   function ungraphTeam(team){
     d3.select(this)
-      .style("background-color","white")
+      .style("background-color","silver")
       .on("click", graphTeam)
       .attr("fill", "black")
     var newGraphData = [];
@@ -232,7 +267,7 @@
               div.transition()    
                 .duration(100)    
                 .style("opacity", .9);
-              div .html(d["name"])  
+              div .html(d["name"] + " " + d["team"])  
                       .style("left", (d3.event.pageX) + "px")   
                       .style("top", (d3.event.pageY - 28) + "px");  
             });
@@ -240,7 +275,14 @@
 
   }
 
+ 
+
   function newGraph(graphData, stat) {
+    graphData.sort(function(a,b) {
+      //console.log(a[stat]);
+      //console.log(b[stat]);
+      return -(a[stat]-b[stat]);
+    });
     clearGraph();
     var xRange = d3.scale.ordinal();//.rangeRoundBands([0, width], .1);
     var yRange = d3.scale.linear();//.range([height, 0]);
@@ -248,6 +290,10 @@
       .scale(xRange)
       .orient("bottom");
     xRange.domain(graphData.map(function(d) { return d["name"]; })).rangeRoundBands([0, width], .1);
+    var yAxisFormat = d3.svg.axis()
+      .scale(yRange)
+      .orient("left")
+      .ticks(10);
       yRange.domain([0, d3.max(graphData, function(d) { return d[stat]; })]).range([height, 0]);
 
       svg.append("g")
@@ -282,8 +328,8 @@
         //make div tooltip
         div.transition()    
                 .duration(100)    
-                .style("opacity", .9);
-        div .html(d["name"] + "\n" + d[stat])  
+                .style("opacity", .7);
+        div .html(d["name"] + "\n" + d["team"] + " " + d[stat])  
                 .style("left", (d3.event.pageX) + "px")   
                 .style("top", (d3.event.pageY - 28) + "px");    
       })

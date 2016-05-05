@@ -10,6 +10,8 @@ dataDir = "data"
 newDataDir = "Workspace"
 outfile = open(newDataDir + "/processedPlayerData.csv", 'w')
 teamOutfile = open(newDataDir + "/processedTeamData.csv", 'w')
+teamOutfile.write("name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover)")
+
 for filename in os.listdir(dataDir):
 	if filename[len(filename)-4:] != ".csv":
 		continue
