@@ -5,6 +5,7 @@ from debugging_image import debugging_image
 from report_faulty_lines import report_faulty_lines
 from writeToCSV import writeToCSV
 from trackTeamStats import trackTeamStats
+import re
 
 dataDir = "data"
 newDataDir = "Workspace"
@@ -14,7 +15,20 @@ for filename in os.listdir(dataDir):
 	if filename[len(filename)-4:] != ".csv":
 		continue
 	[players, successLines] = process_spreadsheet(dataDir+"/"+filename)
-	team = filename[:len(filename)-4]
+
+	team = filename[:len(filename)-10]
+	#print team
+	teamWords = re.findall('[A-Z][^A-Z]*', team)
+	print teamWords
+	team = teamWords[0]
+	for i,word in enumerate(teamWords):
+		if word != team:
+			print i
+			if i == (len(teamWords)-1):
+				team += " " + word[:len(filename)-4] + "  " + word[len(filename)-4:]
+			else:
+				team += " " + word
+	print team
 	
 	writeToCSV(players, outfile, team)
 	trackTeamStats(players, teamOutfile, team)
