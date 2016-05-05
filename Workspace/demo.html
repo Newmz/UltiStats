@@ -47,6 +47,7 @@
 
  .dot {
     fill:steelblue;
+    opacity:.6;
  }
  .dot:hover {
     fill:gold;
@@ -57,7 +58,7 @@
     position: absolute;     
     text-align: center;     
     width: 80px;          
-    height: 40px;         
+    height: 55px;         
     padding: 2px;       
     font: 12px sans-serif;    
     background: gold; 
@@ -133,7 +134,7 @@
       
     });
 		
-    populateStatDropDown(stats);
+    //populateStatDropDown(stats);
 });
 
 
@@ -183,7 +184,8 @@
       }       
     });
     //console.log(graphData)
-    newGraph(graphData, "catches");    
+    //newGraph(graphData, "catches");  
+    newScatterPlot(graphData, "catches", "goals")  
   }
 
   function ungraphTeam(team){
@@ -211,7 +213,8 @@
     });
     //console.log(graphData)
     graphData = newGraphData;
-    newGraph(graphData, "catches");    
+    //newGraph(graphData, "catches");    
+    newScatterPlot(graphData, "catches", "goals")  
   }
 
   function clearGraph() {
