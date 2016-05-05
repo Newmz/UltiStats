@@ -45,6 +45,15 @@
   display:inline-block;
 }
 
+.stat2 {
+  top:400px;
+  left:160px;
+  position:absolute;
+  background-color:silver;
+  height:16px;
+  display:inline-block;
+}
+
  .dot {
     fill:steelblue;
     opacity:.6;
@@ -74,8 +83,8 @@
   <ul id="dropDownMenu"></ul>
 </div>
 <div class="stat1">
-    <select class="statDropDown"></select>
 </div>
+<div class="stat2"> </div>
 	<script src="d3.js"></script>
 	<script src="d3.min.js"></script>
 	<script>
@@ -110,6 +119,8 @@
       var stats = [];
     	var myData;
     	var graphData = [];
+      var stat1;
+      var stat2;
 
   d3.csv("processedTeamData.csv", function(error, data){
     if(error) throw error;
@@ -120,6 +131,7 @@
 	d3.csv("processedPlayerData.csv", function(error, data) {
 		if (error) throw error;
 		myData = data;
+    stats = Object.keys(myData[0]);
 		myData.forEach(function(d) {
       if (d["name"] === "") {
 
@@ -128,27 +140,33 @@
         for (var stat in d) {
           if (stat === "name" || stat === "team") continue;
           d[stat] = +d[stat];
-          stats.push(stat);
+          
         }
       }        
       
     });
-		
-    //populateStatDropDown(stats);
+
+    populateStatDropDown(stats);
 });
 
 
   function populateStatDropDown(statList) {
-    var s1 = d3.select("body").append("select")
-          .attr("class", "statDropDown");
-    var s2 = d3.select("body").append("select")
-          .attr("class", "statDropDown");
-
-    d3.selectAll("#statDropDown")
-          .data(statList)
-          .enter()
-          .append("option")
-            .text(function(d) {return d});
+    var s1 = d3.select("div.stat1").append("select")
+          .attr("class", "statDropDown")
+          .attr("top", 700);
+    var s2 = d3.select("div.stat2").append("select")
+          .attr("class", "statDropDown")
+          .attr("top", 700);
+    var inside = s1.selectAll("select")
+            .data(statList).enter()
+            .append("option")
+              .text(function(d) {return d;})
+              .on("click", function(d){stat1 = d;});
+    var inside2 = s2.selectAll("select")
+            .data(statList).enter()
+            .append("option")
+              .text(function(d) {return d;})
+              .on("click", function(d){stat2 = d;});
   }
 
   function createSelectionMenu(teamData){
