@@ -22,7 +22,9 @@
  .bar {
     fill:steelblue;
  }
-
+.menuSelector {
+  width:140px;
+}
 
  .dot {
     fill:steelblue;
@@ -48,7 +50,9 @@
 <meta charset="UTF-8"></meta>
 </head>
 <body>
+<div style="width:300px">
   <ul id="dropDownMenu"></ul>
+</div>
 	<script src="d3.js"></script>
 	<script src="d3.min.js"></script>
 	<script>
@@ -113,15 +117,19 @@
 
   function createSelectionMenu(teamData){
     dropDownMenu.selectAll("li")
+
       .data(teamData)
-      .enter().append("li")
-      .text(function(d){
-        return d["name"];
-      }).on("click", graphTeam);
+      .enter().append("div")
+      .attr("display", "inline-block")
+        .attr("width", 140)
+        .attr("id", "menuSelector")
+        .text(function(d){return d["name"];})
+        .on("click", graphTeam);
   };
 
   function graphTeam(team){
     d3.select(this)
+      .style("background-color", "gold")
       .on("click", ungraphTeam)
       .attr("color", "#e41a1c")
     myData.forEach(function(d) {
@@ -145,6 +153,7 @@
 
   function ungraphTeam(team){
     d3.select(this)
+      .style("background-color","white")
       .on("click", graphTeam)
       .attr("fill", "black")
     var newGraphData = [];
