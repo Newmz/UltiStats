@@ -11,9 +11,6 @@ def trackTeamStats(players, outfile, teamName):
 			else:
 				team[statName] += stat
 
-	outfile.write("name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull\
-	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover)\n")
-
 	outstr = ''
 	outstr += teamName + ","
 	outstr += str(len(team["gameDates"])) + ","
