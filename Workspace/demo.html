@@ -102,10 +102,7 @@
 </div>
 <div class="stat2"> </div>
 <div class="chartType">
-  <select class = "statDropDown">
-    <option value="bar">bar</option>
-    <option value="scatterplot">scatterplot</option>
-  </select>
+  
 </div>
 <div class="chartButton">
     <button class="graphButton" type="button" onclick="updateChart()">New Graph</button>
@@ -144,6 +141,7 @@
     var stats = [];
     var myData;
     var graphData = [];
+    charts = ["bar", "scatterplot"];
      //  var stat1;
      //  var stat2;
   var graphType = d3.select("option.chartType")
@@ -184,6 +182,14 @@
     var s2 = d3.select("div.stat2").append("select")
           .attr("class", "statDropDown")
           .attr("top", 700);
+    var chart = d3.select("div.chartType").append("select")
+          .attr("class", "statDropDown")
+
+    var type = chart.selectAll("select")
+            .data(charts).enter()
+            .append("option")
+              .text(function(d) {return d;})
+              .on("click", function(d){params["chartType"] = d;});
     var inside = s1.selectAll("select")
             .data(statList).enter()
             .append("option")
