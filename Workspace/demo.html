@@ -7,26 +7,24 @@
    font: 10px sans-serif;
  }
  body {
-  background-color:;
-  color:white;
+  background-color:#dddddd;
+  color:#dddddd;
+  font-family: Century Gothic, Century Gothic, AppleGothic, sans-serif
  }
-.background {
-	fill:black;
-}
 .graph {
   background-color:black;
 }
  .axis path,
  .axis line {
    fill: none;
-   stroke: #ffffff;
+   stroke: #000;
    shape-rendering: crispEdges;
  }
  .bar:hover {
     fill:gold;
  }
  .bar {
-    fill:steelblue;
+    fill:#444444;
  }
 .selector {
   height:710px;
@@ -36,31 +34,54 @@
     float:auto; 
     position:absolute;
      left:800px; 
-     background-color:silver; 
-     border-width:20px; 
+     background-color:#444444;  
      border-color:black
+}
+
+.menuSelector {
+  text-align:center;
+  margin-left:40px;
+  margin-right:40px;
 }
 
 .stat1 {
   top:5px;
-  left:20px;
+  left:57px;
   position:absolute;
-  background-color:silver;
   height:16px;
   display:inline-block;
 }
 
 .stat2 {
   top:5px;
-  left:160px;
+  left:240px;
   position:absolute;
-  background-color:silver;
   height:16px;
   display:inline-block;
 }
 
+div.labelY {
+  color: #444444;
+  position:absolute;
+  top:6px;
+  height:16px;
+}
+div.labelX {
+  color: #444444;
+  position:absolute;
+  top:6px;
+  height:16px;
+  left:190px;
+}
+div.labelC {
+  color: #444444;
+  position:absolute;
+  top:6px;
+  height:16px;
+  left:374px;
+}
  .dot {
-    fill:steelblue;
+    fill:#444444;
     opacity:.6;
  }
  .dot:hover {
@@ -68,18 +89,18 @@
  }
 
 .graphButton {
-    top:5px;
-    left: 440px;
+    top:10px;
+    left: 580px;
     position:absolute;
-  height:16px;
-  display:inline-block;
+    height:16px;
+    
  }
 
  .chartType {
   top:5px;
-  left:300px;
+  left:463px;
   position:absolute;
-  background-color:silver;
+  
   height:16px;
   display:inline-block;
 }
@@ -94,7 +115,21 @@
     background: gold; 
     border: 0px;    
     border-radius: 8px;     
-    pointer-events: none;     
+    pointer-events: none   
+}
+
+div.playerInfo {
+  .selector {
+  height:710px;
+   width:320px; 
+   overflow-y:auto;
+    overflow-x:auto; 
+    float:auto; 
+    position:absolute;
+     left:1120px; 
+     background-color:#444444;  
+     border-color:black
+}
 }
 </style>
 <meta charset="UTF-8"></meta>
@@ -107,11 +142,11 @@
 </div>
 <div class="stat2"> </div>
 <div class="chartType">
-  
 </div>
 <div class="chartButton">
     <button class="graphButton" type="button" onclick="updateChart()">New Graph</button>
 </div>
+<div class="playerInfo"> </div>
 	<script src="d3.js"></script>
 	<script src="d3.min.js"></script>
 	<script>
@@ -133,7 +168,10 @@
       var div = d3.select("body").append("div") 
     .attr("class", "tooltip")       
     .style("opacity", 0);
-  var dropDownMenu = d3.select("#dropDownMenu");
+  var dropDownMenu = d3.select("#dropDownMenu")
+        .style("padding-left", 0);
+
+
 
 	var svg = d3.select("body").append("svg")
         .attr("id", "graph")
@@ -142,11 +180,6 @@
   		.append("g")
     		.attr("transform", 
           "translate(" + margin.left + "," + margin.top + ")");
-
-      svg.append("rect")
-            .attr("width", "100%")
-            .attr("height","100%")
-            .fill("black");
 
     params = params = { stat1:"catches", stat2:"name", chartType:"bar"};
     var stats = [];
@@ -187,12 +220,27 @@
 
 
   function populateStatDropDown(statList) {
+    d3.select("body").append("div")
+          .attr("class", "labelX")
+          .text("x-axis:")
+          .style("margin-top", 0)
+          .style("margin-bottom", 0);
+    d3.select("body").append("div")
+          .attr("class", "labelY")
+          .text("y-axis:")
+          .style("margin-top", 0)
+          .style("margin-bottom", 0);
+     d3.select("body").append("div")
+          .attr("class", "labelC")
+          .text("chart type:")
+          .style("margin-top", 0)
+          .style("margin-bottom", 0)
+          .attr("transform");
+
     var s1 = d3.select("div.stat1").append("select")
-          .attr("class", "statDropDown")
-          .attr("top", 700);
+          .attr("class", "statDropDown");
     var s2 = d3.select("div.stat2").append("select")
-          .attr("class", "statDropDown")
-          .attr("top", 700);
+          .attr("class", "statDropDown");
     var chart = d3.select("div.chartType").append("select")
           .attr("class", "statDropDown")
 
@@ -213,16 +261,21 @@
               .on("click", function(d){params["stat2"] = d;});
   }
 
-  function createSelectionMenu(teamData){
-    dropDownMenu.selectAll("li")
+  function createPlayerStats() {
 
+  }
+
+  function createSelectionMenu(teamData){
+    dropDownMenu.selectAll("div")
       .data(teamData)
       .enter().append("div")
       .attr("display", "inline-block")
-        .attr("width", 140)
-        .attr("id", "menuSelector")
+        //.attr("width", 320)
+        .attr("class", "menuSelector")
         .text(function(d){return d["name"];})
         .on("click", graphTeam);
+  dropDownMenu.selectAll("div")
+      .style("align", "center");
   };
 
   function updateChart() {
@@ -237,8 +290,9 @@
   function graphTeam(team){
     d3.select(this)
       .style("background-color", "gold")
+      .style("color", "#444444")
       .on("click", ungraphTeam)
-      .attr("color", "#e41a1c")
+      //.attr("color", "#e41a1c")
     myData.forEach(function(d) {
       if (d["name"] === "") {
 
@@ -261,7 +315,8 @@
 
   function ungraphTeam(team){
     d3.select(this)
-      .style("background-color","silver")
+      .style("background-color","#444444")
+      .style("color", "#dddddd")
       .on("click", graphTeam)
       .attr("fill", "black")
     var newGraphData = [];
@@ -341,9 +396,10 @@
               div.transition()    
                 .duration(100)    
                 .style("opacity", .9);
-              div .html(d["name"] + " " + d["team"])  
+              div .html(d["name"] + " " + d["team"] + " " + d[stat2] + ":" + d[stat1])  
                       .style("left", (d3.event.pageX) + "px")   
-                      .style("top", (d3.event.pageY - 28) + "px");  
+                      .style("top", (d3.event.pageY - 28) + "px")
+                      .style("color", "#444444");  
             })
             .on("mouseout", function(d){
         div.transition()
@@ -385,7 +441,13 @@
       .attr("dy", "-.55em")
       .attr("transform", "rotate(-60)" );
 
-      svg.append("g")
+      if (teamData.length > 30) {
+        svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxisFormat)
+      }
+      else {
+        svg.append("g")
       .attr("class", "y axis")
       .call(yAxisFormat)
     .append("text")
@@ -394,6 +456,8 @@
       .attr("dy", ".71em")
       .style("text-anchor", "end")
       .text(stat);
+      }
+      
 
   svg.selectAll("bar")
       .data(graphData)
@@ -410,7 +474,8 @@
                 .style("opacity", .7);
         div .html(d["name"] + "\n" + d["team"] + " " + d[stat])  
                 .style("left", (d3.event.pageX) + "px")   
-                .style("top", (d3.event.pageY - 28) + "px");    
+                .style("top", (d3.event.pageY - 28) + "px")
+                .style("color", "#444444");    
       })
       .on("mouseout", function(d){
         div.transition()
