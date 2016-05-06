@@ -28,7 +28,7 @@
  }
 .selector {
   height:710px;
-   width:320px; 
+   width:290px; 
    overflow-y:auto;
     overflow-x:auto; 
     float:auto; 
@@ -42,6 +42,11 @@
   text-align:center;
   margin-left:40px;
   margin-right:40px;
+  border-left:2px solid #444444;
+  border-right:2px solid #444444;
+  border-top:1px solid #444444;
+  border-bottom:1px solid #444444;
+  background-color:#444444;
 }
 
 .stat1 {
@@ -60,13 +65,13 @@
   display:inline-block;
 }
 
-div.labelY {
+div.labelX {
   color: #444444;
   position:absolute;
   top:6px;
   height:16px;
 }
-div.labelX {
+div.labelY {
   color: #444444;
   position:absolute;
   top:6px;
@@ -119,17 +124,15 @@ div.labelC {
 }
 
 div.playerInfo {
-  .selector {
   height:710px;
-   width:320px; 
-   overflow-y:auto;
+   width:260px; 
+    overflow-y:auto;
     overflow-x:auto; 
     float:auto; 
     position:absolute;
-     left:1120px; 
+     left:1090px; 
      background-color:#444444;  
-     border-color:black
-}
+     border-left:2px solid #dddddd;
 }
 </style>
 <meta charset="UTF-8"></meta>
@@ -163,7 +166,7 @@ div.playerInfo {
 			.scale(yRange)
 			.orient("left")
 			.ticks(10);
-
+var playerWindow = d3.select("div.playerInfo");
       // Define the div for the tooltip
       var div = d3.select("body").append("div") 
     .attr("class", "tooltip")       
@@ -181,7 +184,7 @@ div.playerInfo {
     		.attr("transform", 
           "translate(" + margin.left + "," + margin.top + ")");
 
-    params = params = { stat1:"catches", stat2:"name", chartType:"bar"};
+    params = params = { stat1:"name", stat2:"goals", chartType:"bar"};
     var stats = [];
     var myData;
     var graphData = [];
@@ -214,7 +217,7 @@ div.playerInfo {
       }        
       
     });
-
+    createPlayerStats
     populateStatDropDown(stats);
 });
 
@@ -242,7 +245,7 @@ div.playerInfo {
     var s2 = d3.select("div.stat2").append("select")
           .attr("class", "statDropDown");
     var chart = d3.select("div.chartType").append("select")
-          .attr("class", "statDropDown")
+          .attr("class", "statDropDown");
 
     var type = chart.selectAll("select")
             .data(charts).enter()
@@ -262,11 +265,12 @@ div.playerInfo {
   }
 
   function createPlayerStats() {
-
+    playerWindow.append("p")
+          .text("suh dude");
   }
 
   function createSelectionMenu(teamData){
-    dropDownMenu.selectAll("div")
+    var list = dropDownMenu.selectAll("div")
       .data(teamData)
       .enter().append("div")
       .attr("display", "inline-block")
@@ -274,13 +278,11 @@ div.playerInfo {
         .attr("class", "menuSelector")
         .text(function(d){return d["name"];})
         .on("click", graphTeam);
-  dropDownMenu.selectAll("div")
-      .style("align", "center");
-  };
+  }
 
   function updateChart() {
     if (params["chartType"] === "bar") {
-      newGraph(graphData, params["stat1"]);
+      newGraph(graphData, params["stat2"]);
     }
     else {
       newScatterPlot(graphData, params["stat1"], params["stat2"]);
@@ -389,7 +391,7 @@ div.playerInfo {
             .data(graphData)
           .enter().append("circle")
             .attr("class", "dot")
-            .attr("r", 3.5)
+            .attr("r", 4.5)
             .attr("cx", xMap)
             .attr("cy", yMap)
             .on("mouseover", function(d) {
