@@ -1,3 +1,5 @@
+#we use this to start the webpage.
+
 import SimpleHTTPServer
 import SocketServer
 import webbrowser

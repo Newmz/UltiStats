@@ -2,17 +2,17 @@
 <head>
 <meta charset="utf-8"></head>
 <style>
-
 .axis {
    font: 10px sans-serif;
  }
+
  body {
   background-color:#dddddd;
   color:#dddddd;
   font-family: Century Gothic, Century Gothic, AppleGothic, sans-serif
  }
 .graph {
-  background-color:black;
+  background-color:gray;
 }
  .axis path,
  .axis line {
@@ -184,7 +184,9 @@ var playerWindow = d3.select("div.playerInfo");
     		.attr("transform", 
           "translate(" + margin.left + "," + margin.top + ")");
 
+
     params = params = { stat1:"name", stat2:"goals", chartType:"bar"};
+
     var stats = [];
     var myData;
     var graphData = [];
