@@ -2,24 +2,19 @@
 <head>
 <meta charset="utf-8"></head>
 <style>
-
 .axis {
    font: 10px sans-serif;
- }
- body {
-  background-color:;
-  color:white;
  }
 .background {
 	fill:black;
 }
 .graph {
-  background-color:black;
+  background-color:gray;
 }
  .axis path,
  .axis line {
    fill: none;
-   stroke: #ffffff;
+   stroke: #000;
    shape-rendering: crispEdges;
  }
  .bar:hover {
@@ -142,13 +137,7 @@
   		.append("g")
     		.attr("transform", 
           "translate(" + margin.left + "," + margin.top + ")");
-
-      svg.append("rect")
-            .attr("width", "100%")
-            .attr("height","100%")
-            .fill("black");
-
-    params = params = { stat1:"catches", stat2:"name", chartType:"bar"};
+      params = params = { stat1:"catches", stat2:"name", chartType:"bar"};
     var stats = [];
     var myData;
     var graphData = [];
