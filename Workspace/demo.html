@@ -5,7 +5,6 @@
 .axis {
    font: 10px sans-serif;
  }
-
  body {
   background-color:#dddddd;
   color:#dddddd;
@@ -37,12 +36,11 @@
      background-color:#444444;  
      border-color:black
 }
-
 .playerInfoItem {
   margin-top:2px;
   margin-bottom:2px;
+  margin-left:6px;
 }
-
 .menuSelector {
   text-align:center;
   margin-left:40px;
@@ -53,7 +51,6 @@
   border-bottom:1px solid #444444;
   background-color:#444444;
 }
-
 .stat1 {
   top:5px;
   left:57px;
@@ -61,15 +58,13 @@
   height:16px;
   display:inline-block;
 }
-
 .stat2 {
   top:5px;
-  left:240px;
+  left:260px;
   position:absolute;
   height:16px;
   display:inline-block;
 }
-
 div.labelX {
   color: #444444;
   position:absolute;
@@ -81,14 +76,14 @@ div.labelY {
   position:absolute;
   top:6px;
   height:16px;
-  left:190px;
+  left:210px;
 }
 div.labelC {
   color: #444444;
   position:absolute;
   top:6px;
   height:16px;
-  left:374px;
+  left:414px;
 }
  .dot {
     fill:#444444;
@@ -97,24 +92,21 @@ div.labelC {
  .dot:hover {
     fill:gold;
  }
-
 .graphButton {
     top:10px;
-    left: 580px;
+    left: 700px;
     position:absolute;
     height:16px;
     
  }
-
  .chartType {
   top:5px;
-  left:463px;
+  left:504px;
   position:absolute;
   
   height:16px;
   display:inline-block;
 }
-
  div.tooltip {  
     position: absolute;     
     text-align: center;     
@@ -127,7 +119,6 @@ div.labelC {
     border-radius: 8px;     
     pointer-events: none   
 }
-
 div.playerInfo {
   height:710px;
    width:260px; 
@@ -155,22 +146,22 @@ div.playerInfo {
     <button class="graphButton" type="button" onclick="updateChart()">New Graph</button>
 </div>
 <div class="playerInfo"> </div>
-	<script src="d3.js"></script>
-	<script src="d3.min.js"></script>
-	<script>
-	var margin = {top:20, right:20, left:30, bottom:60},
-	width = 800 - margin.left - margin.right,
-	height = 770 - margin.top - margin.bottom;
-	
-	var xRange = d3.scale.ordinal(); //.rangeRoundBands([0, width], .1);
-	var yRange = d3.scale.linear();  //.range([height, 0]);
-	var xAxisFormat = d3.svg.axis()
-			.scale(xRange)
-			.orient("bottom");
-	var yAxisFormat = d3.svg.axis()
-			.scale(yRange)
-			.orient("left")
-			.ticks(10);
+  <script src="d3.js"></script>
+  <script src="d3.min.js"></script>
+  <script>
+  var margin = {top:20, right:20, left:30, bottom:60},
+  width = 800 - margin.left - margin.right,
+  height = 770 - margin.top - margin.bottom;
+  
+  var xRange = d3.scale.ordinal(); //.rangeRoundBands([0, width], .1);
+  var yRange = d3.scale.linear();  //.range([height, 0]);
+  var xAxisFormat = d3.svg.axis()
+      .scale(xRange)
+      .orient("bottom");
+  var yAxisFormat = d3.svg.axis()
+      .scale(yRange)
+      .orient("left")
+      .ticks(10);
 var playerWindow = d3.select("div.playerInfo");
       // Define the div for the tooltip
       var div = d3.select("body").append("div") 
@@ -178,19 +169,14 @@ var playerWindow = d3.select("div.playerInfo");
     .style("opacity", 0);
   var dropDownMenu = d3.select("#dropDownMenu")
         .style("padding-left", 0);
-
-
-
-	var svg = d3.select("body").append("svg")
+  var svg = d3.select("body").append("svg")
         .attr("id", "graph")
-    		.attr("width", width + margin.left + margin.right)
-    		.attr("height", height + margin.top + margin.bottom)
-  		.append("g")
-    		.attr("transform", 
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform", 
           "translate(" + margin.left + "," + margin.top + ")");
-
-
-    params = { stat1:"name", stat2:"goals", chartType:"bar",};
+    params = { stat1:"Name", stat2:"goals", chartType:"bar",};
     var stats = [];
     var myData;
     var graphData = [];
@@ -199,24 +185,21 @@ var playerWindow = d3.select("div.playerInfo");
      //  var stat2;
   var graphType = d3.select("option.chartType")
           .on("click", function(d) {console.log(params["chartType"]);})
-
   d3.csv("processedTeamData.csv", function(error, data){
     if(error) throw error;
     teamData = data;
     createSelectionMenu(teamData);
   });
-
-	d3.csv("processedPlayerData.csv", function(error, data) {
-		if (error) throw error;
-		myData = data;
+  d3.csv("processedPlayerData.csv", function(error, data) {
+    if (error) throw error;
+    myData = data;
     stats = Object.keys(myData[0]);
-		myData.forEach(function(d) {
-      if (d["name"] === "") {
-
+    myData.forEach(function(d) {
+      if (d["Name"] === "") {
       }
       else {
         for (var stat in d) {
-          if (stat === "name" || stat === "team") continue;
+          if (stat === "Name" || stat === "Team") continue;
           d[stat] = +d[stat];
           
         }
@@ -225,8 +208,6 @@ var playerWindow = d3.select("div.playerInfo");
     });
     populateStatDropDown(stats);
 });
-
-
   function populateStatDropDown(statList) {
     d3.select("body").append("div")
           .attr("class", "labelX")
@@ -244,14 +225,12 @@ var playerWindow = d3.select("div.playerInfo");
           .style("margin-top", 0)
           .style("margin-bottom", 0)
           .attr("transform");
-
     var s1 = d3.select("div.stat1").append("select")
           .attr("class", "statDropDown");
     var s2 = d3.select("div.stat2").append("select")
           .attr("class", "statDropDown");
     var chart = d3.select("div.chartType").append("select")
           .attr("class", "statDropDown");
-
     var type = chart.selectAll("select")
             .data(charts).enter()
             .append("option")
@@ -268,7 +247,6 @@ var playerWindow = d3.select("div.playerInfo");
               .text(function(d) {return d;})
               .on("click", function(d){params["stat2"] = d;});
   }
-
   function createPlayerStats(player) {
     d3.selectAll("p.playerInfoItem").remove("p");
     var pStats = d3.select("div.playerInfo");
@@ -282,7 +260,6 @@ var playerWindow = d3.select("div.playerInfo");
             t += player[d];
             return t;});
   }
-
   function createSelectionMenu(teamData){
     var list = dropDownMenu.selectAll("div")
       .data(teamData)
@@ -290,10 +267,9 @@ var playerWindow = d3.select("div.playerInfo");
       .attr("display", "inline-block")
         //.attr("width", 320)
         .attr("class", "menuSelector")
-        .text(function(d){return d["name"];})
+        .text(function(d){return d["Name"];})
         .on("click", graphTeam);
   }
-
   function updateChart() {
     if (params["chartType"] === "bar") {
       newGraph(graphData, params["stat2"]);
@@ -302,7 +278,6 @@ var playerWindow = d3.select("div.playerInfo");
       newScatterPlot(graphData, params["stat1"], params["stat2"]);
     }
   }
-
   function graphTeam(team){
     d3.select(this)
       .style("background-color", "gold")
@@ -310,16 +285,15 @@ var playerWindow = d3.select("div.playerInfo");
       .on("click", ungraphTeam)
       //.attr("color", "#e41a1c")
     myData.forEach(function(d) {
-      if (d["name"] === "") {
-
+      if (d["Name"] === "") {
       }
       else {
         for (var stat in d) {
-          if (stat === "name" || stat === "team") continue;
+          if (stat === "Name" || stat === "Team") continue;
           d[stat] = +d[stat];
         }
         
-        if (d["team"] === team["name"]) {
+        if (d["Team"] === team["Name"]) {
           graphData.push(d);
         }
       }       
@@ -328,7 +302,6 @@ var playerWindow = d3.select("div.playerInfo");
     //newGraph(graphData, "catches");  
     updateChart();  
   }
-
   function ungraphTeam(team){
     d3.select(this)
       .style("background-color","#444444")
@@ -337,15 +310,14 @@ var playerWindow = d3.select("div.playerInfo");
       .attr("fill", "black")
     var newGraphData = [];
     graphData.forEach(function(d) {
-      if (d["name"] === "") {
-
+      if (d["Name"] === "") {
       }
       else {
         for (var stat in d) {
-          if (stat === "name" || stat === "team") continue;
+          if (stat === "Name" || stat === "Team") continue;
           d[stat] = +d[stat];
         }
-        if (d["team"] === team["name"]) {
+        if (d["Team"] === team["Name"]) {
           
         }
         else{
@@ -358,7 +330,6 @@ var playerWindow = d3.select("div.playerInfo");
     //newGraph(graphData, "catches");    
     updateChart(); 
   }
-
   function clearGraph() {
     d3.selectAll("svg").remove("#chart");
     svg = d3.select("body").append("svg")
@@ -369,14 +340,12 @@ var playerWindow = d3.select("div.playerInfo");
         .attr("transform", 
           "translate(" + margin.left + "," + margin.top + ")");
   }
-
   function newScatterPlot(graphData, stat1, stat2) {
     clearGraph();
     var xValue = function(d) { return d[stat1]}, // data -> value
         xMap = function(d) { return xRange(xValue(d));}; // data -> display
     var yValue = function(d) { return d[stat2];}, // data -> value
         yMap = function(d) { return yRange(yValue(d));}; // data -> display
-
     xRange = d3.scale.linear().domain([0, d3.max(graphData, function(d) { return d[stat1];})]).range([0, width]);
     yRange.domain([0, d3.max(graphData, function(d) { return d[stat2]; })]).range([height, 0]);
     xAxis = d3.svg.axis().scale(xRange).orient("bottom");
@@ -390,7 +359,6 @@ var playerWindow = d3.select("div.playerInfo");
       .attr("y", -6)
       .style("text-anchor", "end")
       .text(stat1);
-
       svg.append("g")
       .attr("class", "y axis")
       .call(yAxisFormat)
@@ -400,7 +368,6 @@ var playerWindow = d3.select("div.playerInfo");
       .attr("dy", ".71em")
       .style("text-anchor", "end")
       .text(stat2);
-
       svg.selectAll(".dot")
             .data(graphData)
           .enter().append("circle")
@@ -412,7 +379,7 @@ var playerWindow = d3.select("div.playerInfo");
               div.transition()    
                 .duration(100)    
                 .style("opacity", .9);
-              div .html(d["name"] + " " + d["team"] + " " + d[stat2] + ":" + d[stat1])  
+              div .html(d["Name"] + " " + d["Team"] + " " + d[stat2] + ":" + d[stat1])  
                       .style("left", (d3.event.pageX) + "px")   
                       .style("top", (d3.event.pageY - 28) + "px")
                       .style("color", "#444444");  
@@ -423,12 +390,8 @@ var playerWindow = d3.select("div.playerInfo");
                 .duration(100)
                 .style("opacity", 0)
       }); 
-
-
   }
-
  
-
   function newGraph(graphData, stat) {
     graphData.sort(function(a,b) {
       //console.log(a[stat]);
@@ -441,13 +404,12 @@ var playerWindow = d3.select("div.playerInfo");
     var xAxisFormat = d3.svg.axis()
       .scale(xRange)
       .orient("bottom");
-    xRange.domain(graphData.map(function(d) { return d["name"]; })).rangeRoundBands([0, width], .1);
+    xRange.domain(graphData.map(function(d) { return d["Name"]; })).rangeRoundBands([0, width], .1);
     var yAxisFormat = d3.svg.axis()
       .scale(yRange)
       .orient("left")
       .ticks(10);
       yRange.domain([0, d3.max(graphData, function(d) { return d[stat]; })]).range([height, 0]);
-
       svg.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0,690)")
@@ -457,7 +419,6 @@ var playerWindow = d3.select("div.playerInfo");
       .attr("dx", "-.8em")
       .attr("dy", "-.55em")
       .attr("transform", "rotate(-60)" );
-
       if (teamData.length > 30) {
         svg.append("g")
       .attr("class", "y axis")
@@ -475,12 +436,11 @@ var playerWindow = d3.select("div.playerInfo");
       .text(stat);
       }
       
-
   svg.selectAll("bar")
       .data(graphData)
     .enter().append("rect")
       .attr("class", "bar")
-      .attr("x", function(d) { return xRange(d["name"]); })
+      .attr("x", function(d) { return xRange(d["Name"]); })
       .attr("width", xRange.rangeBand())
       .attr("y", function(d) { return yRange(d[stat]); })
       .attr("height", function(d) { return height - yRange(d[stat]); })
@@ -489,7 +449,7 @@ var playerWindow = d3.select("div.playerInfo");
         div.transition()    
                 .duration(100)    
                 .style("opacity", .7);
-        div .html(d["name"] + "\n" + d["team"] + " " + d[stat])  
+        div .html(d["Name"] + "\n" + d["Team"] + " " + d[stat])  
                 .style("left", (d3.event.pageX) + "px")   
                 .style("top", (d3.event.pageY - 28) + "px")
                 .style("color", "#444444");    
@@ -500,9 +460,7 @@ var playerWindow = d3.select("div.playerInfo");
                 .duration(100)
                 .style("opacity", 0)
       });   
-		}
-
-
-	</script>
+    }
+  </script>
   
 </body>
