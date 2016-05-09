@@ -27,7 +27,7 @@ for filename in os.listdir(dataDir):
 		if word != team:
 			print i
 			if i == (len(teamWords)-1):
-				team += " " + word[:len(filename)-4] + "  " + word[len(filename)-4:]
+				team += " " + word[:len(word)-4] + "  " + word[len(word)-4:]
 			else:
 				team += " " + word
 	print team
