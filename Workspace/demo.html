@@ -94,7 +94,7 @@ div.labelC {
  }
 .graphButton {
     top:10px;
-    left: 700px;
+    left: 600px;
     position:absolute;
     height:16px;
     
@@ -225,6 +225,8 @@ var playerWindow = d3.select("div.playerInfo");
           .style("margin-top", 0)
           .style("margin-bottom", 0)
           .attr("transform");
+    d3.select("body").append("div")
+          .attr("class", "labelD");
     var s1 = d3.select("div.stat1").append("select")
           .attr("class", "statDropDown");
     var s2 = d3.select("div.stat2").append("select")
