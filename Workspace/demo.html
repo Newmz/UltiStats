@@ -38,6 +38,11 @@
      border-color:black
 }
 
+.playerInfoItem {
+  margin-top:2px;
+  margin-bottom:2px;
+}
+
 .menuSelector {
   text-align:center;
   margin-left:40px;
@@ -185,8 +190,7 @@ var playerWindow = d3.select("div.playerInfo");
           "translate(" + margin.left + "," + margin.top + ")");
 
 
-    params = params = { stat1:"name", stat2:"goals", chartType:"bar"};
-
+    params = { stat1:"name", stat2:"goals", chartType:"bar",};
     var stats = [];
     var myData;
     var graphData = [];
@@ -219,7 +223,6 @@ var playerWindow = d3.select("div.playerInfo");
       }        
       
     });
-    createPlayerStats
     populateStatDropDown(stats);
 });
 
@@ -266,9 +269,18 @@ var playerWindow = d3.select("div.playerInfo");
               .on("click", function(d){params["stat2"] = d;});
   }
 
-  function createPlayerStats() {
-    playerWindow.append("p")
-          .text("suh dude");
+  function createPlayerStats(player) {
+    d3.selectAll("p.playerInfoItem").remove("p");
+    var pStats = d3.select("div.playerInfo");
+    pStats = pStats.selectAll("p").data(Object.keys(player));
+    pStats.attr("class", "playerInfoItem");
+    pStats.enter().append("p")
+          .attr("class", "playerInfoItem")
+          .text(function(d) {
+            var t = "";
+            t += d + ": ";
+            t += player[d];
+            return t;});
   }
 
   function createSelectionMenu(teamData){
@@ -405,6 +417,7 @@ var playerWindow = d3.select("div.playerInfo");
                       .style("top", (d3.event.pageY - 28) + "px")
                       .style("color", "#444444");  
             })
+            .on("click", function(d) {createPlayerStats(d);})
             .on("mouseout", function(d){
         div.transition()
                 .duration(100)
@@ -481,6 +494,7 @@ var playerWindow = d3.select("div.playerInfo");
                 .style("top", (d3.event.pageY - 28) + "px")
                 .style("color", "#444444");    
       })
+      .on("click", function(d) {createPlayerStats(d);})
       .on("mouseout", function(d){
         div.transition()
                 .duration(100)

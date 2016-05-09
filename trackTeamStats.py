@@ -39,3 +39,4 @@ def trackTeamStats(players, outfile, teamName):
 	outstr += "\n"
 	outfile.write(outstr)
 	
+	
