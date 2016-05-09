@@ -1,897 +1,897 @@
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,0,0,0,0,0,0,194,0,0,0,0,0,0,0,0,194,0,0,0,Atlanta Hustle2015  
-Allan L,8,9901,24,12,99,30,84,101,75,5,5,58,6.89453448276,0,0,0,9,2,2,0,Atlanta Hustle2015  
-Dylan T,11,20637,209,160,22,12,372,408,299,14,48,3,7.05966666667,0,0,1,31,6,1,1,Atlanta Hustle2015  
-F Wooten,10,8294,45,33,63,16,55,64,41,5,4,22,7.24314285714,0,0,0,4,0,0,0,Atlanta Hustle2015  
-Sun,1,1889,2,1,16,7,11,11,11,0,2,2,6.9515,0,0,0,2,0,0,0,Atlanta Hustle2015  
-Vickroy,1,2009,2,1,18,7,10,7,8,2,1,1,5.387,0,0,0,0,0,0,0,Atlanta Hustle2015  
-Sebbi D,6,4755,5,5,58,21,37,44,32,2,2,2,5.492,0,0,0,3,0,0,0,Atlanta Hustle2015  
-Dylan,1,1208,15,11,2,1,33,34,24,2,4,0,0,0,0,0,2,0,0,0,Atlanta Hustle2015  
-S Sears,10,12645,34,19,123,30,48,35,36,12,5,0,0,0,0,0,3,0,0,1,Atlanta Hustle2015  
-B. Liu,3,4892,22,15,47,14,46,53,41,2,6,0,0,0,0,0,2,0,0,0,Atlanta Hustle2015  
-RSimmons,5,3830,2,1,52,20,20,14,16,4,3,0,0,0,0,0,2,2,0,0,Atlanta Hustle2015  
-Kyle S,15,27077,280,216,36,22,542,553,381,16,29,4,6.8855,1,0,0,23,3,0,0,Atlanta Hustle2015  
-J Clark,10,18734,169,121,30,14,269,243,241,26,19,13,7.6306,0,0,0,19,4,1,0,Atlanta Hustle2015  
-B Hannah,9,13402,77,49,90,26,142,134,127,15,15,25,6.43496,0,0,1,14,4,3,1,Atlanta Hustle2015  
-Leonard,1,1203,14,12,1,1,21,20,19,1,3,0,0,0,0,0,0,0,0,0,Atlanta Hustle2015  
-A Olsen,11,11628,8,4,141,41,66,57,60,6,4,0,0,0,0,1,4,2,0,0,Atlanta Hustle2015  
-Breault,10,12506,42,28,130,49,125,127,115,9,20,15,5.19,0,0,0,9,2,1,0,Atlanta Hustle2015  
-Anonymous,1,0,0,0,0,0,3,7,1,0,0,0,0,0,0,0,2,1,0,0,Atlanta Hustle2015  
-TGoforth,8,7895,28,16,77,23,36,38,33,2,5,1,4.802,0,0,0,5,1,0,0,Atlanta Hustle2015  
-RBradham,11,12590,8,5,165,53,62,40,40,22,5,0,0,0,0,0,6,0,0,0,Atlanta Hustle2015  
-R Runner,11,23293,50,32,216,68,195,261,182,11,17,53,6.28878846154,0,0,0,21,1,2,1,Atlanta Hustle2015  
-Matt S,13,21754,240,185,29,16,291,223,225,66,17,1,6.7,0,0,0,3,2,0,1,Atlanta Hustle2015  
-Erickson,1,657,10,6,2,1,10,9,9,1,1,0,0,0,0,0,0,0,0,0,Atlanta Hustle2015  
-J Feng,4,3352,3,1,44,14,37,35,35,2,2,1,7.736,0,0,0,2,1,0,0,Atlanta Hustle2015  
-Tree,1,1483,1,0,16,7,5,8,4,1,2,0,0,0,0,0,1,0,0,0,Atlanta Hustle2015  
-M. Poole,8,12553,160,129,13,10,218,209,174,11,16,0,0,0,0,0,7,1,0,0,Atlanta Hustle2015  
-Boezi,1,107,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2015  
-M Spear,12,19753,42,25,216,61,181,205,169,11,27,133,6.62411111111,0,0,1,31,3,5,0,Atlanta Hustle2015  
-Poole,1,1118,16,12,1,1,23,20,19,3,2,0,0,0,0,0,0,0,0,0,Atlanta Hustle2015  
-S. Hicks,13,15390,154,125,56,20,191,184,136,16,16,21,6.40542105263,0,0,1,10,2,3,2,Atlanta Hustle2015  
-A Taylor,1,836,13,9,0,0,25,23,24,1,2,0,0,0,0,0,1,1,0,0,Atlanta Hustle2015  
-D Cox,7,6300,10,7,76,17,28,24,25,3,2,0,0,0,0,0,4,0,0,0,Atlanta Hustle2015  
-Jack K,9,9689,31,19,111,32,70,62,62,8,3,0,0,0,0,0,4,1,0,0,Atlanta Hustle2015  
-Gainer,1,1341,16,12,4,2,26,22,23,3,2,0,0,0,0,0,0,1,0,0,Atlanta Hustle2015  
-Kelvin W,1,1292,1,1,16,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2015  
-Archie,13,17569,22,9,196,61,57,47,46,11,12,0,0,0,0,0,3,1,0,0,Atlanta Hustle2015  
-Trenton,1,1159,14,10,3,2,9,5,5,4,0,0,0,0,0,0,1,0,0,0,Atlanta Hustle2015  
-Berendes,1,1035,1,1,12,5,4,4,3,1,0,0,0,0,0,0,1,0,0,0,Atlanta Hustle2015  
-T Spinks,11,19583,37,21,207,59,90,82,81,9,7,0,0,0,0,0,8,2,0,0,Atlanta Hustle2015  
-R James,10,7727,11,7,117,39,44,38,37,7,2,0,0,0,0,0,2,0,0,0,Atlanta Hustle2015  
-Runner,1,1695,2,1,16,6,11,23,11,0,2,12,6.58354545455,0,0,0,1,1,1,0,Atlanta Hustle2015  
-JP Burns,1,1846,2,1,15,7,11,11,10,1,1,0,0,1,0,0,1,2,0,0,Atlanta Hustle2015  
-B. Moore,11,21211,219,166,30,14,225,200,193,25,21,1,5.722,0,0,0,9,3,0,0,Atlanta Hustle2015  
-Sears,1,949,0,0,12,6,3,2,2,1,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2015  
-Sun Choi,4,2993,5,3,44,13,24,21,19,4,0,0,0,0,0,0,5,0,0,0,Atlanta Hustle2015  
-Bradham,1,798,0,0,12,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2015  
-C. Olsen,10,19392,193,155,27,15,298,266,266,31,30,0,0,0,0,0,18,0,0,1,Atlanta Hustle2015  
-Matt K.,9,11893,71,48,95,26,135,158,111,1,13,8,6.7815,0,0,0,10,2,0,0,Atlanta Hustle2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,33,0,0,0,Atlanta Hustle2016  
-Allan L,2,2321,5,3,26,11,21,26,19,1,5,22,7.52340909091,0,0,0,1,1,2,0,Atlanta Hustle2016  
-Sun,2,2138,2,1,19,8,16,16,16,0,2,2,6.9515,0,0,0,3,0,0,0,Atlanta Hustle2016  
-Vickroy,2,3350,6,4,29,13,26,20,22,4,3,1,5.387,0,0,0,1,1,0,0,Atlanta Hustle2016  
-Bradham,2,2457,1,0,27,13,4,1,1,3,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2016  
-Kyle S,2,2457,26,20,2,1,60,61,47,1,1,0,0,1,0,0,3,2,0,0,Atlanta Hustle2016  
-Leonard,2,2514,26,20,1,1,54,50,46,1,4,0,0,0,0,0,2,1,0,1,Atlanta Hustle2016  
-A Olsen,1,1737,1,1,18,7,8,6,7,1,1,0,0,0,0,0,1,1,0,0,Atlanta Hustle2016  
-Breault,1,573,0,0,12,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2016  
-Dylan,2,1979,24,17,2,1,62,65,49,3,5,0,0,0,0,0,5,0,0,0,Atlanta Hustle2016  
-Erickson,2,2554,19,13,5,2,23,19,19,4,1,0,0,0,0,0,1,0,0,0,Atlanta Hustle2016  
-Hicks,1,489,3,1,4,1,8,8,7,0,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2016  
-Tree,2,3153,4,2,26,11,11,15,9,2,2,0,0,0,0,0,2,0,0,0,Atlanta Hustle2016  
-C Olsen,1,1484,5,3,9,4,16,15,16,0,2,0,0,0,0,0,1,0,0,1,Atlanta Hustle2016  
-Poole,2,2429,28,20,1,1,48,45,44,3,5,0,0,0,0,0,2,0,0,0,Atlanta Hustle2016  
-Boecking,1,967,6,5,6,2,23,23,23,0,0,0,0,0,0,0,1,1,0,0,Atlanta Hustle2016  
-A Taylor,1,836,13,9,0,0,25,23,24,1,2,0,0,0,0,0,1,1,0,0,Atlanta Hustle2016  
-Gainer,2,3237,28,21,6,2,40,35,35,5,3,0,0,0,0,0,0,1,0,0,Atlanta Hustle2016  
-Kelvin W,1,1292,1,1,16,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2016  
-Archie,1,842,0,0,12,3,4,2,3,1,1,0,0,0,0,0,0,0,0,0,Atlanta Hustle2016  
-Trenton,2,3164,24,17,8,3,22,16,16,6,0,0,0,0,0,0,1,0,0,0,Atlanta Hustle2016  
-Berendes,1,1035,1,1,12,5,4,4,3,1,0,0,0,0,0,0,1,0,0,0,Atlanta Hustle2016  
-Runner,2,2838,6,4,26,11,25,44,22,1,3,19,6.49005882353,0,0,0,1,2,1,0,Atlanta Hustle2016  
-JP Burns,2,3951,6,3,28,13,20,20,18,1,2,0,0,1,0,0,1,2,0,0,Atlanta Hustle2016  
-Sears,2,2558,3,2,25,9,7,3,3,4,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2016  
-Wooten,1,367,0,0,9,2,2,1,2,0,0,0,0,0,0,0,1,1,0,0,Atlanta Hustle2016  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,128,2,1,3,0,0,130,0,0,0,0,0,0,0,0,130,0,0,0,Charlotte Express2015  
-Olson E,8,14819,153,97,14,8,418,421,357,5,24,0,0,0,0,0,27,3,0,0,Charlotte Express2015  
-Burns E,12,16840,87,44,109,17,109,93,96,13,7,1,5.4,0,0,0,7,2,0,0,Charlotte Express2015  
-Schanz R,6,4810,15,4,53,13,30,24,25,5,1,0,0,0,0,0,2,1,0,0,Charlotte Express2015  
-Stone J,14,25508,256,161,34,15,564,587,455,9,19,1,4.283,0,0,0,27,6,0,0,Charlotte Express2015  
-Lieber J,3,4454,39,29,7,2,64,67,59,0,5,0,0,0,0,0,3,4,0,0,Charlotte Express2015  
-Grunin A,13,9320,16,5,107,27,38,32,33,5,4,0,0,0,0,0,5,1,0,0,Charlotte Express2015  
-Lee S,11,9743,82,46,38,14,184,181,158,6,6,0,0,0,0,0,9,1,0,0,Charlotte Express2015  
-Hood M,13,28529,190,115,99,26,279,273,252,20,37,17,6.19947058824,0,0,2,29,7,2,0,Charlotte Express2015  
-Russel A,12,20347,96,50,127,24,217,245,194,5,18,2,5.4495,0,0,0,28,4,1,0,Charlotte Express2015  
-Johnso C,7,8419,11,2,75,16,12,7,8,4,0,0,0,0,0,0,0,1,0,0,Charlotte Express2015  
-Stukes M,3,2573,16,7,20,2,11,10,8,2,1,0,0,0,0,0,2,0,0,0,Charlotte Express2015  
-Kelley S,14,15746,43,17,137,31,51,39,42,9,6,0,0,0,0,0,2,1,0,0,Charlotte Express2015  
-Anonymous,1,0,0,0,0,0,16,37,12,1,1,25,5.17475,0,0,0,5,1,1,0,Charlotte Express2015  
-Whitti G,4,4792,46,25,11,3,58,56,50,3,2,1,0,0,0,0,7,1,0,0,Charlotte Express2015  
-Barry I,11,15371,155,96,53,17,368,363,294,10,1,0,0,1,0,0,13,7,0,0,Charlotte Express2015  
-Muniz C,14,25228,236,151,65,21,365,351,336,23,39,9,5.76411111111,0,0,3,37,2,0,0,Charlotte Express2015  
-Welchm D,10,15930,81,41,103,23,89,79,80,8,6,0,0,0,0,0,4,2,0,0,Charlotte Express2015  
-Schopl D,8,9140,40,26,53,10,29,25,24,5,5,0,0,0,0,0,1,0,0,0,Charlotte Express2015  
-Silva K,11,14564,123,73,38,12,113,85,87,26,3,0,0,0,0,2,8,1,0,0,Charlotte Express2015  
-Glenn M,8,9285,36,17,81,16,44,45,41,2,4,38,6.61865789474,0,0,0,5,1,4,0,Charlotte Express2015  
-Fontai S,10,16401,175,115,15,11,178,146,144,33,18,0,0,0,0,0,8,1,0,0,Charlotte Express2015  
-Howey E,12,16176,63,29,153,27,117,139,91,12,11,26,5.778625,0,0,0,14,4,0,0,Charlotte Express2015  
-Fox E,11,13014,126,74,10,6,229,235,172,1,12,0,0,0,0,0,10,7,0,1,Charlotte Express2015  
-Nordeg J,11,18066,56,33,141,27,99,81,79,20,11,0,0,0,0,0,6,2,0,0,Charlotte Express2015  
-Sisco S,8,13832,50,31,97,30,66,59,50,16,7,0,0,0,0,0,5,0,0,0,Charlotte Express2015  
-McCall S,2,1801,17,11,3,2,33,29,31,2,1,0,0,0,0,1,3,1,0,0,Charlotte Express2015  
-Saffa Z,5,4759,10,5,55,11,18,18,17,1,1,9,6.50355555556,0,0,0,2,0,1,0,Charlotte Express2015  
-Gardne M,11,18001,30,13,162,31,72,89,63,7,4,144,6.61995804196,0,0,0,9,0,10,0,Charlotte Express2015  
-Gerber C,6,5334,34,19,32,6,28,21,22,6,4,0,0,0,0,0,1,0,0,0,Charlotte Express2015  
-Porter K,8,15321,81,43,68,13,56,54,47,9,9,0,0,0,0,0,11,2,0,0,Charlotte Express2015  
-Bostia A,10,7015,29,13,81,15,24,21,21,3,3,0,0,0,0,0,4,0,0,0,Charlotte Express2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,35,0,0,1,0,0,204,0,0,0,0,0,0,0,0,204,0,0,0,Chicago Wildfire2015  
-Sheehan,10,8462,19,10,113,40,177,192,172,2,13,4,5.10275,0,0,0,18,0,0,0,Chicago Wildfire2015  
-Danny,11,10451,79,58,52,21,88,63,64,24,4,1,0,0,0,0,3,2,0,0,Chicago Wildfire2015  
-Zubair,4,4512,2,1,37,16,37,38,35,2,3,2,5.259,0,0,0,4,1,0,0,Chicago Wildfire2015  
-DW,12,15999,40,25,144,46,93,86,82,7,5,0,0,0,0,0,1,1,0,0,Chicago Wildfire2015  
-Vock,9,7826,28,22,61,19,38,28,28,10,2,1,6.125,0,0,0,2,0,0,0,Chicago Wildfire2015  
-Matzuka,10,30061,127,86,198,80,630,752,569,5,40,88,4.97945588235,0,0,0,31,15,2,0,Chicago Wildfire2015  
-Max,10,8379,7,3,91,37,42,48,37,5,1,0,0,0,0,0,4,0,0,0,Chicago Wildfire2015  
-Kennedy,10,10451,19,12,106,40,112,124,98,9,4,3,4.5105,0,0,0,14,1,0,0,Chicago Wildfire2015  
-MattSteg,4,6067,22,12,30,11,37,33,31,5,2,0,0,0,0,0,2,0,0,0,Chicago Wildfire2015  
-Cullen,11,20892,136,94,72,29,245,229,230,15,27,1,0,0,0,0,25,4,0,0,Chicago Wildfire2015  
-Jack,7,12595,71,45,37,20,70,56,57,13,2,0,0,0,0,0,5,0,0,0,Chicago Wildfire2015  
-Anonymous,1,0,0,0,0,0,11,27,7,1,1,18,4.557,0,0,0,7,0,1,0,Chicago Wildfire2015  
-JSS,8,5842,13,8,62,24,40,33,36,4,1,15,5.99173333333,0,0,0,3,2,1,0,Chicago Wildfire2015  
-Slymer,10,14068,24,12,134,50,74,60,60,14,6,0,0,0,0,0,6,1,0,0,Chicago Wildfire2015  
-Silver,1,1383,1,0,12,7,13,12,12,1,1,0,0,0,0,0,0,0,0,0,Chicago Wildfire2015  
-Kaufmann,7,11740,45,35,81,34,71,55,53,17,6,12,5.157125,0,0,0,5,1,2,0,Chicago Wildfire2015  
-Roush,2,1404,0,0,15,5,5,4,4,1,0,1,3.249,0,0,0,0,0,0,0,Chicago Wildfire2015  
-JRob,8,8635,13,5,80,30,83,87,81,2,5,26,4.861875,0,0,0,7,0,7,0,Chicago Wildfire2015  
-AJ,7,12917,113,83,31,17,185,154,153,32,10,0,0,0,0,0,7,1,0,0,Chicago Wildfire2015  
-Fergus,10,16147,152,108,27,14,435,440,358,14,19,0,0,0,0,0,20,3,0,0,Chicago Wildfire2015  
-Rory,2,4094,41,34,8,4,33,26,27,6,4,0,0,0,0,0,2,1,0,0,Chicago Wildfire2015  
-Adrian,11,20372,147,98,43,20,284,267,234,10,13,13,5.56076923077,0,0,0,14,13,0,0,Chicago Wildfire2015  
-Bob,11,22933,170,123,54,27,457,488,387,12,32,17,5.3562,0,0,0,34,8,1,0,Chicago Wildfire2015  
-J Silver,6,5674,6,3,54,14,33,37,32,1,3,0,0,0,0,0,2,0,0,0,Chicago Wildfire2015  
-Uber,11,13806,28,21,127,46,72,65,61,11,3,0,0,0,0,0,5,1,0,0,Chicago Wildfire2015  
-Jimmy,8,5055,2,0,63,25,43,48,43,0,3,0,0,0,0,0,1,0,0,0,Chicago Wildfire2015  
-Neil,7,8150,17,12,108,38,54,47,47,7,6,0,0,0,0,0,4,1,0,0,Chicago Wildfire2015  
-Shiel,10,18231,148,110,26,19,298,285,277,14,29,0,0,0,0,0,12,1,0,0,Chicago Wildfire2015  
-Von,3,2895,7,6,31,12,13,10,10,3,2,0,0,0,0,0,1,0,0,0,Chicago Wildfire2015  
-Rathunde,4,3543,0,0,42,17,20,15,16,4,3,0,0,0,0,0,3,0,0,0,Chicago Wildfire2015  
-Goose,11,24697,132,94,131,50,282,287,243,30,32,77,4.4880877193,0,0,0,29,9,1,0,Chicago Wildfire2015  
-Brodie,2,112,1,0,1,0,2,3,1,1,0,0,0,0,0,0,1,0,0,0,Chicago Wildfire2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,70,1,1,6,0,0,182,0,0,0,0,0,0,0,0,182,0,0,0,Cincinnati Revolution2015  
-North K,12,13257,34,17,161,30,95,91,87,6,13,21,5.49023809524,0,0,0,10,3,3,0,Cincinnati Revolution2015  
-Grand C,14,22025,159,88,131,20,257,242,232,17,18,14,5.84192857143,0,0,0,26,3,0,0,Cincinnati Revolution2015  
-Harde C,9,16588,120,71,64,13,124,98,98,23,11,0,0,0,0,0,11,4,0,0,Cincinnati Revolution2015  
-Huffer W,13,17979,121,67,84,17,177,183,153,14,13,27,6.06811538462,0,0,0,26,3,1,0,Cincinnati Revolution2015  
-T Phil,1,550,13,4,1,0,10,11,7,0,1,0,0,0,0,0,0,0,0,0,Cincinnati Revolution2015  
-Jeffer I,10,13443,101,54,51,7,137,133,124,4,7,24,6.81866666667,0,0,0,5,2,1,0,Cincinnati Revolution2015  
-Mack Ed,13,27556,281,166,16,5,468,443,400,18,25,0,0,0,0,0,20,6,0,0,Cincinnati Revolution2015  
-Anonymous,1,0,0,0,0,0,2,3,2,0,0,1,0,0,0,0,0,0,0,0,Cincinnati Revolution2015  
-Misleh G,13,23971,242,143,46,10,330,290,285,38,32,3,5.91033333333,0,0,0,41,5,0,0,Cincinnati Revolution2015  
-Elder D,8,3360,3,3,53,6,15,16,13,1,2,0,0,0,0,0,2,0,0,0,Cincinnati Revolution2015  
-Graves D,13,8594,8,3,125,20,42,40,37,4,4,0,0,0,0,0,4,2,0,0,Cincinnati Revolution2015  
-Brinkm E,12,14002,54,28,153,23,102,108,87,8,10,5,4.4868,0,0,0,11,3,0,0,Cincinnati Revolution2015  
-Settle T,14,30768,281,157,46,12,503,493,412,25,24,2,4.17,0,0,1,33,6,0,0,Cincinnati Revolution2015  
-Landis T,7,11626,115,74,7,3,63,45,47,16,3,0,0,0,0,0,2,0,0,0,Cincinnati Revolution2015  
-Fox Cody,10,16728,129,69,91,9,239,247,205,6,8,3,2.71266666667,0,0,2,21,5,0,0,Cincinnati Revolution2015  
-Schrin S,12,30108,265,160,45,12,579,670,441,17,33,0,0,0,0,2,49,10,0,0,Cincinnati Revolution2015  
-Kyle Rom,8,7954,19,10,95,13,25,16,17,8,0,10,5.4565,0,0,0,0,0,0,0,Cincinnati Revolution2015  
-Dinan,2,644,0,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Cincinnati Revolution2015  
-Kaylor Z,12,13147,26,10,151,22,85,91,81,0,1,0,0,0,0,0,8,4,0,0,Cincinnati Revolution2015  
-Latz J,8,11411,114,69,10,3,118,116,110,7,9,0,0,0,0,0,16,3,0,0,Cincinnati Revolution2015  
-Greg,2,750,0,0,10,1,6,4,6,0,0,0,0,0,0,0,2,0,0,0,Cincinnati Revolution2015  
-Moore S,11,8029,8,4,102,17,18,15,14,4,0,0,0,0,0,0,1,0,0,0,Cincinnati Revolution2015  
-Sage Ben,2,1393,8,5,21,2,14,14,12,1,3,17,6.92675,0,0,0,2,0,1,0,Cincinnati Revolution2015  
-Bisson N,7,2962,7,3,35,4,19,17,17,2,1,0,0,0,0,0,6,0,0,0,Cincinnati Revolution2015  
-Kelly K,9,16442,138,82,32,4,262,253,246,9,9,9,6.622,0,0,1,16,1,0,0,Cincinnati Revolution2015  
-Sage,1,1204,0,0,22,4,2,4,2,0,1,5,6.2736,0,0,0,0,0,0,0,Cincinnati Revolution2015  
-Mccart C,12,18105,134,78,76,16,308,321,268,8,8,0,0,0,0,0,24,4,0,0,Cincinnati Revolution2015  
-Dan Latz,6,13236,90,54,36,5,197,212,169,1,14,0,0,0,0,0,18,5,0,0,Cincinnati Revolution2015  
-Carrol K,14,14237,29,11,169,26,50,43,40,10,2,0,0,0,0,0,5,0,0,0,Cincinnati Revolution2015  
-Wetzel N,5,9161,45,21,59,12,96,106,88,5,1,34,5.88838235294,0,0,0,8,5,1,0,Cincinnati Revolution2015  
-Jansen B,12,8581,10,4,118,12,34,32,30,4,3,90,6.12779775281,0,0,1,4,0,7,0,Cincinnati Revolution2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,225,3,2,9,2,0,193,0,0,0,0,0,0,0,0,193,0,0,0,D C Breeze2015  
-Antoin D,4,3812,4,1,38,15,24,19,20,4,3,0,0,0,0,0,3,2,0,0,D C Breeze2015  
-Daniel S,14,24344,37,18,242,81,142,221,133,2,24,180,5.51164571429,0,0,0,18,9,21,0,D C Breeze2015  
-Troy H,7,6779,15,9,79,26,47,46,40,7,5,0,0,0,0,0,5,0,0,0,D C Breeze2015  
-Anthon M,7,8277,77,55,23,7,85,74,76,9,4,1,6.982,0,0,0,9,2,0,0,D C Breeze2015  
-Jon P,12,17805,141,93,84,25,134,118,115,19,11,6,5.4502,0,0,0,17,3,1,1,D C Breeze2015  
-Zach B,8,6858,65,35,32,11,107,113,70,2,8,0,0,0,0,0,4,4,0,0,D C Breeze2015  
-Ben F,13,22043,104,58,147,34,224,229,201,10,16,2,4.4185,0,0,1,19,4,0,1,D C Breeze2015  
-Andrew A,11,10254,15,7,145,37,47,38,32,15,6,0,0,0,0,0,2,3,0,0,D C Breeze2015  
-Seth C,5,6452,34,18,42,13,66,67,61,3,3,5,4.68925,0,0,0,14,0,1,0,D C Breeze2015  
-Jarnai B,12,20383,210,129,14,8,476,504,426,8,26,0,0,0,0,3,37,12,0,2,D C Breeze2015  
-Anonymous,1,0,0,0,0,0,11,20,6,1,1,34,2.96028571429,0,0,0,5,1,0,0,D C Breeze2015  
-Leo P,10,13448,61,38,84,32,104,107,77,7,4,0,0,0,0,0,4,0,0,0,D C Breeze2015  
-Kyle K,6,4712,5,4,44,19,24,22,21,3,5,1,0,0,0,0,2,0,0,0,D C Breeze2015  
-Mike M,14,13877,16,6,159,50,48,46,37,10,6,0,0,0,0,0,4,2,0,0,D C Breeze2015  
-David B,12,21247,184,117,39,13,251,251,176,15,27,2,3.0105,0,0,1,30,2,0,0,D C Breeze2015  
-Matt R,11,14791,15,7,180,53,74,78,66,6,7,7,5.15742857143,0,0,0,7,0,2,0,D C Breeze2015  
-Mark F,14,16880,157,102,12,5,154,130,131,23,19,0,0,0,0,1,12,0,0,0,D C Breeze2015  
-Peter M,9,10074,95,60,23,9,64,61,60,2,5,0,0,0,0,0,1,2,0,0,D C Breeze2015  
-Glenn P,12,17256,135,88,91,26,228,222,190,14,27,12,6.3285,0,0,1,17,1,0,1,D C Breeze2015  
-Peter A,3,2043,19,11,11,4,18,17,16,2,1,0,0,0,0,0,4,0,0,0,D C Breeze2015  
-Franci H,5,6656,46,21,19,7,28,28,25,3,1,0,0,0,0,0,4,0,0,0,D C Breeze2015  
-Clay C,4,4054,42,23,17,7,35,32,31,4,3,0,0,0,0,0,1,0,0,0,D C Breeze2015  
-Russ H,4,7806,36,19,19,7,38,35,26,4,1,0,0,0,0,0,3,1,0,0,D C Breeze2015  
-Bryant D,10,9667,9,4,119,36,44,31,29,15,1,1,6.119,0,0,0,5,0,0,0,D C Breeze2015  
-Matt K,11,22085,212,144,22,10,322,292,283,37,33,0,0,0,0,1,14,1,0,3,D C Breeze2015  
-Brad S,11,20485,48,25,165,48,96,97,83,12,10,0,0,0,0,0,18,1,0,0,D C Breeze2015  
-David BK,9,16007,153,101,17,9,154,130,128,25,17,0,0,0,0,0,10,3,0,0,D C Breeze2015  
-Alex J,6,7343,13,8,93,22,38,38,33,5,4,34,5.92325806452,0,0,0,5,0,2,0,D C Breeze2015  
-Jim B,9,10935,19,8,106,29,38,47,31,2,2,0,0,0,0,0,6,1,1,0,D C Breeze2015  
-Nico L,10,19110,155,103,49,14,323,316,205,14,13,0,0,0,0,0,10,4,0,2,D C Breeze2015  
-Chip C,12,21490,87,44,130,48,87,69,68,19,9,3,8.09966666667,0,0,3,11,3,2,0,D C Breeze2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,655,7,1,1,0,0,160,0,0,0,0,0,0,0,0,160,0,0,0,Detroit Mechanix2015  
-Besser,10,24209,237,96,15,7,389,399,337,6,23,0,0,0,0,0,17,7,0,0,Detroit Mechanix2015  
-Hubbard,14,26747,169,57,204,21,210,165,160,46,7,2,5.3535,0,0,0,4,5,0,0,Detroit Mechanix2015  
-Gerald,5,3056,24,6,25,0,13,11,9,1,1,1,0,0,0,0,2,1,0,0,Detroit Mechanix2015  
-Takashi,14,13224,100,38,78,11,140,139,117,3,5,1,4.34,0,0,0,20,2,0,0,Detroit Mechanix2015  
-Kirk,5,6058,32,4,27,0,9,9,8,0,0,0,0,0,0,0,1,0,0,0,Detroit Mechanix2015  
-Bush,11,20305,217,86,12,5,162,156,144,4,3,0,0,0,0,0,12,1,0,0,Detroit Mechanix2015  
-Souichi,9,5141,33,9,42,0,15,14,12,1,0,0,0,0,0,0,2,0,0,0,Detroit Mechanix2015  
-Del Real,9,20740,214,104,22,8,143,119,116,26,12,0,0,0,0,0,14,0,0,0,Detroit Mechanix2015  
-Murphy,6,7762,44,21,46,9,68,72,55,4,3,9,5.78433333333,0,0,0,6,1,1,0,Detroit Mechanix2015  
-Krantz,11,17652,88,27,150,16,160,189,132,4,7,136,6.03295238095,0,0,0,20,8,2,0,Detroit Mechanix2015  
-Gilson,9,14614,112,45,60,10,77,72,66,5,7,4,4.6955,0,0,0,12,2,0,0,Detroit Mechanix2015  
-Jager,10,19049,199,94,8,4,250,263,182,5,8,1,0,0,0,0,11,4,0,0,Detroit Mechanix2015  
-Chris,8,7887,53,10,69,3,68,70,57,0,2,0,0,0,0,0,13,2,0,0,Detroit Mechanix2015  
-Soldini,9,11633,101,34,47,8,47,34,30,10,1,0,0,0,0,0,9,4,0,0,Detroit Mechanix2015  
-Danny,13,16722,110,32,161,13,137,138,127,6,7,13,3.0195,0,0,0,22,2,0,0,Detroit Mechanix2015  
-Alex,13,11303,69,19,91,5,68,70,53,2,5,24,4.56714285714,0,0,0,14,2,0,0,Detroit Mechanix2015  
-Perdulla,7,3877,17,4,56,3,35,36,31,1,2,0,0,0,0,0,4,0,0,0,Detroit Mechanix2015  
-Wasdi,14,30193,239,107,94,16,382,395,340,2,16,3,5.318,0,0,0,41,8,0,0,Detroit Mechanix2015  
-Anonymous,1,0,0,0,0,0,11,21,7,1,2,10,2.083,0,0,0,9,0,0,0,Detroit Mechanix2015  
-Luca,12,26215,249,122,14,6,469,469,363,2,22,0,0,0,0,0,28,8,0,0,Detroit Mechanix2015  
-Sandberg,10,12549,117,53,50,5,120,121,98,1,3,0,0,0,0,0,5,2,0,0,Detroit Mechanix2015  
-Coulter,7,17236,146,83,31,6,224,198,184,37,27,5,7.8442,0,0,0,25,3,0,0,Detroit Mechanix2015  
-Channing,11,22181,177,77,80,17,225,200,195,22,13,22,5.94038888889,0,0,0,19,6,1,0,Detroit Mechanix2015  
-Scott,12,30388,306,150,48,11,512,528,448,29,48,4,6.6905,0,0,0,79,6,0,0,Detroit Mechanix2015  
-Todd,8,14262,118,65,27,7,97,88,86,9,3,0,0,0,0,0,8,1,0,0,Detroit Mechanix2015  
-Saltsman,13,13764,74,16,157,13,43,37,39,3,1,2,7.811,0,0,0,7,3,0,0,Detroit Mechanix2015  
-Dafeng,12,20303,87,19,149,20,104,119,89,4,6,11,5.31054545455,0,0,0,12,3,0,0,Detroit Mechanix2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-Yoder J,10,10892,21,11,122,37,83,126,75,2,11,16,4.9185,0,0,0,7,1,0,0,Indianapolis Alley Cats2015  
-,1,35,2,2,0,0,0,190,0,0,0,0,0,0,0,0,190,0,0,0,Indianapolis Alley Cats2015  
-Ames M,14,37908,309,197,42,24,714,760,635,6,36,0,0,0,0,1,25,8,0,0,Indianapolis Alley Cats2015  
-Gross R,14,24096,81,58,198,57,142,120,118,24,13,1,1.883,0,0,1,7,2,0,0,Indianapolis Alley Cats2015  
-Steine C,6,4998,5,1,63,22,24,26,22,2,1,2,4.735,0,0,0,2,0,0,0,Indianapolis Alley Cats2015  
-Jarvis R,5,4213,4,0,57,15,7,7,6,1,0,0,0,0,0,0,1,0,0,0,Indianapolis Alley Cats2015  
-Loscar S,12,13513,24,12,163,54,66,54,50,16,6,3,4.793,0,0,0,6,0,0,0,Indianapolis Alley Cats2015  
-Maynar Z,1,1605,1,1,16,3,3,3,3,0,0,0,0,0,0,0,1,0,0,0,Indianapolis Alley Cats2015  
-Cecil J,8,6365,2,1,93,25,22,14,14,8,0,0,0,0,0,0,3,1,0,0,Indianapolis Alley Cats2015  
-Johnso E,11,28323,217,133,29,12,143,113,113,30,15,0,0,0,0,0,10,3,0,0,Indianapolis Alley Cats2015  
-Plew K,14,35653,320,206,25,14,494,454,451,39,64,0,0,0,0,1,26,3,0,0,Indianapolis Alley Cats2015  
-Cox K,11,15176,40,24,146,37,119,154,111,0,13,25,4.97924,0,0,0,19,3,1,0,Indianapolis Alley Cats2015  
-Anonymous,1,0,0,0,0,0,1,7,0,0,0,0,0,0,0,0,1,0,0,0,Indianapolis Alley Cats2015  
-Brock C,14,35033,308,201,27,17,345,283,283,60,37,0,0,0,0,0,27,6,0,0,Indianapolis Alley Cats2015  
-Vander B,9,8644,40,26,84,31,114,119,95,3,3,1,4.752,0,0,0,2,1,0,0,Indianapolis Alley Cats2015  
-Jacobs L,14,29443,171,85,108,39,154,130,130,24,28,6,4.48783333333,0,0,0,14,3,1,1,Indianapolis Alley Cats2015  
-Carpen T,9,18227,46,26,159,48,77,74,62,15,9,67,5.53848484848,0,0,1,7,2,3,0,Indianapolis Alley Cats2015  
-Page N,12,19992,114,78,136,39,144,116,114,30,15,0,0,0,0,0,9,4,0,0,Indianapolis Alley Cats2015  
-Dehnbo M,10,10556,11,3,119,41,27,23,23,4,2,0,0,0,0,0,4,0,0,0,Indianapolis Alley Cats2015  
-Schwar A,13,14618,51,37,144,40,80,75,72,8,5,1,5.117,0,0,0,6,1,0,0,Indianapolis Alley Cats2015  
-Ringwo C,4,2793,3,0,43,4,3,3,3,0,0,0,0,0,0,0,0,1,0,0,Indianapolis Alley Cats2015  
-Cheek J,5,5324,2,0,66,17,30,29,25,5,5,13,5.93938461538,0,0,0,1,0,0,0,Indianapolis Alley Cats2015  
-Hights S,4,4429,38,25,17,5,66,59,55,9,5,0,0,0,0,0,2,0,0,0,Indianapolis Alley Cats2015  
-Hutton N,14,19411,18,8,214,66,77,87,73,4,20,176,5.32755747126,0,0,0,14,1,17,0,Indianapolis Alley Cats2015  
-Young L,9,9015,9,4,113,37,39,36,30,9,6,5,5.15175,0,0,0,3,0,0,0,Indianapolis Alley Cats2015  
-Toine A,13,31819,270,176,27,16,488,498,414,11,15,0,0,0,0,0,19,1,0,0,Indianapolis Alley Cats2015  
-Carlet P,11,17599,36,20,163,47,86,93,76,9,10,18,4.26888888889,0,0,0,21,4,1,0,Indianapolis Alley Cats2015  
-Rasmus H,6,6886,78,58,10,5,66,52,52,13,7,0,0,0,0,0,3,1,0,0,Indianapolis Alley Cats2015  
-Ventur B,12,26723,234,144,12,8,404,405,249,7,6,0,0,0,0,0,23,1,0,1,Indianapolis Alley Cats2015  
-Naji S,11,10521,9,3,131,45,61,101,60,1,8,2,3.9845,0,0,0,8,1,0,0,Indianapolis Alley Cats2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,35,5,5,0,0,0,222,0,0,0,0,0,0,0,0,222,0,0,0,Jacksonville Cannons2015  
-Larocque,4,7776,43,28,53,17,72,71,60,6,10,0,0,0,0,0,7,1,0,0,Jacksonville Cannons2015  
-Travagli,13,19206,53,37,171,50,190,249,176,1,15,155,6.19145833333,0,0,0,22,2,9,0,Jacksonville Cannons2015  
-Langdon,2,4862,7,5,24,12,32,33,27,4,4,0,0,0,0,0,4,0,0,0,Jacksonville Cannons2015  
-Poulos,7,12737,126,105,23,18,264,274,218,13,32,3,7.36333333333,0,0,0,19,2,0,0,Jacksonville Cannons2015  
-Brody J,8,9740,6,2,103,30,33,29,21,10,4,0,0,0,0,0,5,0,0,0,Jacksonville Cannons2015  
-McKelvey,6,7833,6,2,90,22,21,19,18,3,4,0,0,0,0,0,2,0,0,0,Jacksonville Cannons2015  
-Grady E,4,2721,10,4,35,9,15,14,14,1,0,1,0,0,0,0,1,0,0,0,Jacksonville Cannons2015  
-Mi Bode,1,405,0,0,8,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Jacksonville Cannons2015  
-Patterso,7,9553,9,4,108,28,43,46,41,2,2,0,0,0,0,0,4,1,0,0,Jacksonville Cannons2015  
-Gaines A,10,18476,91,60,95,34,106,91,81,17,10,0,0,0,0,0,14,0,0,0,Jacksonville Cannons2015  
-Ierardi,15,19383,24,14,211,58,118,124,109,8,12,20,6.11053846154,0,0,0,10,2,0,0,Jacksonville Cannons2015  
-Roca A,7,7336,24,13,74,21,93,112,86,1,10,0,0,0,0,0,10,3,0,0,Jacksonville Cannons2015  
-Best J,14,24837,124,81,151,47,360,405,322,9,23,10,6.02271428571,0,0,0,32,11,1,0,Jacksonville Cannons2015  
-Jakob D,2,1442,9,4,17,1,10,12,6,0,1,0,0,0,0,0,1,0,0,0,Jacksonville Cannons2015  
-Wharton,12,14487,41,19,140,34,87,82,78,7,10,0,0,0,0,0,6,1,0,0,Jacksonville Cannons2015  
-Freystae,12,23715,211,165,61,32,315,259,253,60,36,0,0,0,0,0,12,3,0,0,Jacksonville Cannons2015  
-Seuntjen,7,8737,9,5,107,25,29,26,25,4,2,0,0,0,0,0,0,1,0,0,Jacksonville Cannons2015  
-Anonymous,1,0,0,0,0,0,0,5,0,0,0,12,3.729,0,0,0,0,0,1,0,Jacksonville Cannons2015  
-Chard R,10,13384,37,19,114,26,63,58,51,10,7,4,6.79,0,0,0,4,0,0,0,Jacksonville Cannons2015  
-Catron T,10,17728,156,125,47,26,198,172,163,29,15,0,0,0,0,0,10,1,0,0,Jacksonville Cannons2015  
-Egger B,6,6498,30,21,63,17,97,103,90,3,4,0,0,0,0,0,7,1,0,0,Jacksonville Cannons2015  
-Hickson,14,26556,254,199,52,23,362,327,259,34,31,2,6.24,0,0,0,23,7,0,0,Jacksonville Cannons2015  
-Bode M,8,15915,152,124,43,20,256,247,197,20,19,0,0,0,0,0,5,1,0,0,Jacksonville Cannons2015  
-Floyd Z,9,6501,15,12,79,20,35,34,31,3,2,1,0,0,0,0,0,1,0,0,Jacksonville Cannons2015  
-Hunter N,11,12455,18,11,112,33,60,51,44,14,4,0,0,1,0,0,4,0,0,0,Jacksonville Cannons2015  
-Shepard,8,6067,9,6,60,16,35,32,31,2,0,0,0,0,0,0,4,1,0,0,Jacksonville Cannons2015  
-Sullivan,13,23705,222,172,52,26,396,395,338,29,55,5,4.8516,0,0,0,47,5,1,0,Jacksonville Cannons2015  
-Perales,14,28476,159,116,143,45,315,333,238,5,24,7,5.42375,0,0,0,20,5,0,0,Jacksonville Cannons2015  
-Walker J,15,20501,67,32,174,43,70,55,49,18,5,134,6.01438596491,0,0,0,3,2,12,0,Jacksonville Cannons2015  
-Van Brus,15,30731,248,187,100,37,209,180,171,33,19,12,6.903,0,0,0,10,2,0,0,Jacksonville Cannons2015  
-Hanselma,3,3161,9,6,32,11,20,16,15,4,0,0,0,0,0,0,1,0,0,0,Jacksonville Cannons2015  
-Carlet B,1,550,1,1,10,2,2,1,1,1,0,0,0,0,0,0,0,0,0,0,Jacksonville Cannons2015  
-Carlet A,15,22955,133,98,149,44,125,110,93,15,7,0,0,0,0,0,5,2,0,0,Jacksonville Cannons2015  
-McCall C,4,2316,9,5,22,4,12,9,9,2,0,0,0,0,0,0,0,1,0,0,Jacksonville Cannons2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,346,1,0,17,15,0,173,0,0,0,0,0,0,0,0,173,0,0,0,Los Angeles Aviators2016  
-Bacon T,6,10916,71,50,45,10,170,172,156,8,18,9,6.579,0,0,0,22,1,2,0,Los Angeles Aviators2016  
-Carlis S,5,3684,6,2,49,12,12,11,11,1,0,0,0,0,0,0,3,0,0,0,Los Angeles Aviators2016  
-Steine M,13,15289,38,18,158,44,125,124,113,9,10,4,6.333,0,0,0,15,5,1,0,Los Angeles Aviators2016  
-Boyd G,13,20122,177,120,28,10,257,251,221,14,15,1,0,0,0,0,15,1,0,0,Los Angeles Aviators2016  
-Carneg H,10,15694,107,71,66,17,135,113,112,22,9,0,0,0,0,0,12,1,0,0,Los Angeles Aviators2016  
-Theodo Z,12,13338,47,21,137,30,81,71,64,13,7,0,0,0,0,0,5,1,0,0,Los Angeles Aviators2016  
-Corbet H,8,13245,43,21,121,34,84,83,73,9,10,3,5.36566666667,0,0,0,6,2,0,0,Los Angeles Aviators2016  
-Lai A,12,19393,182,122,20,7,359,358,277,8,9,3,6.68266666667,0,0,0,16,1,1,0,Los Angeles Aviators2016  
-Anonymous,11,6743,29,17,56,7,61,71,51,5,5,19,5.49073333333,0,0,0,11,1,0,0,Los Angeles Aviators2016  
-Forbes J,7,7667,82,53,7,3,176,177,131,0,4,0,0,0,0,0,12,1,0,1,Los Angeles Aviators2016  
-Oettin D,12,14209,69,37,102,28,176,211,145,2,11,88,6.9274057971,0,0,0,18,3,4,1,Los Angeles Aviators2016  
-Pebley A,7,9035,19,7,89,28,40,34,33,7,4,0,0,0,0,0,2,0,0,0,Los Angeles Aviators2016  
-Nguyen B,13,20739,188,124,34,11,175,145,145,28,13,0,0,0,0,0,11,3,0,0,Los Angeles Aviators2016  
-Evans S,14,22253,47,18,219,69,57,28,28,29,2,0,0,0,0,0,3,0,0,0,Los Angeles Aviators2016  
-Smeltzer,7,3152,7,4,47,12,37,47,31,3,1,9,5.48257142857,0,0,0,5,0,1,0,Los Angeles Aviators2016  
-Chiles I,9,11322,22,13,110,33,59,56,52,7,5,0,0,0,0,0,3,1,0,0,Los Angeles Aviators2016  
-Husak G,4,4026,16,14,31,8,49,47,44,3,4,1,5.95,0,0,0,6,1,0,0,Los Angeles Aviators2016  
-Johns C,1,228,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Los Angeles Aviators2016  
-Lissne E,8,12476,131,95,9,3,237,221,209,17,22,0,0,0,0,1,20,2,0,0,Los Angeles Aviators2016  
-Chang S,12,23266,217,148,25,10,522,556,468,8,33,1,5.717,0,0,0,28,3,0,0,Los Angeles Aviators2016  
-Schakn Z,13,19445,50,25,191,55,132,150,119,3,23,2,6.483,0,0,0,14,1,0,0,Los Angeles Aviators2016  
-Warden N,9,5131,7,2,79,13,16,16,16,0,1,0,0,0,0,0,2,0,0,0,Los Angeles Aviators2016  
-McCrae A,3,1047,11,6,2,0,25,24,21,1,0,0,0,0,0,0,0,0,0,0,Los Angeles Aviators2016  
-Silver J,11,15284,43,21,172,46,124,120,114,8,8,0,0,0,0,0,8,1,0,0,Los Angeles Aviators2016  
-Bellin D,13,13101,26,13,176,49,115,171,102,4,12,150,6.64978225806,0,0,0,18,4,4,0,Los Angeles Aviators2016  
-Alexan N,6,7618,71,54,15,7,188,194,152,6,14,0,0,0,0,0,6,1,0,0,Los Angeles Aviators2016  
-McDoug S,14,22988,173,115,82,22,206,165,164,41,13,0,0,0,0,0,11,1,0,0,Los Angeles Aviators2016  
-Elboge M,13,23264,219,146,35,10,286,254,253,32,29,1,6.483,0,0,0,27,6,0,0,Los Angeles Aviators2016  
-Melo E,9,9868,99,70,7,2,141,144,111,2,8,0,0,0,0,0,9,0,0,0,Los Angeles Aviators2016  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,88,2,2,2,0,0,230,0,0,0,0,0,0,0,0,230,0,0,0,Madison Radicals2015  
-C Wilen,7,7929,14,7,86,24,17,12,12,4,3,2,4.941,0,0,0,1,2,0,0,Madison Radicals2015  
-J Spiro,3,1968,0,0,28,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,Madison Radicals2015  
-J Sculli,17,17694,152,127,62,31,264,289,202,5,21,4,6.41633333333,0,0,0,11,5,0,0,Madison Radicals2015  
-K Garner,7,7196,8,6,95,43,53,63,49,3,9,51,8.08261538462,0,0,1,2,1,1,0,Madison Radicals2015  
-Cooli,16,18846,190,149,40,21,227,207,203,20,6,0,0,0,0,0,11,3,0,0,Madison Radicals2015  
-N Thib,6,6571,66,52,10,6,70,60,59,10,12,0,0,0,0,0,2,2,0,0,Madison Radicals2015  
-S Rich,9,11508,106,84,42,12,125,111,105,19,16,0,0,0,0,3,8,1,0,0,Madison Radicals2015  
-Animal,7,10374,97,76,17,8,190,196,165,10,9,0,0,0,0,0,12,4,0,0,Madison Radicals2015  
-S Meyer,12,16541,36,18,162,55,53,35,31,22,8,0,0,0,0,0,3,2,0,0,Madison Radicals2015  
-B Keren,5,3921,46,35,4,3,91,116,75,3,5,0,0,0,0,0,1,1,0,1,Madison Radicals2015  
-K Alex,12,11313,28,20,122,57,93,92,86,7,5,0,0,0,0,0,6,0,0,0,Madison Radicals2015  
-Anonymous,1,0,0,0,0,0,107,11,2,0,0,0,0,0,0,0,0,0,0,0,Madison Radicals2015  
-B Ever,15,28103,59,40,256,112,225,298,192,14,18,0,0,0,0,0,9,0,0,0,Madison Radicals2015  
-KPS,14,15709,30,22,164,63,81,72,68,13,13,9,6.626,0,0,0,7,2,0,0,Madison Radicals2015  
-M Swain,12,13258,37,29,126,57,94,81,77,17,8,1,0,0,0,0,12,1,0,1,Madison Radicals2015  
-T Debyl,4,4464,3,0,56,21,9,8,8,1,2,0,0,0,0,0,0,1,0,0,Madison Radicals2015  
-B Nelson,15,18444,32,17,182,72,146,186,137,3,15,9,5.07533333333,0,0,0,11,1,0,0,Madison Radicals2015  
-A Brown,15,19751,191,148,30,20,551,600,515,8,24,0,0,0,0,2,14,11,0,0,Madison Radicals2015  
-J Froude,10,16545,45,34,181,71,98,79,77,21,19,1,5.166,0,0,0,10,3,0,1,Madison Radicals2015  
-C Camp,11,13713,133,104,15,10,152,113,118,33,13,0,0,0,0,1,8,3,0,0,Madison Radicals2015  
-A Mesh,17,34114,83,56,337,138,204,175,163,39,34,6,6.7458,0,0,0,25,4,0,0,Madison Radicals2015  
-P Graffy,9,18360,37,21,186,82,113,99,97,16,18,91,6.21463855422,0,0,0,7,4,5,1,Madison Radicals2015  
-K Brown,12,22496,52,33,214,79,143,140,129,14,13,178,5.79963559322,0,0,0,14,2,7,2,Madison Radicals2015  
-D Schlei,6,4538,53,38,4,2,61,48,48,13,3,0,0,0,0,0,3,0,0,0,Madison Radicals2015  
-D Wise,15,19591,180,146,42,19,231,197,187,38,38,13,5.23454545455,0,0,0,16,6,0,0,Madison Radicals2015  
-B Hart,13,17307,159,122,53,27,294,292,236,28,30,0,0,0,0,2,18,4,0,0,Madison Radicals2015  
-N Volk,4,3760,54,40,3,1,92,101,77,0,4,0,0,0,0,0,4,4,0,0,Madison Radicals2015  
-M Weber,10,11661,18,8,131,48,30,13,13,17,4,0,0,0,0,0,0,0,0,0,Madison Radicals2015  
-B Taitt,1,679,0,0,9,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Madison Radicals2015  
-Buddy,13,13121,24,16,161,63,63,51,46,16,16,50,6.20047826087,0,0,0,1,0,3,0,Madison Radicals2015  
-P Shriwi,12,17502,142,111,72,36,302,287,279,19,32,1,5.4,0,0,0,18,8,0,0,Madison Radicals2015  
-A Drews,16,18801,51,42,181,78,252,344,235,11,27,7,5.458,0,0,1,25,7,0,1,Madison Radicals2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,0,0,0,0,0,0,169,0,0,0,0,0,0,0,0,169,0,0,0,Minnesota Wind Chill2015  
-Lien J,12,15830,107,68,103,37,270,291,218,11,16,3,4.14633333333,0,0,1,16,3,0,0,Minnesota Wind Chill2015  
-Heid N,5,6528,21,11,68,32,74,89,71,1,13,21,4.95876190476,0,0,0,9,3,2,0,Minnesota Wind Chill2015  
-Dresch J,10,11654,66,47,86,30,177,196,156,9,27,79,5.77110126582,0,0,0,33,7,3,0,Minnesota Wind Chill2015  
-Abramo L,3,748,0,0,11,3,7,10,7,0,0,1,2.757,0,0,0,2,0,0,0,Minnesota Wind Chill2015  
-Lien A,12,15397,172,98,30,10,465,489,413,5,9,2,3.796,0,0,0,23,11,0,0,Minnesota Wind Chill2015  
-Jensen C,12,7610,19,9,88,25,41,47,35,4,7,2,6.187,0,0,0,5,3,0,0,Minnesota Wind Chill2015  
-Schoen B,13,21186,131,82,128,44,202,160,147,51,20,0,0,0,0,0,7,6,0,0,Minnesota Wind Chill2015  
-Reis S,10,11838,30,16,110,42,57,55,50,6,10,39,5.76546153846,0,0,0,5,0,2,0,Minnesota Wind Chill2015  
-Rooffe D,9,5432,9,8,73,22,27,21,21,6,3,0,0,0,0,0,4,0,0,0,Minnesota Wind Chill2015  
-Newlin S,1,1551,9,6,5,2,8,10,5,1,3,0,0,0,0,0,1,0,0,0,Minnesota Wind Chill2015  
-Niles P,7,7219,62,34,33,12,82,85,72,3,6,0,0,0,0,0,9,3,0,0,Minnesota Wind Chill2015  
-Cashma P,9,7187,33,15,52,16,81,90,73,0,0,15,4.9196,0,0,0,9,3,0,0,Minnesota Wind Chill2015  
-Hunt D,4,4474,26,13,38,11,53,64,47,1,3,6,6.52233333333,0,0,0,16,1,0,0,Minnesota Wind Chill2015  
-Groven T,8,10197,82,35,45,16,209,216,164,1,7,11,6.29772727273,0,0,0,10,4,0,0,Minnesota Wind Chill2015  
-Lee A,9,6748,9,6,92,31,19,17,15,3,2,0,0,0,0,0,0,0,0,0,Minnesota Wind Chill2015  
-VanKan J,2,2097,21,10,3,1,19,16,18,1,1,0,0,0,0,0,0,2,0,0,Minnesota Wind Chill2015  
-Anonymous,1,0,0,0,0,0,2,4,2,0,0,0,0,0,0,0,1,0,0,0,Minnesota Wind Chill2015  
-Merie Z,11,15533,93,54,74,32,76,57,58,17,1,0,0,0,0,0,3,2,0,0,Minnesota Wind Chill2015  
-Shirle D,12,20246,145,79,69,18,226,228,193,22,10,0,0,0,0,0,23,2,0,0,Minnesota Wind Chill2015  
-Carr P,6,9445,86,37,17,5,109,115,88,1,6,0,0,0,0,1,5,0,0,0,Minnesota Wind Chill2015  
-Kittle J,12,16896,49,27,185,74,104,87,83,21,12,0,0,1,0,0,7,1,0,0,Minnesota Wind Chill2015  
-Shramk L,8,8610,76,38,36,14,71,61,60,10,9,3,5.07566666667,0,0,0,5,0,0,0,Minnesota Wind Chill2015  
-Bolton J,3,9948,74,22,13,6,87,85,76,3,4,3,5.55833333333,0,0,0,7,1,0,0,Minnesota Wind Chill2015  
-Johnso R,4,3148,10,3,29,7,26,33,22,0,2,13,6.793,0,0,0,1,0,1,0,Minnesota Wind Chill2015  
-Arenso G,2,2260,8,4,15,1,24,25,23,0,1,9,5.87111111111,0,0,0,2,2,0,0,Minnesota Wind Chill2015  
-Matis B,13,17632,53,28,157,57,113,102,94,18,11,3,5.95,0,0,0,10,4,0,0,Minnesota Wind Chill2015  
-Polett T,2,2699,10,5,24,12,38,42,37,0,0,0,0,0,0,0,2,1,0,0,Minnesota Wind Chill2015  
-Sulliv B,8,8677,27,14,83,23,51,46,46,5,1,0,0,0,0,0,1,1,0,0,Minnesota Wind Chill2015  
-Schmit P,2,503,3,2,4,0,3,2,3,0,0,1,4.788,0,0,0,0,1,0,0,Minnesota Wind Chill2015  
-Caball L,5,9575,68,19,29,17,71,80,60,1,8,0,0,0,0,0,6,1,0,0,Minnesota Wind Chill2015  
-Jordan M,10,14691,142,66,24,11,104,87,86,17,5,0,0,0,0,1,3,1,0,0,Minnesota Wind Chill2015  
-A-K Ian,4,9020,82,31,7,3,163,170,137,2,5,0,0,0,0,0,13,5,0,0,Minnesota Wind Chill2015  
-Wolle C,11,17740,113,63,88,31,151,130,132,19,12,0,0,0,0,1,4,4,0,0,Minnesota Wind Chill2015  
-Jagt B,7,16714,85,34,94,46,125,105,104,20,26,6,4.351,1,0,0,12,5,1,0,Minnesota Wind Chill2015  
-Groess J,1,1771,7,1,12,2,19,22,15,1,1,0,0,0,0,0,3,2,0,0,Minnesota Wind Chill2015  
-Peters M,1,1786,7,2,7,3,10,18,8,0,0,7,4.80128571429,0,0,0,7,1,0,0,Minnesota Wind Chill2015  
-Collom D,14,29354,206,104,109,45,366,364,329,14,26,0,0,0,0,0,28,9,0,0,Minnesota Wind Chill2015  
-Hanke N,9,12426,54,27,90,27,95,90,84,8,7,47,5.91410638298,0,0,1,14,1,1,0,Minnesota Wind Chill2015  
-Rasmus E,10,18145,115,65,88,37,218,238,179,10,16,31,5.11122580645,0,0,0,21,1,1,0,Minnesota Wind Chill2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,227,1,1,3,1,0,194,0,0,0,0,0,0,0,0,194,0,0,0,Montreal Royal2015  
-Gab M,15,22704,41,23,210,58,92,115,77,10,9,3,3.076,0,0,0,21,1,0,0,Montreal Royal2015  
-Oli S,9,13826,45,27,119,36,67,83,44,8,14,75,6.36566216216,0,0,0,12,4,3,0,Montreal Royal2015  
-GregM,4,2707,21,10,22,5,21,19,17,2,1,0,0,0,0,0,5,1,0,0,Montreal Royal2015  
-CharlesB,15,33202,37,17,233,71,54,56,49,4,10,2,1.3495,0,0,0,4,1,0,0,Montreal Royal2015  
-Chris M,14,27272,192,121,44,15,255,267,172,10,14,6,3.76816666667,0,0,0,13,3,0,0,Montreal Royal2015  
-Moore,1,1649,2,2,13,6,9,7,7,2,2,0,0,0,0,0,2,1,0,0,Montreal Royal2015  
-Bago,6,3466,51,36,4,2,69,72,51,3,2,0,0,0,0,0,6,2,0,0,Montreal Royal2015  
-Shawn S,12,24200,179,118,18,6,158,132,135,19,14,0,0,0,0,0,15,9,0,0,Montreal Royal2015  
-J-P R,15,17157,162,109,50,19,107,72,68,35,13,0,0,0,0,0,7,1,0,0,Montreal Royal2015  
-Yoland C,15,35780,222,150,112,41,283,244,214,47,48,1,3.766,0,0,0,26,8,0,0,Montreal Royal2015  
-Eric S,2,2249,9,4,20,5,8,7,7,1,0,0,0,0,0,0,1,1,0,0,Montreal Royal2015  
-Fred P,13,24428,71,44,107,37,128,148,108,5,8,17,4.58841176471,0,0,0,12,3,1,0,Montreal Royal2015  
-LP,4,2874,24,18,24,7,7,6,4,2,0,0,0,0,0,0,0,0,0,0,Montreal Royal2015  
-Ray N,15,16607,211,147,31,15,315,310,239,11,15,0,0,0,0,0,14,4,0,0,Montreal Royal2015  
-Phil T,12,15879,32,17,170,48,65,67,56,7,6,45,6.04162790698,0,0,0,7,2,2,0,Montreal Royal2015  
-Anonymous,1,0,0,0,0,0,8,8,5,2,1,0,0,0,0,0,0,0,0,0,Montreal Royal2015  
-Vince H,1,548,1,0,6,1,0,2,0,0,0,0,0,0,0,0,1,0,1,0,Montreal Royal2015  
-Nic V,7,6242,46,27,32,9,55,56,43,4,7,0,0,0,0,0,8,0,0,0,Montreal Royal2015  
-Gus C,14,15296,209,136,13,6,394,415,342,2,23,0,0,0,0,1,32,15,0,0,Montreal Royal2015  
-Lepagnol,11,11255,113,75,42,11,135,129,103,16,20,13,8.08276923077,1,0,0,22,6,4,0,Montreal Royal2015  
-AntoineG,15,38653,87,45,255,78,157,176,121,25,49,22,6.3505,0,0,0,41,6,4,0,Montreal Royal2015  
-Max G,13,16631,48,29,169,51,55,46,42,13,1,0,0,0,0,0,1,0,0,0,Montreal Royal2015  
-J-L C,15,31668,99,57,178,60,131,121,101,24,9,2,7.5335,0,0,0,14,3,0,0,Montreal Royal2015  
-AntoineL,2,2015,33,22,0,0,25,24,23,2,4,0,0,0,0,0,3,0,0,0,Montreal Royal2015  
-Simon L,3,2423,4,2,27,13,22,34,21,0,2,0,0,0,0,0,3,0,0,0,Montreal Royal2015  
-Arsene A,1,364,0,0,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Montreal Royal2015  
-F-X H,15,18946,224,152,28,12,176,142,139,32,20,0,0,0,0,0,16,2,0,0,Montreal Royal2015  
-Kevin Gu,13,15379,24,17,174,51,62,72,56,6,7,140,5.90476428571,0,0,0,14,0,12,0,Montreal Royal2015  
-Frank M,5,4531,11,7,53,14,20,22,18,2,1,0,0,0,0,0,1,0,0,0,Montreal Royal2015  
-Kevin Gr,13,22150,142,89,132,47,213,194,157,25,21,6,4.248,1,0,0,36,3,0,0,Montreal Royal2015  
-Aubut C,1,560,1,0,5,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,Montreal Royal2015  
-Aubut,3,2455,4,2,29,7,4,3,3,1,0,0,0,0,0,0,1,0,0,0,Montreal Royal2015  
-Nathan D,3,4363,3,1,42,11,12,8,8,4,0,0,0,0,0,0,1,0,0,0,Montreal Royal2015  
-Felix D,11,17112,44,28,138,42,104,141,85,11,14,1,1.039,0,0,0,9,1,0,0,Montreal Royal2015  
-Hendriks,1,991,1,0,9,3,3,1,1,2,0,0,0,0,0,0,0,0,0,0,Montreal Royal2015  
-Ced A. B,1,213,0,0,3,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Montreal Royal2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,200,0,0,0,Nashville Nightwatch2015  
-Dayton M,14,28920,273,185,28,11,250,223,219,29,7,0,0,0,0,0,6,2,0,0,Nashville Nightwatch2015  
-Lally P,13,27221,256,178,44,16,324,273,273,50,36,2,6.128,0,0,0,17,2,0,0,Nashville Nightwatch2015  
-Trett D,9,13635,73,48,92,18,79,65,66,12,6,0,0,0,0,0,2,1,0,0,Nashville Nightwatch2015  
-Pepper N,2,2175,9,4,16,3,17,17,17,0,1,0,0,0,0,0,0,0,0,0,Nashville Nightwatch2015  
-Willia E,10,9232,24,10,116,16,56,62,50,0,1,0,0,0,0,0,5,2,0,0,Nashville Nightwatch2015  
-Gallin M,13,21895,69,40,198,33,317,403,300,0,23,193,6.68924479167,0,0,2,47,7,11,0,Nashville Nightwatch2015  
-Carden J,10,13058,43,19,113,18,69,57,57,12,5,0,0,0,0,0,3,2,0,0,Nashville Nightwatch2015  
-Markle R,6,2811,8,5,39,2,25,27,22,0,1,0,0,0,0,0,4,1,1,0,Nashville Nightwatch2015  
-Radcli T,11,20245,201,139,30,9,314,266,268,46,28,1,6.242,0,0,1,15,4,0,0,Nashville Nightwatch2015  
-McClel M,5,4080,17,9,30,5,60,61,52,3,2,0,0,0,0,0,2,0,0,0,Nashville Nightwatch2015  
-Anonymous,1,0,0,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,0,0,Nashville Nightwatch2015  
-Waldro B,13,26545,236,161,49,17,564,593,447,15,47,5,6.725,0,0,1,37,8,2,0,Nashville Nightwatch2015  
-Ortiz J,12,18960,126,76,84,10,191,173,172,18,9,0,0,0,0,0,12,5,0,1,Nashville Nightwatch2015  
-Wu V,7,8547,17,10,88,12,80,93,76,0,1,2,5.9405,0,0,0,8,1,2,0,Nashville Nightwatch2015  
-Chow J,8,11084,103,66,11,6,147,150,124,1,1,0,0,0,0,3,9,2,0,0,Nashville Nightwatch2015  
-Conger T,2,4816,41,29,6,3,115,113,95,0,3,0,0,0,0,2,2,1,0,1,Nashville Nightwatch2015  
-Cain T,7,7910,27,15,91,14,55,51,51,4,3,0,0,0,0,0,3,0,0,0,Nashville Nightwatch2015  
-Moore J,7,6760,21,7,70,14,72,68,59,3,2,5,7.2014,0,0,1,6,3,1,0,Nashville Nightwatch2015  
-Reed D,11,6264,10,3,80,16,24,20,21,3,1,0,0,0,0,1,1,0,0,0,Nashville Nightwatch2015  
-Barnha A,14,21565,116,75,130,17,168,165,138,14,17,35,6.46545714286,0,0,0,17,2,3,0,Nashville Nightwatch2015  
-Bates J,13,13851,25,13,173,33,62,50,51,11,1,0,0,0,0,0,1,1,0,0,Nashville Nightwatch2015  
-Hannon W,10,14803,171,118,5,2,222,215,167,5,8,0,0,0,0,0,14,4,0,0,Nashville Nightwatch2015  
-Strass F,10,11181,26,14,117,23,45,36,37,8,3,0,0,0,0,0,3,1,0,0,Nashville Nightwatch2015  
-Sansbu B,12,16485,90,59,120,18,92,74,72,20,6,0,0,0,0,0,7,2,0,0,Nashville Nightwatch2015  
-Wright J,10,16724,128,87,49,13,206,204,179,17,17,6,5.14133333333,0,0,0,27,3,1,0,Nashville Nightwatch2015  
-Terry K,12,25752,188,132,75,22,588,619,514,5,44,18,5.82833333333,0,0,1,45,20,1,0,Nashville Nightwatch2015  
-Hammon C,12,15326,69,37,148,21,149,154,119,5,8,19,6.11236842105,0,0,0,15,0,1,1,Nashville Nightwatch2015  
-Heath T,13,15890,34,15,161,27,78,76,74,4,4,0,0,0,0,1,10,1,0,0,Nashville Nightwatch2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,0,0,0,0,0,0,237,0,0,0,0,0,0,0,0,237,0,0,0,New York Empire2015  
-Flint J,1,565,0,0,10,5,4,5,4,0,0,0,0,0,0,0,1,0,0,0,New York Empire2015  
-Ludwig K,7,7848,64,44,13,7,57,53,51,6,7,0,0,0,0,0,5,0,0,0,New York Empire2015  
-Awerbu B,11,10331,86,62,51,23,192,201,138,5,5,1,7.14,0,0,0,13,0,0,0,New York Empire2015  
-Aulett M,14,20313,216,148,25,11,453,444,384,23,30,1,4.962,0,0,2,28,6,0,0,New York Empire2015  
-Weiner M,10,7210,57,36,14,4,41,39,38,3,2,0,0,0,0,0,1,0,0,0,New York Empire2015  
-Ward R,16,22506,19,11,224,98,101,83,71,30,8,0,0,0,0,0,9,1,0,0,New York Empire2015  
-Steven M,14,20098,207,132,12,7,145,107,106,38,6,0,0,0,0,0,7,4,0,0,New York Empire2015  
-Farrel T,11,11825,5,4,154,60,59,48,47,12,6,4,6.74275,0,0,0,4,0,0,0,New York Empire2015  
-McLaug B,8,7001,9,8,77,30,42,58,42,0,3,21,6.10752380952,0,0,1,7,0,1,0,New York Empire2015  
-Ye R,6,5167,33,22,33,13,77,83,65,0,2,1,7.969,0,0,0,5,0,0,0,New York Empire2015  
-Wining L,6,9303,91,56,8,3,158,168,123,2,14,0,0,0,0,1,12,2,0,0,New York Empire2015  
-Guerin I,13,11140,4,2,118,54,39,36,31,8,5,0,0,0,0,0,4,0,0,0,New York Empire2015  
-Baum M,10,10870,21,14,86,37,82,114,75,2,8,25,6.81492,0,0,0,20,1,6,0,New York Empire2015  
-LeMar M,16,18653,6,4,234,94,164,189,152,12,24,16,6.3068125,0,0,0,20,1,1,0,New York Empire2015  
-Skware K,9,6276,89,60,6,2,154,153,114,3,8,2,6.8,0,0,2,13,1,0,2,New York Empire2015  
-Wilkes A,11,12342,118,79,31,10,113,97,99,14,5,0,0,0,0,0,4,1,0,0,New York Empire2015  
-Ouelle J,9,7817,1,1,91,36,32,30,29,3,5,0,0,0,0,0,2,0,0,0,New York Empire2015  
-Brooks T,13,15601,212,145,12,4,277,260,251,24,44,6,7.14783333333,0,0,2,26,0,1,0,New York Empire2015  
-Bryant I,13,20106,33,21,189,82,209,294,189,5,34,10,5.3846,0,0,1,17,5,2,0,New York Empire2015  
-Bemis E,12,9325,94,61,26,11,71,56,57,14,3,0,0,0,0,0,5,0,0,0,New York Empire2015  
-Snyder M,3,1885,0,0,31,13,20,26,18,2,4,0,0,0,0,1,0,0,0,0,New York Empire2015  
-Ivers B,14,24525,19,13,233,92,95,70,70,25,3,0,0,0,0,0,1,0,0,0,New York Empire2015  
-Drost R,15,25133,62,43,255,105,183,172,157,26,20,0,0,0,0,0,18,0,0,0,New York Empire2015  
-Dixon G,13,16646,82,56,116,47,374,403,325,6,22,0,0,0,0,4,25,2,0,0,New York Empire2015  
-Babbin J,6,4541,2,1,56,23,33,34,30,2,3,26,6.23446153846,0,0,0,5,0,1,0,New York Empire2015  
-Katz B,12,19639,187,120,38,11,374,399,300,12,32,1,6.404,0,0,0,43,1,0,0,New York Empire2015  
-Marsh J,6,7966,117,76,3,1,131,112,111,20,15,0,0,0,0,0,17,1,0,0,New York Empire2015  
-Taylor S,15,24625,20,13,261,100,142,137,128,13,9,229,6.65560526316,0,0,0,9,3,20,0,New York Empire2015  
-Yz I,10,10176,126,82,8,2,121,110,103,18,12,5,6.39,0,0,0,12,0,0,0,New York Empire2015  
-Drost M,13,22448,22,16,245,93,169,158,145,24,13,0,0,0,0,1,13,1,0,0,New York Empire2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,0,0,0,0,0,0,217,0,0,0,0,0,0,0,0,217,0,0,0,Ottawa Outlaws2015  
-HogelM,13,15171,171,118,33,18,341,336,256,18,12,0,0,0,0,1,14,5,0,0,Ottawa Outlaws2015  
-GoodkeyM,12,9717,24,15,147,37,56,52,54,2,6,7,5.64575,0,0,1,7,4,0,1,Ottawa Outlaws2015  
-FroatsC,13,11222,27,16,147,39,75,98,62,5,9,4,9.017,0,0,0,5,2,0,0,Ottawa Outlaws2015  
-SchmidtR,9,8559,16,10,111,28,41,30,31,10,5,17,6.32466666667,0,0,0,6,4,0,0,Ottawa Outlaws2015  
-GeeK,7,6518,27,12,76,21,57,52,49,1,1,4,0,0,0,0,2,3,0,0,Ottawa Outlaws2015  
-TurcottD,5,2768,3,1,49,16,29,39,28,1,3,1,0,0,0,0,5,0,0,0,Ottawa Outlaws2015  
-JanssenD,9,13069,141,99,20,13,268,262,187,11,9,0,0,0,0,0,9,1,0,1,Ottawa Outlaws2015  
-BlackstL,11,12467,21,10,172,55,65,50,48,16,11,30,3.58866666667,0,0,0,5,1,0,0,Ottawa Outlaws2015  
-RenaudP,6,5576,12,5,76,21,19,19,15,4,3,0,0,0,0,0,2,0,0,0,Ottawa Outlaws2015  
-CoreyA,11,11256,67,46,126,34,156,141,134,14,19,122,6.49183333333,0,0,0,19,4,6,1,Ottawa Outlaws2015  
-ForestNL,13,20071,212,144,37,16,218,200,195,23,10,1,0,0,0,0,10,2,0,0,Ottawa Outlaws2015  
-ProulxP,9,6260,3,1,96,30,13,8,10,3,0,0,0,0,0,0,0,1,0,0,Ottawa Outlaws2015  
-HaigJ,8,9559,113,77,15,6,54,48,45,7,6,0,0,0,0,0,6,0,0,0,Ottawa Outlaws2015  
-WayK,13,22956,227,156,50,19,377,346,335,31,43,0,0,0,0,1,32,4,0,0,Ottawa Outlaws2015  
-LoiseauL,1,140,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ottawa Outlaws2015  
-LoiseauK,12,20263,167,111,77,30,302,279,265,30,20,1,6.066,0,0,1,24,2,0,0,Ottawa Outlaws2015  
-LeeM,12,11601,28,16,152,49,86,84,68,17,17,28,4.92366666667,0,0,0,11,0,3,0,Ottawa Outlaws2015  
-HillJ,10,15757,114,73,77,29,98,69,71,27,7,3,2.5165,0,0,0,6,4,0,0,Ottawa Outlaws2015  
-RingB,13,9914,43,25,145,31,115,159,94,0,4,0,0,0,0,0,8,4,0,0,Ottawa Outlaws2015  
-AlexandD,11,21895,217,146,50,24,601,633,514,12,44,0,0,0,0,2,35,11,0,0,Ottawa Outlaws2015  
-AlexandK,13,18143,208,145,24,15,180,157,152,24,25,0,0,0,0,0,16,4,0,0,Ottawa Outlaws2015  
-ArsenauA,2,1764,7,3,15,1,6,6,4,2,0,0,0,0,0,0,0,0,0,0,Ottawa Outlaws2015  
-McGregoJ,7,6670,16,9,87,29,37,35,28,8,2,1,0,0,0,0,5,0,0,0,Ottawa Outlaws2015  
-PhelanL,11,6569,19,11,107,35,45,46,41,4,7,18,4.841,0,0,0,4,0,0,0,Ottawa Outlaws2015  
-WestwelS,11,17011,156,95,75,26,275,280,216,20,22,8,5.7075,0,0,0,14,9,0,0,Ottawa Outlaws2015  
-BergM,8,8139,62,38,64,28,48,30,29,19,3,0,0,0,0,0,0,0,0,0,Ottawa Outlaws2015  
-GreenC,11,9407,30,21,118,39,78,127,73,0,15,0,0,0,0,0,10,0,0,1,Ottawa Outlaws2015  
-OuchterA,9,13966,141,103,26,10,175,163,161,14,12,1,3.583,0,0,1,13,2,0,0,Ottawa Outlaws2015  
-BoucherN,8,9001,31,20,116,28,57,56,53,3,10,71,6.88794736842,0,0,0,9,2,1,0,Ottawa Outlaws2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,50907,7,1,17,7,0,171,0,0,0,0,0,0,0,0,171,0,0,0,Philadelphia Phoenix2015  
-Mott S,10,20207,159,93,45,12,276,262,250,21,22,4,4.5595,0,0,0,32,4,0,0,Philadelphia Phoenix2015  
-Weinbe C,4,4505,39,22,21,7,51,47,49,2,2,2,5.79,0,0,0,3,2,0,0,Philadelphia Phoenix2015  
-Hollow J,4,7073,19,10,43,2,17,16,14,1,4,0,0,0,0,0,3,2,0,0,Philadelphia Phoenix2015  
-Peck E,10,47609,171,95,74,24,305,300,288,8,38,13,4.304,0,0,0,49,9,0,0,Philadelphia Phoenix2015  
-Startz C,7,14084,137,56,35,6,174,177,109,5,2,0,0,0,0,0,8,1,0,0,Philadelphia Phoenix2015  
-Lambor E,10,44982,41,8,149,12,38,37,32,4,0,3,3.96233333333,0,0,0,4,1,0,0,Philadelphia Phoenix2015  
-Willia B,10,40210,134,40,41,7,95,81,77,14,7,5,4.3622,0,0,0,9,1,0,0,Philadelphia Phoenix2015  
-Franke G,1,671,3,1,8,0,3,3,3,0,0,0,0,0,0,0,0,0,0,0,Philadelphia Phoenix2015  
-Peezic S,11,18018,129,39,59,3,37,29,25,10,3,1,0,0,0,0,5,1,0,0,Philadelphia Phoenix2015  
-Allan R,1,406,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Philadelphia Phoenix2015  
-Morgan S,9,30668,33,21,67,10,36,33,29,4,3,2,3.696,0,0,0,3,2,0,0,Philadelphia Phoenix2015  
-Allen T,8,16254,156,60,39,5,179,182,126,6,9,3,0,0,0,0,16,9,0,0,Philadelphia Phoenix2015  
-Bonell A,6,33203,36,16,55,14,39,37,35,3,3,16,5.11125,0,0,0,4,2,0,0,Philadelphia Phoenix2015  
-Patel N,7,36780,56,28,81,18,115,136,109,3,8,1,0.983,0,0,0,17,1,0,0,Philadelphia Phoenix2015  
-Anonymous,1,0,0,0,0,0,14,24,6,1,2,9,0,0,0,0,8,4,0,0,Philadelphia Phoenix2015  
-Forste R,12,22728,220,109,39,12,279,272,233,18,15,2,6.195,0,0,0,22,1,0,0,Philadelphia Phoenix2015  
-Fortin E,10,15089,54,19,123,19,93,110,86,1,2,24,5.93136363636,0,0,0,9,3,1,0,Philadelphia Phoenix2015  
-Hampso D,12,49431,197,97,83,12,371,410,335,8,10,0,0,0,0,0,26,8,0,0,Philadelphia Phoenix2015  
-Michel M,13,24244,98,36,168,23,61,48,42,15,13,95,5.31864705882,0,0,0,12,3,18,0,Philadelphia Phoenix2015  
-Kochen C,2,1451,2,1,12,5,7,6,5,2,1,0,0,0,0,0,0,0,0,0,Philadelphia Phoenix2015  
-Ng S,12,40290,115,56,100,19,255,264,166,8,10,5,4.48725,0,0,0,19,5,0,0,Philadelphia Phoenix2015  
-Robert A,7,6272,12,5,65,14,20,20,18,2,3,0,0,0,0,0,3,0,0,0,Philadelphia Phoenix2015  
-Esser S,9,38894,35,6,130,20,26,23,23,3,3,0,0,0,0,0,2,0,0,0,Philadelphia Phoenix2015  
-Palumb J,3,2386,5,1,23,2,2,1,0,2,0,0,0,0,0,0,0,0,0,0,Philadelphia Phoenix2015  
-OConne J,5,2279,3,1,35,6,11,15,10,0,1,6,4.432,0,0,0,1,1,3,0,Philadelphia Phoenix2015  
-Goldbe A,4,2842,14,10,34,7,14,12,13,1,3,0,0,0,0,0,3,0,0,0,Philadelphia Phoenix2015  
-Brando,1,1589,17,11,3,2,44,47,39,0,7,0,0,0,0,0,2,0,0,0,Philadelphia Phoenix2015  
-Rosso S,4,30031,19,10,50,10,30,30,25,5,3,6,0,0,0,0,3,0,0,0,Philadelphia Phoenix2015  
-Nardel E,4,7609,16,9,58,3,18,14,12,4,3,0,0,0,0,0,2,0,0,0,Philadelphia Phoenix2015  
-Harrit C,6,10377,56,17,59,4,28,30,26,0,2,2,5.2195,0,0,0,4,0,0,0,Philadelphia Phoenix2015  
-Bushek A,13,22034,91,28,153,23,114,135,84,5,11,6,3.09533333333,0,0,0,17,4,0,0,Philadelphia Phoenix2015  
-Seyler J,14,36224,116,38,98,14,52,42,40,11,3,0,0,0,0,0,8,0,0,0,Philadelphia Phoenix2015  
-Wolf K,12,42055,134,52,112,19,146,164,133,5,15,12,3.82975,0,0,0,24,3,0,0,Philadelphia Phoenix2015  
-Lowy A,2,611,4,1,9,1,3,5,2,0,1,4,4.51825,0,0,0,1,0,0,0,Philadelphia Phoenix2015  
-Sisto J,12,20177,163,83,86,14,73,48,48,24,6,0,0,0,0,0,8,1,0,0,Philadelphia Phoenix2015  
-Lu E,4,5309,22,12,33,2,15,18,12,1,0,0,0,0,0,0,2,0,0,0,Philadelphia Phoenix2015  
-Magerr B,12,22162,196,109,36,15,208,172,173,32,16,1,1.565,0,0,0,12,6,0,0,Philadelphia Phoenix2015  
-Eskin Z,9,6956,14,3,72,11,5,1,2,2,0,1,0,0,0,0,0,1,0,0,Philadelphia Phoenix2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,0,0,0,0,0,0,236,0,0,0,0,0,0,0,0,236,0,0,0,Pittsburgh Thunderbirds2015  
-Dulabo R,10,24545,28,19,183,67,66,60,52,14,5,14,5.34945454545,0,0,0,9,0,1,0,Pittsburgh Thunderbirds2015  
-Beards E,15,27754,290,233,101,42,189,118,116,72,8,0,0,0,0,0,2,2,0,0,Pittsburgh Thunderbirds2015  
-RaniiD M,7,16438,92,67,116,47,219,229,203,9,37,25,5.41225,0,0,0,8,5,2,1,Pittsburgh Thunderbirds2015  
-Pitts C,7,13078,99,75,108,39,83,67,59,19,7,1,7.892,0,0,0,3,0,0,0,Pittsburgh Thunderbirds2015  
-Sheppa M,10,13001,35,23,173,69,85,76,62,16,18,102,5.97667,0,0,0,6,1,2,0,Pittsburgh Thunderbirds2015  
-Pannon M,13,27133,28,17,229,76,75,66,62,13,6,0,0,0,0,0,3,1,0,0,Pittsburgh Thunderbirds2015  
-Hritz M,3,4240,3,3,30,11,15,15,13,1,1,0,0,0,0,0,0,0,0,0,Pittsburgh Thunderbirds2015  
-Wissel T,9,19901,19,14,152,57,135,168,123,7,13,1,0,0,0,0,6,3,0,0,Pittsburgh Thunderbirds2015  
-Thorne A,7,14061,148,118,30,19,333,339,292,14,24,3,4.593,0,0,1,20,2,0,0,Pittsburgh Thunderbirds2015  
-Mast J,15,31329,199,161,119,50,467,478,350,8,9,0,0,0,0,0,15,5,0,0,Pittsburgh Thunderbirds2015  
-Mogiel S,10,9736,4,3,152,55,60,64,55,5,8,36,4.76394117647,0,0,0,4,0,0,0,Pittsburgh Thunderbirds2015  
-Thorn- M,1,2063,18,14,3,1,20,18,18,2,2,0,0,0,0,0,2,0,0,0,Pittsburgh Thunderbirds2015  
-Repper A,14,20102,52,36,233,87,127,116,105,22,14,36,6.011,0,0,0,11,2,2,0,Pittsburgh Thunderbirds2015  
-Thorne M,2,4051,40,26,7,6,52,42,42,7,4,0,0,0,0,0,5,3,0,0,Pittsburgh Thunderbirds2015  
-Earles P,8,16747,184,144,44,24,430,447,382,9,61,5,5.2138,0,0,1,35,12,0,1,Pittsburgh Thunderbirds2015  
-Anonymous,1,0,0,0,0,0,4,15,1,0,1,36,2.88158333333,0,0,0,9,0,0,0,Pittsburgh Thunderbirds2015  
-Slevin J,2,2767,8,6,30,10,27,31,22,1,1,0,0,0,0,0,0,0,0,0,Pittsburgh Thunderbirds2015  
-DeAmic J,10,11453,4,3,150,47,29,21,19,10,0,2,2.348,0,0,0,2,0,0,0,Pittsburgh Thunderbirds2015  
-Brenen C,11,14993,113,90,127,47,243,267,201,4,19,0,0,0,0,1,19,1,0,0,Pittsburgh Thunderbirds2015  
-DeGiro T,12,20613,200,164,102,53,439,422,408,28,86,1,3.222,0,0,0,19,7,0,0,Pittsburgh Thunderbirds2015  
-VanNes M,4,2581,2,1,45,14,15,21,15,0,1,0,0,0,0,0,4,0,0,0,Pittsburgh Thunderbirds2015  
-Trimbl S,12,15164,80,65,119,46,76,66,60,16,11,1,3.722,0,0,0,5,0,0,0,Pittsburgh Thunderbirds2015  
-Bechis D,2,3323,7,4,50,13,24,21,19,4,2,0,0,0,0,0,0,0,0,0,Pittsburgh Thunderbirds2015  
-Zarobi E,3,4751,6,3,39,8,17,14,15,2,2,0,0,0,0,0,1,1,0,0,Pittsburgh Thunderbirds2015  
-Kaczma N,5,5081,11,7,69,30,40,42,34,3,3,0,0,0,0,0,0,0,0,0,Pittsburgh Thunderbirds2015  
-Delgad F,11,18534,7,6,144,52,68,63,56,12,6,1,5.7,0,0,0,6,1,0,0,Pittsburgh Thunderbirds2015  
-Fedore M,13,27604,35,23,239,76,155,159,127,24,21,81,5.36761728395,0,0,2,9,5,1,0,Pittsburgh Thunderbirds2015  
-Saul I,9,15661,182,141,30,15,372,388,276,3,24,1,0,0,0,0,26,5,0,0,Pittsburgh Thunderbirds2015  
-Greeno J,9,8260,4,2,99,35,56,68,51,3,2,0,0,0,0,0,5,3,0,0,Pittsburgh Thunderbirds2015  
-Schure S,11,11322,12,7,160,56,101,129,99,2,16,112,6.30440186916,0,0,0,13,3,7,0,Pittsburgh Thunderbirds2015  
-Thomas B,7,5049,1,1,70,20,17,16,15,2,2,0,0,0,0,0,1,1,0,0,Pittsburgh Thunderbirds2015  
-Haser N,5,14617,2,1,91,35,26,20,16,10,1,0,0,0,0,0,1,0,0,0,Pittsburgh Thunderbirds2015  
-Vatz D,13,21112,245,204,53,25,216,156,139,62,9,0,0,0,0,0,7,0,0,0,Pittsburgh Thunderbirds2015  
-Shultz D,4,3916,3,2,47,14,8,5,5,3,0,0,0,0,0,0,1,1,0,0,Pittsburgh Thunderbirds2015  
-Watson A,13,26231,254,200,79,42,366,323,314,48,31,3,5.4735,0,0,0,14,6,0,0,Pittsburgh Thunderbirds2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,1029,4,3,6,0,0,224,0,0,0,0,0,0,0,0,224,0,0,0,Raleigh Flyers2015  
-Snoke D,12,31345,264,196,44,33,464,457,327,26,29,0,0,1,0,2,12,10,0,1,Raleigh Flyers2015  
-McGoog J,8,9857,61,47,55,24,98,101,71,6,7,1,4.5,0,0,0,3,2,0,0,Raleigh Flyers2015  
-Jessi J,1,727,0,0,13,5,1,2,1,0,0,0,0,0,0,0,0,0,0,0,Raleigh Flyers2015  
-Chandl D,12,20420,83,61,118,38,128,109,110,16,7,0,0,0,0,0,5,0,0,0,Raleigh Flyers2015  
-Zhou M,14,13185,0,0,217,60,71,74,63,8,13,70,4.25439583333,0,0,0,6,3,3,0,Raleigh Flyers2015  
-Tarasi D,12,27911,232,165,48,32,348,363,265,19,34,0,0,0,0,0,18,6,0,1,Raleigh Flyers2015  
-Weeks P,1,1504,8,4,9,4,14,12,8,2,1,0,0,0,0,0,0,0,0,0,Raleigh Flyers2015  
-Nether J,7,19175,143,106,41,16,265,306,213,6,26,14,5.87092857143,0,0,1,22,6,0,0,Raleigh Flyers2015  
-Goode R,8,9904,67,47,54,25,59,50,50,9,3,1,0,0,0,0,7,0,0,0,Raleigh Flyers2015  
-Hartzo J,5,4797,0,0,79,26,19,16,14,5,3,0,0,0,0,0,3,0,0,0,Raleigh Flyers2015  
-Cooper S,3,4286,2,2,39,17,11,16,11,0,2,0,0,0,0,0,1,1,0,0,Raleigh Flyers2015  
-Green T,9,12901,26,20,166,47,123,178,114,2,16,26,6.54808,0,0,0,17,1,2,0,Raleigh Flyers2015  
-Willia J,3,10206,43,29,24,9,45,38,37,8,7,0,0,0,0,0,2,1,0,0,Raleigh Flyers2015  
-Snell B,1,1436,10,8,17,5,18,16,15,3,1,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
-Mitche T,16,42032,294,209,89,48,298,276,269,26,21,2,5.6525,0,0,1,25,4,0,1,Raleigh Flyers2015  
-Allen J,15,26034,281,217,72,35,343,298,280,62,60,20,6.10636842105,0,0,0,35,13,0,0,Raleigh Flyers2015  
-Colicc C,4,3018,0,0,35,13,15,10,11,4,0,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
-Anonymous,1,0,0,0,0,0,3,8,1,1,0,1,2.201,0,0,0,2,0,0,0,Raleigh Flyers2015  
-Bowen J,15,37648,302,220,53,36,289,231,222,62,49,0,0,0,0,0,27,2,0,0,Raleigh Flyers2015  
-Ryan A,5,4612,0,0,68,26,18,13,14,4,1,5,5.70533333333,0,0,0,2,0,1,0,Raleigh Flyers2015  
-Neve M,14,16709,149,110,65,21,174,149,146,25,12,0,0,0,0,0,6,1,0,0,Raleigh Flyers2015  
-Pope T,8,6150,0,0,119,24,30,28,22,8,4,101,5.02136666667,0,0,2,6,3,5,0,Raleigh Flyers2015  
-Richar D,15,14826,2,1,193,45,21,12,14,7,1,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
-Stumpf M,3,3160,0,0,33,11,7,5,5,2,0,0,0,0,0,0,0,0,0,0,Raleigh Flyers2015  
-Moore M,13,13031,6,3,197,57,52,43,42,10,6,1,7.167,0,0,0,5,0,0,0,Raleigh Flyers2015  
-Cretel J,12,16828,53,38,207,50,131,129,122,9,18,2,7.5255,0,0,0,18,5,0,1,Raleigh Flyers2015  
-Matthe R,11,16878,5,2,192,52,48,45,40,8,3,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
-Saul N,7,18092,95,63,99,32,224,255,192,8,16,33,6.72590625,0,0,0,13,4,1,1,Raleigh Flyers2015  
-Clark B,3,3605,4,3,44,16,11,11,10,1,3,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
-Poulos S,2,1732,12,8,15,5,22,27,16,1,2,13,6.03790909091,0,0,0,5,0,0,0,Raleigh Flyers2015  
-Hastin J,5,4939,1,0,66,20,34,32,29,5,1,0,0,0,0,0,4,0,0,0,Raleigh Flyers2015  
-Dieter B,6,13810,123,91,19,15,105,94,93,10,11,0,0,0,0,0,2,1,0,0,Raleigh Flyers2015  
-Maxsta X,8,10530,12,8,114,21,60,73,54,2,1,68,6.61867647059,0,0,0,10,6,4,0,Raleigh Flyers2015  
-Bender S,12,13660,5,2,196,57,91,103,84,7,16,67,6.06586153846,0,0,0,10,0,6,2,Raleigh Flyers2015  
-Taylor H,2,2016,1,0,27,5,11,11,9,2,1,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
-Casey B,12,29835,253,181,39,25,423,418,315,17,38,0,0,0,0,0,20,7,0,0,Raleigh Flyers2015  
-Lin M,8,9914,82,60,25,8,93,74,77,16,9,1,5.536,0,0,0,3,3,0,0,Raleigh Flyers2015  
-Colema J,13,21027,9,3,210,63,53,36,36,17,1,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
-McAlis T,2,4608,7,4,36,10,7,6,6,1,0,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,583,0,0,2,2,0,192,0,0,0,0,0,0,0,0,192,0,0,0,Rochester Dragons2015  
-Chris B,4,4272,11,5,49,7,33,53,30,0,0,0,0,0,0,0,5,0,0,0,Rochester Dragons2015  
-Jon B,12,18985,72,34,148,36,128,124,97,9,6,2,1.7155,0,0,0,9,3,0,0,Rochester Dragons2015  
-Micky R,12,28378,239,128,66,21,426,397,385,27,28,0,0,0,0,0,30,7,0,0,Rochester Dragons2015  
-Rich L,8,7393,22,6,89,14,35,28,30,5,0,0,0,0,0,0,1,4,0,0,Rochester Dragons2015  
-Tim K,14,20797,87,39,179,37,98,76,72,26,11,81,5.52055555556,0,0,0,7,4,7,0,Rochester Dragons2015  
-Chris L,11,8616,16,5,110,19,30,24,25,5,3,0,0,0,0,0,1,0,0,0,Rochester Dragons2015  
-Anthon M,6,4249,11,4,62,7,15,12,12,3,0,0,0,0,0,0,1,0,0,0,Rochester Dragons2015  
-TJ Burns,2,2732,9,4,26,8,11,10,8,3,1,0,0,0,0,0,1,0,0,0,Rochester Dragons2015  
-Brian K,10,19210,184,102,22,12,504,507,405,3,10,0,0,0,0,0,20,14,0,0,Rochester Dragons2015  
-Kevin Q,11,22797,232,129,39,15,338,345,316,14,49,1,2.949,0,0,2,46,13,0,0,Rochester Dragons2015  
-CharlieR,1,464,8,6,4,0,3,3,3,0,1,0,0,0,0,0,0,0,0,0,Rochester Dragons2015  
-RalieghV,1,449,0,0,7,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,Rochester Dragons2015  
-Anonymous,1,0,0,0,0,0,11,29,10,0,0,0,0,0,0,0,1,0,0,0,Rochester Dragons2015  
-Doug U,11,20824,190,108,42,15,222,189,192,29,21,2,7.016,0,0,0,16,6,0,0,Rochester Dragons2015  
-Kyle M,12,8594,10,1,119,25,43,36,38,5,2,3,3.58833333333,0,0,0,5,1,0,0,Rochester Dragons2015  
-Eric Y,10,4627,28,14,45,6,26,25,20,1,3,0,0,0,0,0,3,0,0,0,Rochester Dragons2015  
-Dave A,3,5471,12,8,51,13,65,92,56,3,9,51,5.9741,0,0,0,10,1,4,0,Rochester Dragons2015  
-Wilson G,8,10995,134,71,15,2,239,239,155,3,10,0,0,0,0,0,19,5,0,0,Rochester Dragons2015  
-Thom W,11,7974,42,16,79,7,45,43,43,2,0,0,0,0,0,0,1,1,0,0,Rochester Dragons2015  
-Pat S,7,7981,55,22,66,7,90,96,69,2,2,0,0,0,0,0,5,8,0,0,Rochester Dragons2015  
-Brand K,6,2284,8,4,42,3,15,14,12,1,0,0,0,0,0,0,0,0,0,0,Rochester Dragons2015  
-Max R,10,23401,192,108,69,14,528,570,480,1,28,47,5.39065957447,0,0,0,55,12,0,0,Rochester Dragons2015  
-Matt C,12,21791,216,127,24,11,237,193,191,44,12,0,0,0,0,0,11,1,0,0,Rochester Dragons2015  
-Max K,8,8400,106,51,15,2,76,67,66,10,4,0,0,0,0,0,4,0,0,0,Rochester Dragons2015  
-Connor F,11,23968,237,128,23,8,258,232,231,21,19,1,6.003,0,0,0,20,3,0,0,Rochester Dragons2015  
-Dan M,11,19425,177,100,35,7,327,336,265,5,8,0,0,0,0,0,18,2,0,0,Rochester Dragons2015  
-Carter M,13,21859,146,73,125,27,152,147,139,13,14,1,4.866,0,0,0,18,4,0,0,Rochester Dragons2015  
-Craig M,7,8373,34,16,73,14,82,90,72,2,1,0,0,0,0,0,8,2,0,0,Rochester Dragons2015  
-Sam C,14,15529,47,21,174,29,122,146,109,4,8,54,6.16622222222,0,0,0,20,5,5,0,Rochester Dragons2015  
-Bret C,7,6094,13,7,63,16,23,18,20,3,1,0,0,0,0,0,0,2,0,0,Rochester Dragons2015  
-Justin I,7,11223,52,28,69,14,76,76,63,11,4,17,5.44858823529,0,0,0,16,3,0,0,Rochester Dragons2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,150,0,0,0,San Diego Growlers2015  
-Leggio D,13,21727,159,103,135,37,402,396,369,17,23,0,0,0,0,0,9,8,0,1,San Diego Growlers2015  
-Benton A,7,5696,2,1,79,18,23,19,20,3,3,32,6.6680625,0,0,0,5,0,3,0,San Diego Growlers2015  
-Cohen J,13,25952,235,153,27,21,322,285,285,37,29,0,0,0,0,0,18,5,0,0,San Diego Growlers2015  
-Goodma J,10,12418,14,8,119,34,46,54,41,2,3,32,6.5004375,0,0,0,3,2,1,0,San Diego Growlers2015  
-Sammon A,14,10611,148,100,8,1,322,326,213,6,4,1,6.884,0,0,0,10,2,0,0,San Diego Growlers2015  
-Ackley J,12,13268,176,126,6,3,415,444,331,13,12,0,0,0,0,0,16,8,0,1,San Diego Growlers2015  
-Dunn T,12,13521,15,10,162,33,60,57,54,6,5,0,0,0,0,0,5,1,0,0,San Diego Growlers2015  
-Curtis A,12,12398,188,130,13,3,360,340,280,16,36,0,0,0,0,0,24,4,0,1,San Diego Growlers2015  
-Lance N,9,21407,65,41,160,37,194,205,173,10,14,86,6.48904651163,0,0,0,14,3,0,0,San Diego Growlers2015  
-Purdy T,12,11257,94,63,95,19,110,85,86,24,12,3,7.33933333333,0,0,0,8,1,1,0,San Diego Growlers2015  
-Anonymous,1,0,0,0,0,0,4,6,2,0,0,0,0,0,0,0,1,3,0,0,San Diego Growlers2015  
-Slaugh R,4,3729,25,16,16,4,35,31,18,4,0,0,0,0,0,0,0,0,0,0,San Diego Growlers2015  
-Gibson K,7,19752,72,48,128,41,235,269,218,16,24,32,7.10575,0,0,1,17,4,0,1,San Diego Growlers2015  
-Lenta R,12,18077,154,95,31,15,152,139,130,18,12,0,0,0,0,0,8,0,0,0,San Diego Growlers2015  
-Helms K,13,21719,120,73,120,32,118,102,103,15,5,0,0,0,0,0,2,0,0,0,San Diego Growlers2015  
-Flock D,11,8711,70,46,44,11,90,80,66,8,2,0,0,0,0,0,3,1,0,0,San Diego Growlers2015  
-Wu C,8,7472,91,64,8,1,90,68,67,23,4,0,0,0,0,0,3,1,0,0,San Diego Growlers2015  
-Woovon N,4,3365,2,2,29,5,1,1,1,0,0,2,6.9165,0,0,0,0,0,0,0,San Diego Growlers2015  
-Parisi M,9,10993,90,55,49,15,92,77,76,15,9,0,0,0,0,0,5,0,0,0,San Diego Growlers2015  
-Clark B,13,14125,28,17,131,35,25,21,21,4,1,0,0,0,0,0,3,0,0,0,San Diego Growlers2015  
-Kirkla C,9,9634,71,51,60,13,114,119,90,1,5,24,6.28366666667,0,0,0,13,0,0,0,San Diego Growlers2015  
-Griffi W,14,16669,81,58,182,31,167,165,141,13,24,7,5.67585714286,0,0,2,12,1,0,1,San Diego Growlers2015  
-Milard S,13,29424,64,33,242,66,158,139,137,21,14,15,5.63826666667,0,0,0,9,2,2,0,San Diego Growlers2015  
-Smith N,12,9805,8,3,120,29,31,37,29,1,3,2,6.121,0,0,0,3,0,0,0,San Diego Growlers2015  
-Bridge N,8,9904,28,15,74,18,55,53,45,5,5,0,0,0,0,1,3,1,0,0,San Diego Growlers2015  
-Mickle J,14,40163,265,176,150,58,523,516,494,26,61,93,7.08993548387,0,0,5,33,9,2,1,San Diego Growlers2015  
-Nicker J,13,20063,31,18,192,57,42,33,32,10,4,0,0,0,0,0,4,0,0,0,San Diego Growlers2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,492,1,1,7,0,0,223,0,0,0,0,0,0,0,0,223,0,0,0,San Francisco Flame Throwers2015  
-Lang B,15,20682,101,64,159,47,187,161,155,30,23,100,6.20215151515,0,0,0,14,2,7,0,San Francisco Flame Throwers2015  
-Chialv F,14,22714,174,113,127,49,447,465,354,13,25,38,6.02035135135,0,0,0,35,3,5,1,San Francisco Flame Throwers2015  
-Slovan N,11,10201,108,72,30,10,155,151,145,8,7,0,0,0,0,1,11,1,0,0,San Francisco Flame Throwers2015  
-Hubbar B,12,13409,57,34,103,28,103,98,96,6,6,6,5.11,0,0,0,13,1,0,1,San Francisco Flame Throwers2015  
-Nord A,8,9475,88,61,23,12,107,91,93,11,14,0,0,0,0,2,12,3,0,1,San Francisco Flame Throwers2015  
-Surman A,9,8508,79,54,43,15,99,94,75,8,5,0,0,0,0,0,0,2,0,0,San Francisco Flame Throwers2015  
-Marlia G,15,15487,114,80,102,41,168,135,134,34,20,16,5.5536,0,0,1,9,0,3,1,San Francisco Flame Throwers2015  
-Raty A,2,178,1,1,2,1,2,2,2,0,0,0,0,0,0,0,0,1,0,0,San Francisco Flame Throwers2015  
-Chatte S,8,7797,68,41,39,15,101,90,90,11,7,1,0.948,0,0,1,6,2,0,0,San Francisco Flame Throwers2015  
-Jeffer J,10,15886,72,53,139,44,166,199,152,10,24,74,5.48768918919,0,0,0,17,0,1,0,San Francisco Flame Throwers2015  
-Kawaok R,1,1107,7,6,10,7,19,19,14,0,1,0,0,0,0,0,0,0,0,0,San Francisco Flame Throwers2015  
-Miller C,15,22684,94,58,204,62,254,264,216,6,15,1,3.466,0,0,1,6,4,0,0,San Francisco Flame Throwers2015  
-Dallma L,12,14499,72,53,127,40,198,172,166,29,13,18,3.61022222222,0,0,0,20,5,0,0,San Francisco Flame Throwers2015  
-Anonymous,1,0,0,0,0,0,20,28,20,0,0,6,2.62425,0,0,0,3,2,0,0,San Francisco Flame Throwers2015  
-Greenb J,2,1543,3,2,17,7,6,5,5,1,0,0,0,0,0,0,0,0,0,0,San Francisco Flame Throwers2015  
-Purdy Z,1,897,2,0,13,3,6,5,6,0,0,0,0,0,0,1,0,0,0,0,San Francisco Flame Throwers2015  
-Fein B,11,11439,61,40,99,23,80,68,67,13,4,6,5.213,0,0,0,9,1,0,0,San Francisco Flame Throwers2015  
-Boucher,3,3716,32,24,18,9,40,34,28,11,2,4,7.09125,0,0,0,4,0,0,0,San Francisco Flame Throwers2015  
-Richar A,10,17594,63,39,116,33,114,98,101,13,10,28,6.29125,0,0,0,11,4,1,0,San Francisco Flame Throwers2015  
-Madden B,14,16614,119,76,99,31,120,104,101,18,8,6,6.17633333333,0,0,0,9,1,0,0,San Francisco Flame Throwers2015  
-Gormle R,7,8150,35,23,49,14,59,44,35,13,1,1,4.1,0,0,0,0,2,0,0,San Francisco Flame Throwers2015  
-Sugiok K,9,11227,36,26,98,27,39,36,36,3,5,0,0,0,0,0,4,1,0,0,San Francisco Flame Throwers2015  
-Naruo D,11,9723,73,47,48,19,78,73,70,7,15,1,1.199,0,0,0,2,0,0,0,San Francisco Flame Throwers2015  
-Yun J,9,9949,36,22,75,20,61,50,52,9,2,0,0,0,0,0,9,2,0,0,San Francisco Flame Throwers2015  
-Lahey T,14,26496,109,68,193,57,369,434,341,7,20,2,4.686,0,0,1,27,6,0,0,San Francisco Flame Throwers2015  
-Young L,7,11083,88,60,63,27,178,185,148,6,5,0,0,0,0,0,10,2,0,0,San Francisco Flame Throwers2015  
-Kerns E,11,19915,127,85,100,40,262,273,221,17,32,25,5.72284,0,0,2,22,1,1,0,San Francisco Flame Throwers2015  
-Lahey P,9,8424,49,32,63,19,68,48,45,20,2,0,0,0,0,0,6,0,0,0,San Francisco Flame Throwers2015  
-Janin E,12,17786,167,117,27,19,383,441,325,0,35,1,5.316,0,0,0,23,6,0,0,San Francisco Flame Throwers2015  
-Bouche E,4,5878,48,33,23,13,100,87,83,12,9,4,6.6625,0,0,0,3,1,0,0,San Francisco Flame Throwers2015  
-Konker H,10,16022,60,33,117,33,111,96,98,13,12,2,3.358,0,0,2,13,2,0,0,San Francisco Flame Throwers2015  
-Ikeda C,12,19033,70,41,153,39,231,236,196,4,5,0,0,0,0,1,6,3,0,0,San Francisco Flame Throwers2015  
-Swink S,7,8520,75,53,41,22,156,158,131,3,9,0,0,0,0,2,3,1,0,0,San Francisco Flame Throwers2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,234,0,0,1,1,0,264,0,0,0,0,0,0,0,0,264,0,0,0,San Jose Spiders2015  
-Natali M,11,8534,1,1,119,35,34,34,29,5,2,2,0,0,0,0,2,1,0,0,San Jose Spiders2015  
-Cohen G,13,21050,74,51,157,49,121,97,95,26,15,93,6.1943125,0,0,0,9,0,8,0,San Jose Spiders2015  
-Guerre X,1,1696,9,3,15,2,8,10,7,1,2,0,0,0,0,0,1,1,0,1,San Jose Spiders2015  
-Dillow L,7,5768,2,0,81,23,33,31,29,4,3,2,8.7,0,0,0,6,0,0,0,San Jose Spiders2015  
-Farina C,12,9285,10,3,131,35,39,39,37,1,2,0,0,0,0,0,10,1,0,0,San Jose Spiders2015  
-Joye A,12,28027,223,169,68,31,453,519,430,15,45,2,0,0,0,2,29,5,0,2,San Jose Spiders2015  
-Wynne R,10,16873,57,37,114,31,173,181,159,14,9,52,5.25,0,0,0,9,1,7,1,San Jose Spiders2015  
-Falat E,8,6633,10,6,97,24,30,26,26,4,3,0,0,0,0,0,4,0,0,0,San Jose Spiders2015  
-Grant T,13,14456,50,25,180,53,105,103,96,9,15,124,6.4587,0,0,0,15,1,8,0,San Jose Spiders2015  
-Brown A,1,193,0,0,8,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,San Jose Spiders2015  
-Johnso C,11,15693,160,127,73,31,256,224,227,29,29,0,0,0,0,0,20,1,0,1,San Jose Spiders2015  
-Zaccar S,13,11098,38,18,148,38,114,155,109,1,8,5,0,0,0,0,8,1,0,0,San Jose Spiders2015  
-Cao C,12,18594,207,157,53,22,286,342,230,12,26,1,0,0,0,2,13,1,0,0,San Jose Spiders2015  
-Kittre B,16,34016,252,180,151,64,472,424,403,68,37,7,0,0,0,1,23,1,0,9,San Jose Spiders2015  
-Van Ar K,10,9385,17,11,118,31,61,47,50,11,5,6,0,0,0,1,5,2,1,0,San Jose Spiders2015  
-Klevec A,6,5674,12,4,64,17,12,11,12,0,0,0,0,0,0,0,0,0,0,0,San Jose Spiders2015  
-Anonymous,1,0,0,0,0,0,264,22,3,0,0,17,0,0,0,0,0,0,0,0,San Jose Spiders2015  
-Cocks K,14,13649,23,13,180,43,95,88,86,9,8,0,0,0,0,1,12,0,0,0,San Jose Spiders2015  
-Ham S,16,21175,173,127,99,42,192,145,140,51,9,1,0,0,0,0,5,0,0,0,San Jose Spiders2015  
-Crawfo M,12,11108,7,2,143,42,61,58,53,8,11,17,0,0,0,0,7,0,0,0,San Jose Spiders2015  
-Roeder S,3,2341,40,35,1,1,25,34,16,2,1,0,0,0,0,0,2,0,0,0,San Jose Spiders2015  
-Reinha S,8,5715,4,0,74,18,19,15,15,4,1,0,0,0,0,0,0,0,0,0,San Jose Spiders2015  
-Marcy J,15,24878,152,110,116,49,301,379,276,5,18,2,0,0,0,1,11,5,0,2,San Jose Spiders2015  
-Norden J,9,14506,140,96,44,11,191,223,177,5,13,0,0,0,0,0,14,3,0,1,San Jose Spiders2015  
-Jaffe M,12,9362,9,3,151,41,51,57,47,3,5,9,0,0,0,0,4,0,1,0,San Jose Spiders2015  
-Higgin S,13,23597,233,179,45,24,254,210,208,46,38,1,0,0,0,0,24,2,0,0,San Jose Spiders2015  
-Sanche M,17,32699,327,232,73,32,380,351,339,38,46,0,0,0,0,3,25,2,1,0,San Jose Spiders2015  
-Rasmus C,12,26383,207,140,95,35,390,440,360,22,18,17,0,0,0,0,29,5,0,0,San Jose Spiders2015  
-Peters B,13,11060,9,4,143,37,62,66,52,10,4,0,0,0,0,0,12,1,0,0,San Jose Spiders2015  
-Smith K,17,20812,151,108,135,46,238,326,213,4,35,28,6.65825,0,0,0,27,4,0,0,San Jose Spiders2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,588,6,4,19,10,0,204,0,0,0,0,0,0,0,0,204,0,0,0,Seattle Cascades2015  
-Kinley T,2,1160,3,2,12,1,4,6,4,0,1,0,0,0,0,0,1,0,0,0,Seattle Cascades2015  
-Lim,3,5204,42,31,16,5,83,81,69,5,4,2,5.768,0,0,0,4,1,0,0,Seattle Cascades2015  
-Koss R,16,31134,141,95,216,59,191,208,155,24,27,162,5.99042361111,0,0,0,30,6,15,2,Seattle Cascades2015  
-Hirnin N,2,134,0,0,3,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,Seattle Cascades2015  
-Murray P,11,15856,142,110,43,17,224,209,184,16,25,1,0,0,0,0,10,6,0,0,Seattle Cascades2015  
-Illian R,11,17769,160,134,76,27,158,128,115,37,24,2,3.824,0,0,0,8,3,0,0,Seattle Cascades2015  
-Chen- D,1,1476,1,1,14,6,4,3,3,1,0,0,0,0,0,0,0,0,0,0,Seattle Cascades2015  
-Herold W,4,5203,3,1,66,15,14,13,14,0,2,7,6.05642857143,0,0,0,0,0,0,0,Seattle Cascades2015  
-Zukows G,7,9276,11,4,101,26,27,24,20,5,3,3,4.36066666667,0,0,0,4,1,0,0,Seattle Cascades2015  
-Caldwell,1,975,12,9,0,0,12,12,12,0,2,0,0,0,0,0,2,0,0,0,Seattle Cascades2015  
-Chen W,12,15991,95,80,122,32,122,131,94,5,7,4,5.32975,0,0,0,9,1,0,0,Seattle Cascades2015  
-Russel M,6,10476,22,8,113,34,37,32,28,9,6,0,0,0,0,0,3,0,0,0,Seattle Cascades2015  
-Rankin Z,7,12591,111,77,47,20,118,110,93,20,23,18,6.50844444444,0,0,0,20,3,0,0,Seattle Cascades2015  
-Lehman S,4,5272,46,35,24,5,41,38,35,6,1,0,0,0,0,0,2,0,0,0,Seattle Cascades2015  
-Caldwe M,2,3049,32,25,6,5,8,9,0,2,6,0,0,0,0,0,3,1,0,0,Seattle Cascades2015  
-Weiss L,2,2064,4,2,32,5,8,8,7,1,1,4,3.472,0,0,0,2,0,0,0,Seattle Cascades2015  
-Anonymous,1,0,0,0,0,0,25,38,17,2,5,13,2.222,0,0,0,2,2,0,0,Seattle Cascades2015  
-Farwel R,5,4087,6,1,56,15,8,8,6,2,1,0,0,0,0,0,1,0,0,0,Seattle Cascades2015  
-Chen D,2,2684,4,1,34,18,7,3,0,6,2,0,0,0,0,0,1,0,0,0,Seattle Cascades2015  
-Fox B,1,886,0,0,20,6,0,1,0,0,1,2,5.6745,0,0,0,0,0,0,0,Seattle Cascades2015  
-Hart S,8,11522,19,9,142,46,32,25,21,11,4,6,6.00216666667,0,0,0,3,0,0,0,Seattle Cascades2015  
-Simfox B,7,8674,10,5,90,26,18,26,16,2,4,4,5.829,0,0,0,4,1,0,0,Seattle Cascades2015  
-Rehder M,10,22907,183,137,70,30,183,142,138,42,24,18,6.99566666667,0,0,0,13,3,5,1,Seattle Cascades2015  
-Bolton J,7,7646,12,4,97,22,24,29,22,2,6,44,6.33048837209,0,0,1,4,1,3,0,Seattle Cascades2015  
-Cavana M,4,4868,6,2,39,9,12,15,12,0,1,1,0.951,0,0,0,1,0,0,0,Seattle Cascades2015  
-Benalo S,3,4016,37,24,11,2,27,27,14,2,1,0,0,0,0,0,6,1,0,1,Seattle Cascades2015  
-Simon A,9,15455,116,84,78,27,139,132,92,14,15,20,6.5778,0,0,1,8,4,0,0,Seattle Cascades2015  
-Stacey J,5,4891,12,8,52,18,17,14,13,4,9,0,0,0,0,0,0,2,0,0,Seattle Cascades2015  
-Karlin D,10,19974,203,155,52,21,378,400,316,7,23,2,4.1,0,0,1,18,3,0,0,Seattle Cascades2015  
-Clark D,12,22328,107,80,163,46,112,75,63,45,15,4,4.84925,0,0,0,10,2,1,1,Seattle Cascades2015  
-Hausma J,13,19247,115,77,115,33,125,115,96,18,23,43,6.66751282051,0,0,0,19,6,5,0,Seattle Cascades2015  
-Lenon A,8,13743,116,78,31,17,175,177,122,8,19,3,6.729,0,0,1,12,4,0,1,Seattle Cascades2015  
-Barich F,6,7355,49,34,46,10,58,54,46,4,5,1,5.25,0,0,0,6,1,0,0,Seattle Cascades2015  
-Cook S,10,10376,13,5,132,36,25,23,17,8,3,0,0,0,0,0,2,0,0,0,Seattle Cascades2015  
-Smith Z,8,9619,14,5,122,35,39,42,35,4,7,1,3.466,0,0,0,5,0,0,0,Seattle Cascades2015  
-Cavan M,2,3569,11,6,32,11,23,23,21,2,6,1,0,0,0,0,3,0,0,0,Seattle Cascades2015  
-Wallis S,6,7290,79,54,36,7,53,54,35,5,15,6,6.8345,0,0,0,10,1,0,0,Seattle Cascades2015  
-O'Brie M,10,19939,177,130,29,15,337,351,279,8,16,0,0,0,0,3,16,8,0,0,Seattle Cascades2015  
-Lim J,2,3307,35,28,13,5,42,39,28,4,6,1,7.817,0,0,0,4,0,0,0,Seattle Cascades2015  
-Titcom X,1,1079,0,0,7,3,5,4,4,1,0,0,0,0,0,0,0,0,0,0,Seattle Cascades2015  
-Titcom V,3,2722,22,13,19,7,11,12,10,1,1,2,7.224,0,0,0,2,0,0,0,Seattle Cascades2015  
-Sefton J,12,18007,165,131,69,22,233,204,193,27,18,0,0,0,0,1,11,5,0,2,Seattle Cascades2015  
-Harkne S,12,15320,41,27,146,38,100,95,85,13,9,0,0,0,0,1,4,2,0,0,Seattle Cascades2015  
-Rosatt T,7,9061,86,73,59,17,107,95,77,14,11,0,0,0,0,1,3,0,0,0,Seattle Cascades2015  
-Linn D,15,23509,58,31,249,72,113,140,96,8,13,10,5.7071,0,0,0,7,1,2,0,Seattle Cascades2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-Ojo R.,11,10798,5,4,156,61,61,51,51,10,6,0,0,0,0,0,7,1,0,0,Toronto Rush2015  
-,1,7,1,1,0,0,0,247,0,0,0,0,0,0,0,0,247,0,0,0,Toronto Rush2015  
-Meron J,6,6163,4,2,90,45,54,77,46,7,6,43,6.41278571429,0,0,0,6,0,1,0,Toronto Rush2015  
-Watanabe,11,10613,12,8,156,63,50,42,40,9,5,1,5.859,0,0,0,4,1,0,0,Toronto Rush2015  
-Mackenzi,4,5341,4,2,61,30,28,22,22,6,3,0,0,0,0,0,1,1,0,0,Toronto Rush2015  
-Raina,14,14878,171,134,50,24,299,310,144,6,6,9,5.65866666667,0,0,0,11,2,0,0,Toronto Rush2015  
-Mostaghi,10,7953,17,12,101,37,58,53,53,5,10,0,0,0,0,0,5,2,0,0,Toronto Rush2015  
-Henry T.,13,16629,49,32,185,78,85,81,72,13,19,1,0,0,0,0,8,3,0,0,Toronto Rush2015  
-Jones M.,14,16521,112,85,140,54,229,247,189,8,15,13,6.31666666667,0,0,0,8,2,1,0,Toronto Rush2015  
-Powell G,10,13712,36,28,149,65,106,89,77,27,10,1,4.617,0,0,0,12,1,0,0,Toronto Rush2015  
-Yearwood,14,21805,186,143,97,47,433,442,363,20,41,1,4.772,0,0,0,19,7,0,1,Toronto Rush2015  
-Lloyd M.,1,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0,0,0,Toronto Rush2015  
-Anonymous,1,0,0,0,0,0,6,15,5,1,1,4,3.71825,0,0,0,1,0,0,0,Toronto Rush2015  
-Martin J,7,12153,38,28,125,49,95,69,61,34,16,49,5.92339583333,0,0,0,3,1,3,0,Toronto Rush2015  
-Bradford,14,12736,149,122,68,29,147,135,133,14,7,1,5.871,0,0,0,13,2,0,0,Toronto Rush2015  
-Hau J.,15,15480,20,16,207,76,95,87,79,15,8,20,6.31029411765,0,0,0,16,0,5,0,Toronto Rush2015  
-Harrison,13,14745,26,22,202,80,126,159,103,12,16,172,6.82187951807,0,0,0,11,3,14,0,Toronto Rush2015  
-McKnight,16,23738,273,213,44,22,608,645,561,8,39,15,6.30586666667,0,0,0,37,10,0,0,Toronto Rush2015  
-Yue,11,11214,9,6,144,61,54,48,46,8,4,0,0,0,0,0,1,0,0,0,Toronto Rush2015  
-Kubinec,11,10186,13,10,164,57,66,54,52,14,6,29,6.02203448276,0,0,0,5,1,5,0,Toronto Rush2015  
-Vasilyev,10,17233,47,34,179,65,186,234,169,2,30,13,5.86615384615,0,0,0,13,4,2,0,Toronto Rush2015  
-Kotwa T.,5,5786,6,2,78,28,17,11,11,6,2,0,0,0,0,0,0,0,0,0,Toronto Rush2015  
-Carroll,16,23299,55,42,255,111,169,159,149,19,19,8,6.12616666667,0,0,0,11,1,0,0,Toronto Rush2015  
-Vlahos A,9,8885,59,46,70,26,70,58,58,12,4,0,0,0,0,0,4,0,0,0,Toronto Rush2015  
-Armitage,12,17530,154,120,66,33,135,85,82,53,7,1,5.87,0,0,0,5,3,0,0,Toronto Rush2015  
-Masek Ke,16,27220,281,221,77,31,437,394,378,55,56,19,6.01338888889,0,0,0,29,10,1,0,Toronto Rush2015  
-Lindquis,14,23916,183,141,131,52,342,336,311,29,55,9,5.63133333333,0,0,0,15,6,0,0,Toronto Rush2015  
-Harris C,15,26275,242,187,90,42,349,316,296,47,47,28,5.18966666667,0,0,0,24,8,1,0,Toronto Rush2015  
-Hirst N.,10,10366,114,89,36,21,143,141,103,11,9,2,4.2615,0,0,0,5,3,0,0,Toronto Rush2015  
-Watts A.,14,13251,2,0,204,78,66,95,62,3,7,2,5.065,0,0,0,10,4,1,0,Toronto Rush2015  
-name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team
-,1,0,0,0,0,0,0,146,0,0,0,0,0,0,0,0,146,0,0,0,Vancouver Riptide2015  
-Lore K,13,18511,192,127,58,19,222,226,147,9,8,0,0,0,0,0,13,1,0,0,Vancouver Riptide2015  
-Sun R,5,3630,31,23,29,7,12,11,11,1,1,0,0,0,0,0,2,0,0,0,Vancouver Riptide2015  
-Leduc M,13,17208,77,42,164,34,93,75,73,19,8,6,3.81016666667,0,0,0,6,1,0,0,Vancouver Riptide2015  
-Anders B,12,8672,27,14,117,12,48,51,44,4,5,5,4.0186,0,0,0,8,0,1,0,Vancouver Riptide2015  
-Yu P,3,3288,16,10,40,5,47,44,40,1,2,0,0,0,0,0,4,3,0,0,Vancouver Riptide2015  
-Lee R,12,14773,57,33,148,26,125,139,109,5,7,21,5.39405,0,0,1,13,1,1,0,Vancouver Riptide2015  
-Baker B,9,8578,10,4,106,12,26,20,21,5,0,0,0,0,0,0,2,1,0,0,Vancouver Riptide2015  
-Guo E,7,13827,158,110,19,12,133,108,108,25,12,0,0,0,0,0,7,0,0,0,Vancouver Riptide2015  
-Norris J,11,16752,218,143,18,12,379,384,313,6,34,1,7.439,0,0,1,21,5,0,1,Vancouver Riptide2015  
-Tan J,10,6735,12,2,80,16,33,31,31,2,1,0,0,0,0,0,2,0,0,0,Vancouver Riptide2015  
-Bryson M,9,12583,35,14,142,22,80,86,67,6,7,0,0,0,0,0,6,1,0,0,Vancouver Riptide2015  
-Anonymous,1,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,1,1,0,0,Vancouver Riptide2015  
-Tam R,7,7915,9,3,109,14,39,40,35,4,0,0,0,0,0,0,2,0,0,0,Vancouver Riptide2015  
-Dozzi M,10,8385,19,9,116,14,27,28,25,2,3,13,3.68923076923,0,0,0,4,1,0,0,Vancouver Riptide2015  
-Wu D,12,23632,233,160,56,24,158,124,123,35,9,0,0,0,0,1,16,2,0,0,Vancouver Riptide2015  
-Chatha G,10,23224,243,164,65,27,258,212,210,48,30,3,4.85066666667,0,0,1,15,3,0,0,Vancouver Riptide2015  
-Hunter M,11,9868,18,8,120,16,42,39,37,5,3,48,4.39895833333,0,0,0,3,3,2,0,Vancouver Riptide2015  
-Yip C,8,7970,29,17,73,16,36,30,31,5,1,0,0,0,0,0,6,0,0,0,Vancouver Riptide2015  
-Fenton D,12,18484,144,94,118,25,123,91,91,31,20,7,4.01216666667,0,0,0,9,2,0,0,Vancouver Riptide2015  
-Davis A,13,17908,27,6,228,31,51,50,47,4,4,3,2.51066666667,0,0,1,3,0,0,0,Vancouver Riptide2015  
-Lam F,6,8208,12,2,105,16,19,16,16,3,1,13,3.575,0,0,0,1,0,0,1,Vancouver Riptide2015  
-McFady C,8,10482,66,42,76,15,71,63,62,9,8,3,6.432,0,0,0,3,1,0,0,Vancouver Riptide2015  
-Underh K,13,27857,286,196,68,29,625,634,517,29,49,15,5.30306666667,0,0,4,27,12,0,2,Vancouver Riptide2015  
-Gailit A,12,23614,256,178,45,22,308,282,277,29,23,0,0,0,0,2,14,1,0,1,Vancouver Riptide2015  
-Tejpar R,9,15434,132,93,76,21,200,202,183,8,16,30,5.9304,0,0,0,20,3,0,1,Vancouver Riptide2015  
-Sincla M,14,19297,87,52,178,32,214,247,188,11,20,155,4.67321710526,0,0,0,16,7,2,0,Vancouver Riptide2015  
-Tsang T,9,13067,80,53,97,20,174,171,155,14,9,32,3.768,0,0,0,13,1,0,0,Vancouver Riptide2015  
-Bellav J,14,28017,277,200,69,33,608,598,453,19,58,0,0,0,0,1,26,9,0,2,Vancouver Riptide2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,1.46666666667,2,2,2,0,0,230,0,0,0,0,0,0,0,0,230,0,0,0,Madison Radicals2015  
+C Wilen,7,132.15,14,7,86,24,17,12,12,4,3,2,4.941,0,0,0,1,2,0,0,Madison Radicals2015  
+J Spiro,3,32.8,0,0,28,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,Madison Radicals2015  
+J Sculli,17,294.9,152,127,62,31,264,289,202,5,21,4,6.41633333333,0,0,0,11,5,0,0,Madison Radicals2015  
+K Garner,7,119.933333333,8,6,95,43,53,63,49,3,9,51,8.08261538462,0,0,1,2,1,1,0,Madison Radicals2015  
+Cooli,16,314.1,190,149,40,21,227,207,203,20,6,0,0,0,0,0,11,3,0,0,Madison Radicals2015  
+N Thib,6,109.516666667,66,52,10,6,70,60,59,10,12,0,0,0,0,0,2,2,0,0,Madison Radicals2015  
+S Rich,9,191.8,106,84,42,12,125,111,105,19,16,0,0,0,0,3,8,1,0,0,Madison Radicals2015  
+Animal,7,172.9,97,76,17,8,190,196,165,10,9,0,0,0,0,0,12,4,0,0,Madison Radicals2015  
+S Meyer,12,275.683333333,36,18,162,55,53,35,31,22,8,0,0,0,0,0,3,2,0,0,Madison Radicals2015  
+B Keren,5,65.35,46,35,4,3,91,116,75,3,5,0,0,0,0,0,1,1,0,1,Madison Radicals2015  
+K Alex,12,188.55,28,20,122,57,93,92,86,7,5,0,0,0,0,0,6,0,0,0,Madison Radicals2015  
+Anonymous,1,0.0,0,0,0,0,107,11,2,0,0,0,0,0,0,0,0,0,0,0,Madison Radicals2015  
+B Ever,15,468.383333333,59,40,256,112,225,298,192,14,18,0,0,0,0,0,9,0,0,0,Madison Radicals2015  
+KPS,14,261.816666667,30,22,164,63,81,72,68,13,13,9,6.626,0,0,0,7,2,0,0,Madison Radicals2015  
+M Swain,12,220.966666667,37,29,126,57,94,81,77,17,8,1,0,0,0,0,12,1,0,1,Madison Radicals2015  
+T Debyl,4,74.4,3,0,56,21,9,8,8,1,2,0,0,0,0,0,0,1,0,0,Madison Radicals2015  
+B Nelson,15,307.4,32,17,182,72,146,186,137,3,15,9,5.07533333333,0,0,0,11,1,0,0,Madison Radicals2015  
+A Brown,15,329.183333333,191,148,30,20,551,600,515,8,24,0,0,0,0,2,14,11,0,0,Madison Radicals2015  
+J Froude,10,275.75,45,34,181,71,98,79,77,21,19,1,5.166,0,0,0,10,3,0,1,Madison Radicals2015  
+C Camp,11,228.55,133,104,15,10,152,113,118,33,13,0,0,0,0,1,8,3,0,0,Madison Radicals2015  
+A Mesh,17,568.566666667,83,56,337,138,204,175,163,39,34,6,6.7458,0,0,0,25,4,0,0,Madison Radicals2015  
+P Graffy,9,306.0,37,21,186,82,113,99,97,16,18,91,6.21463855422,0,0,0,7,4,5,1,Madison Radicals2015  
+K Brown,12,374.933333333,52,33,214,79,143,140,129,14,13,178,5.79963559322,0,0,0,14,2,7,2,Madison Radicals2015  
+D Schlei,6,75.6333333333,53,38,4,2,61,48,48,13,3,0,0,0,0,0,3,0,0,0,Madison Radicals2015  
+D Wise,15,326.516666667,180,146,42,19,231,197,187,38,38,13,5.23454545455,0,0,0,16,6,0,0,Madison Radicals2015  
+B Hart,13,288.45,159,122,53,27,294,292,236,28,30,0,0,0,0,2,18,4,0,0,Madison Radicals2015  
+N Volk,4,62.6666666667,54,40,3,1,92,101,77,0,4,0,0,0,0,0,4,4,0,0,Madison Radicals2015  
+M Weber,10,194.35,18,8,131,48,30,13,13,17,4,0,0,0,0,0,0,0,0,0,Madison Radicals2015  
+B Taitt,1,11.3166666667,0,0,9,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Madison Radicals2015  
+Buddy,13,218.683333333,24,16,161,63,63,51,46,16,16,50,6.20047826087,0,0,0,1,0,3,0,Madison Radicals2015  
+P Shriwi,12,291.7,142,111,72,36,302,287,279,19,32,1,5.4,0,0,0,18,8,0,0,Madison Radicals2015  
+A Drews,16,313.35,51,42,181,78,252,344,235,11,27,7,5.458,0,0,1,25,7,0,1,Madison Radicals2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,3.9,0,0,1,1,0,264,0,0,0,0,0,0,0,0,264,0,0,0,San Jose Spiders2015  
+Natali M,11,142.233333333,1,1,119,35,34,34,29,5,2,2,0,0,0,0,2,1,0,0,San Jose Spiders2015  
+Cohen G,13,350.833333333,74,51,157,49,121,97,95,26,15,93,6.1943125,0,0,0,9,0,8,0,San Jose Spiders2015  
+Guerre X,1,28.2666666667,9,3,15,2,8,10,7,1,2,0,0,0,0,0,1,1,0,1,San Jose Spiders2015  
+Dillow L,7,96.1333333333,2,0,81,23,33,31,29,4,3,2,8.7,0,0,0,6,0,0,0,San Jose Spiders2015  
+Farina C,12,154.75,10,3,131,35,39,39,37,1,2,0,0,0,0,0,10,1,0,0,San Jose Spiders2015  
+Joye A,12,467.116666667,223,169,68,31,453,519,430,15,45,2,0,0,0,2,29,5,0,2,San Jose Spiders2015  
+Wynne R,10,281.216666667,57,37,114,31,173,181,159,14,9,52,5.25,0,0,0,9,1,7,1,San Jose Spiders2015  
+Falat E,8,110.55,10,6,97,24,30,26,26,4,3,0,0,0,0,0,4,0,0,0,San Jose Spiders2015  
+Grant T,13,240.933333333,50,25,180,53,105,103,96,9,15,124,6.4587,0,0,0,15,1,8,0,San Jose Spiders2015  
+Brown A,1,3.21666666667,0,0,8,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,San Jose Spiders2015  
+Johnso C,11,261.55,160,127,73,31,256,224,227,29,29,0,0,0,0,0,20,1,0,1,San Jose Spiders2015  
+Zaccar S,13,184.966666667,38,18,148,38,114,155,109,1,8,5,0,0,0,0,8,1,0,0,San Jose Spiders2015  
+Cao C,12,309.9,207,157,53,22,286,342,230,12,26,1,0,0,0,2,13,1,0,0,San Jose Spiders2015  
+Kittre B,16,566.933333333,252,180,151,64,472,424,403,68,37,7,0,0,0,1,23,1,0,9,San Jose Spiders2015  
+Van Ar K,10,156.416666667,17,11,118,31,61,47,50,11,5,6,0,0,0,1,5,2,1,0,San Jose Spiders2015  
+Klevec A,6,94.5666666667,12,4,64,17,12,11,12,0,0,0,0,0,0,0,0,0,0,0,San Jose Spiders2015  
+Anonymous,1,0.0,0,0,0,0,264,22,3,0,0,17,0,0,0,0,0,0,0,0,San Jose Spiders2015  
+Cocks K,14,227.483333333,23,13,180,43,95,88,86,9,8,0,0,0,0,1,12,0,0,0,San Jose Spiders2015  
+Ham S,16,352.916666667,173,127,99,42,192,145,140,51,9,1,0,0,0,0,5,0,0,0,San Jose Spiders2015  
+Crawfo M,12,185.133333333,7,2,143,42,61,58,53,8,11,17,0,0,0,0,7,0,0,0,San Jose Spiders2015  
+Roeder S,3,39.0166666667,40,35,1,1,25,34,16,2,1,0,0,0,0,0,2,0,0,0,San Jose Spiders2015  
+Reinha S,8,95.25,4,0,74,18,19,15,15,4,1,0,0,0,0,0,0,0,0,0,San Jose Spiders2015  
+Marcy J,15,414.633333333,152,110,116,49,301,379,276,5,18,2,0,0,0,1,11,5,0,2,San Jose Spiders2015  
+Norden J,9,241.766666667,140,96,44,11,191,223,177,5,13,0,0,0,0,0,14,3,0,1,San Jose Spiders2015  
+Jaffe M,12,156.033333333,9,3,151,41,51,57,47,3,5,9,0,0,0,0,4,0,1,0,San Jose Spiders2015  
+Higgin S,13,393.283333333,233,179,45,24,254,210,208,46,38,1,0,0,0,0,24,2,0,0,San Jose Spiders2015  
+Sanche M,17,544.983333333,327,232,73,32,380,351,339,38,46,0,0,0,0,3,25,2,1,0,San Jose Spiders2015  
+Rasmus C,12,439.716666667,207,140,95,35,390,440,360,22,18,17,0,0,0,0,29,5,0,0,San Jose Spiders2015  
+Peters B,13,184.333333333,9,4,143,37,62,66,52,10,4,0,0,0,0,0,12,1,0,0,San Jose Spiders2015  
+Smith K,17,346.866666667,151,108,135,46,238,326,213,4,35,28,6.65825,0,0,0,27,4,0,0,San Jose Spiders2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,1.16666666667,1,1,6,0,0,182,0,0,0,0,0,0,0,0,182,0,0,0,Cincinnati Revolution2015  
+North K,12,220.95,34,17,161,30,95,91,87,6,13,21,5.49023809524,0,0,0,10,3,3,0,Cincinnati Revolution2015  
+Grand C,14,367.083333333,159,88,131,20,257,242,232,17,18,14,5.84192857143,0,0,0,26,3,0,0,Cincinnati Revolution2015  
+Harde C,9,276.466666667,120,71,64,13,124,98,98,23,11,0,0,0,0,0,11,4,0,0,Cincinnati Revolution2015  
+Huffer W,13,299.65,121,67,84,17,177,183,153,14,13,27,6.06811538462,0,0,0,26,3,1,0,Cincinnati Revolution2015  
+T Phil,1,9.16666666667,13,4,1,0,10,11,7,0,1,0,0,0,0,0,0,0,0,0,Cincinnati Revolution2015  
+Jeffer I,10,224.05,101,54,51,7,137,133,124,4,7,24,6.81866666667,0,0,0,5,2,1,0,Cincinnati Revolution2015  
+Mack Ed,13,459.266666667,281,166,16,5,468,443,400,18,25,0,0,0,0,0,20,6,0,0,Cincinnati Revolution2015  
+Anonymous,1,0.0,0,0,0,0,2,3,2,0,0,1,0,0,0,0,0,0,0,0,Cincinnati Revolution2015  
+Misleh G,13,399.516666667,242,143,46,10,330,290,285,38,32,3,5.91033333333,0,0,0,41,5,0,0,Cincinnati Revolution2015  
+Elder D,8,56.0,3,3,53,6,15,16,13,1,2,0,0,0,0,0,2,0,0,0,Cincinnati Revolution2015  
+Graves D,13,143.233333333,8,3,125,20,42,40,37,4,4,0,0,0,0,0,4,2,0,0,Cincinnati Revolution2015  
+Brinkm E,12,233.366666667,54,28,153,23,102,108,87,8,10,5,4.4868,0,0,0,11,3,0,0,Cincinnati Revolution2015  
+Settle T,14,512.8,281,157,46,12,503,493,412,25,24,2,4.17,0,0,1,33,6,0,0,Cincinnati Revolution2015  
+Landis T,7,193.766666667,115,74,7,3,63,45,47,16,3,0,0,0,0,0,2,0,0,0,Cincinnati Revolution2015  
+Fox Cody,10,278.8,129,69,91,9,239,247,205,6,8,3,2.71266666667,0,0,2,21,5,0,0,Cincinnati Revolution2015  
+Schrin S,12,501.8,265,160,45,12,579,670,441,17,33,0,0,0,0,2,49,10,0,0,Cincinnati Revolution2015  
+Kyle Rom,8,132.566666667,19,10,95,13,25,16,17,8,0,10,5.4565,0,0,0,0,0,0,0,Cincinnati Revolution2015  
+Dinan,2,10.7333333333,0,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Cincinnati Revolution2015  
+Kaylor Z,12,219.116666667,26,10,151,22,85,91,81,0,1,0,0,0,0,0,8,4,0,0,Cincinnati Revolution2015  
+Latz J,8,190.183333333,114,69,10,3,118,116,110,7,9,0,0,0,0,0,16,3,0,0,Cincinnati Revolution2015  
+Greg,2,12.5,0,0,10,1,6,4,6,0,0,0,0,0,0,0,2,0,0,0,Cincinnati Revolution2015  
+Moore S,11,133.816666667,8,4,102,17,18,15,14,4,0,0,0,0,0,0,1,0,0,0,Cincinnati Revolution2015  
+Sage Ben,2,23.2166666667,8,5,21,2,14,14,12,1,3,17,6.92675,0,0,0,2,0,1,0,Cincinnati Revolution2015  
+Bisson N,7,49.3666666667,7,3,35,4,19,17,17,2,1,0,0,0,0,0,6,0,0,0,Cincinnati Revolution2015  
+Kelly K,9,274.033333333,138,82,32,4,262,253,246,9,9,9,6.622,0,0,1,16,1,0,0,Cincinnati Revolution2015  
+Sage,1,20.0666666667,0,0,22,4,2,4,2,0,1,5,6.2736,0,0,0,0,0,0,0,Cincinnati Revolution2015  
+Mccart C,12,301.75,134,78,76,16,308,321,268,8,8,0,0,0,0,0,24,4,0,0,Cincinnati Revolution2015  
+Dan Latz,6,220.6,90,54,36,5,197,212,169,1,14,0,0,0,0,0,18,5,0,0,Cincinnati Revolution2015  
+Carrol K,14,237.283333333,29,11,169,26,50,43,40,10,2,0,0,0,0,0,5,0,0,0,Cincinnati Revolution2015  
+Wetzel N,5,152.683333333,45,21,59,12,96,106,88,5,1,34,5.88838235294,0,0,0,8,5,1,0,Cincinnati Revolution2015  
+Jansen B,12,143.016666667,10,4,118,12,34,32,30,4,3,90,6.12779775281,0,0,1,4,0,7,0,Cincinnati Revolution2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,5.76666666667,1,0,17,15,0,173,0,0,0,0,0,0,0,0,173,0,0,0,Los Angeles Aviators2016  
+Bacon T,6,181.933333333,71,50,45,10,170,172,156,8,18,9,6.579,0,0,0,22,1,2,0,Los Angeles Aviators2016  
+Carlis S,5,61.4,6,2,49,12,12,11,11,1,0,0,0,0,0,0,3,0,0,0,Los Angeles Aviators2016  
+Steine M,13,254.816666667,38,18,158,44,125,124,113,9,10,4,6.333,0,0,0,15,5,1,0,Los Angeles Aviators2016  
+Boyd G,13,335.366666667,177,120,28,10,257,251,221,14,15,1,0,0,0,0,15,1,0,0,Los Angeles Aviators2016  
+Carneg H,10,261.566666667,107,71,66,17,135,113,112,22,9,0,0,0,0,0,12,1,0,0,Los Angeles Aviators2016  
+Theodo Z,12,222.3,47,21,137,30,81,71,64,13,7,0,0,0,0,0,5,1,0,0,Los Angeles Aviators2016  
+Corbet H,8,220.75,43,21,121,34,84,83,73,9,10,3,5.36566666667,0,0,0,6,2,0,0,Los Angeles Aviators2016  
+Lai A,12,323.216666667,182,122,20,7,359,358,277,8,9,3,6.68266666667,0,0,0,16,1,1,0,Los Angeles Aviators2016  
+Anonymous,11,112.383333333,29,17,56,7,61,71,51,5,5,19,5.49073333333,0,0,0,11,1,0,0,Los Angeles Aviators2016  
+Forbes J,7,127.783333333,82,53,7,3,176,177,131,0,4,0,0,0,0,0,12,1,0,1,Los Angeles Aviators2016  
+Oettin D,12,236.816666667,69,37,102,28,176,211,145,2,11,88,6.9274057971,0,0,0,18,3,4,1,Los Angeles Aviators2016  
+Pebley A,7,150.583333333,19,7,89,28,40,34,33,7,4,0,0,0,0,0,2,0,0,0,Los Angeles Aviators2016  
+Nguyen B,13,345.65,188,124,34,11,175,145,145,28,13,0,0,0,0,0,11,3,0,0,Los Angeles Aviators2016  
+Evans S,14,370.883333333,47,18,219,69,57,28,28,29,2,0,0,0,0,0,3,0,0,0,Los Angeles Aviators2016  
+Smeltzer,7,52.5333333333,7,4,47,12,37,47,31,3,1,9,5.48257142857,0,0,0,5,0,1,0,Los Angeles Aviators2016  
+Chiles I,9,188.7,22,13,110,33,59,56,52,7,5,0,0,0,0,0,3,1,0,0,Los Angeles Aviators2016  
+Husak G,4,67.1,16,14,31,8,49,47,44,3,4,1,5.95,0,0,0,6,1,0,0,Los Angeles Aviators2016  
+Johns C,1,3.8,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Los Angeles Aviators2016  
+Lissne E,8,207.933333333,131,95,9,3,237,221,209,17,22,0,0,0,0,1,20,2,0,0,Los Angeles Aviators2016  
+Chang S,12,387.766666667,217,148,25,10,522,556,468,8,33,1,5.717,0,0,0,28,3,0,0,Los Angeles Aviators2016  
+Schakn Z,13,324.083333333,50,25,191,55,132,150,119,3,23,2,6.483,0,0,0,14,1,0,0,Los Angeles Aviators2016  
+Warden N,9,85.5166666667,7,2,79,13,16,16,16,0,1,0,0,0,0,0,2,0,0,0,Los Angeles Aviators2016  
+McCrae A,3,17.45,11,6,2,0,25,24,21,1,0,0,0,0,0,0,0,0,0,0,Los Angeles Aviators2016  
+Silver J,11,254.733333333,43,21,172,46,124,120,114,8,8,0,0,0,0,0,8,1,0,0,Los Angeles Aviators2016  
+Bellin D,13,218.35,26,13,176,49,115,171,102,4,12,150,6.64978225806,0,0,0,18,4,4,0,Los Angeles Aviators2016  
+Alexan N,6,126.966666667,71,54,15,7,188,194,152,6,14,0,0,0,0,0,6,1,0,0,Los Angeles Aviators2016  
+McDoug S,14,383.133333333,173,115,82,22,206,165,164,41,13,0,0,0,0,0,11,1,0,0,Los Angeles Aviators2016  
+Elboge M,13,387.733333333,219,146,35,10,286,254,253,32,29,1,6.483,0,0,0,27,6,0,0,Los Angeles Aviators2016  
+Melo E,9,164.466666667,99,70,7,2,141,144,111,2,8,0,0,0,0,0,9,0,0,0,Los Angeles Aviators2016  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,3.78333333333,1,1,3,1,0,194,0,0,0,0,0,0,0,0,194,0,0,0,Montreal Royal2015  
+Gab M,15,378.4,41,23,210,58,92,115,77,10,9,3,3.076,0,0,0,21,1,0,0,Montreal Royal2015  
+Oli S,9,230.433333333,45,27,119,36,67,83,44,8,14,75,6.36566216216,0,0,0,12,4,3,0,Montreal Royal2015  
+GregM,4,45.1166666667,21,10,22,5,21,19,17,2,1,0,0,0,0,0,5,1,0,0,Montreal Royal2015  
+CharlesB,15,553.366666667,37,17,233,71,54,56,49,4,10,2,1.3495,0,0,0,4,1,0,0,Montreal Royal2015  
+Chris M,14,454.533333333,192,121,44,15,255,267,172,10,14,6,3.76816666667,0,0,0,13,3,0,0,Montreal Royal2015  
+Moore,1,27.4833333333,2,2,13,6,9,7,7,2,2,0,0,0,0,0,2,1,0,0,Montreal Royal2015  
+Bago,6,57.7666666667,51,36,4,2,69,72,51,3,2,0,0,0,0,0,6,2,0,0,Montreal Royal2015  
+Shawn S,12,403.333333333,179,118,18,6,158,132,135,19,14,0,0,0,0,0,15,9,0,0,Montreal Royal2015  
+J-P R,15,285.95,162,109,50,19,107,72,68,35,13,0,0,0,0,0,7,1,0,0,Montreal Royal2015  
+Yoland C,15,596.333333333,222,150,112,41,283,244,214,47,48,1,3.766,0,0,0,26,8,0,0,Montreal Royal2015  
+Eric S,2,37.4833333333,9,4,20,5,8,7,7,1,0,0,0,0,0,0,1,1,0,0,Montreal Royal2015  
+Fred P,13,407.133333333,71,44,107,37,128,148,108,5,8,17,4.58841176471,0,0,0,12,3,1,0,Montreal Royal2015  
+LP,4,47.9,24,18,24,7,7,6,4,2,0,0,0,0,0,0,0,0,0,0,Montreal Royal2015  
+Ray N,15,276.783333333,211,147,31,15,315,310,239,11,15,0,0,0,0,0,14,4,0,0,Montreal Royal2015  
+Phil T,12,264.65,32,17,170,48,65,67,56,7,6,45,6.04162790698,0,0,0,7,2,2,0,Montreal Royal2015  
+Anonymous,1,0.0,0,0,0,0,8,8,5,2,1,0,0,0,0,0,0,0,0,0,Montreal Royal2015  
+Vince H,1,9.13333333333,1,0,6,1,0,2,0,0,0,0,0,0,0,0,1,0,1,0,Montreal Royal2015  
+Nic V,7,104.033333333,46,27,32,9,55,56,43,4,7,0,0,0,0,0,8,0,0,0,Montreal Royal2015  
+Gus C,14,254.933333333,209,136,13,6,394,415,342,2,23,0,0,0,0,1,32,15,0,0,Montreal Royal2015  
+Lepagnol,11,187.583333333,113,75,42,11,135,129,103,16,20,13,8.08276923077,1,0,0,22,6,4,0,Montreal Royal2015  
+AntoineG,15,644.216666667,87,45,255,78,157,176,121,25,49,22,6.3505,0,0,0,41,6,4,0,Montreal Royal2015  
+Max G,13,277.183333333,48,29,169,51,55,46,42,13,1,0,0,0,0,0,1,0,0,0,Montreal Royal2015  
+J-L C,15,527.8,99,57,178,60,131,121,101,24,9,2,7.5335,0,0,0,14,3,0,0,Montreal Royal2015  
+AntoineL,2,33.5833333333,33,22,0,0,25,24,23,2,4,0,0,0,0,0,3,0,0,0,Montreal Royal2015  
+Simon L,3,40.3833333333,4,2,27,13,22,34,21,0,2,0,0,0,0,0,3,0,0,0,Montreal Royal2015  
+Arsene A,1,6.06666666667,0,0,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Montreal Royal2015  
+F-X H,15,315.766666667,224,152,28,12,176,142,139,32,20,0,0,0,0,0,16,2,0,0,Montreal Royal2015  
+Kevin Gu,13,256.316666667,24,17,174,51,62,72,56,6,7,140,5.90476428571,0,0,0,14,0,12,0,Montreal Royal2015  
+Frank M,5,75.5166666667,11,7,53,14,20,22,18,2,1,0,0,0,0,0,1,0,0,0,Montreal Royal2015  
+Kevin Gr,13,369.166666667,142,89,132,47,213,194,157,25,21,6,4.248,1,0,0,36,3,0,0,Montreal Royal2015  
+Aubut C,1,9.33333333333,1,0,5,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,Montreal Royal2015  
+Aubut,3,40.9166666667,4,2,29,7,4,3,3,1,0,0,0,0,0,0,1,0,0,0,Montreal Royal2015  
+Nathan D,3,72.7166666667,3,1,42,11,12,8,8,4,0,0,0,0,0,0,1,0,0,0,Montreal Royal2015  
+Felix D,11,285.2,44,28,138,42,104,141,85,11,14,1,1.039,0,0,0,9,1,0,0,Montreal Royal2015  
+Hendriks,1,16.5166666667,1,0,9,3,3,1,1,2,0,0,0,0,0,0,0,0,0,0,Montreal Royal2015  
+Ced A. B,1,3.55,0,0,3,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Montreal Royal2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,0.0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,150,0,0,0,San Diego Growlers2015  
+Leggio D,13,362.116666667,159,103,135,37,402,396,369,17,23,0,0,0,0,0,9,8,0,1,San Diego Growlers2015  
+Benton A,7,94.9333333333,2,1,79,18,23,19,20,3,3,32,6.6680625,0,0,0,5,0,3,0,San Diego Growlers2015  
+Cohen J,13,432.533333333,235,153,27,21,322,285,285,37,29,0,0,0,0,0,18,5,0,0,San Diego Growlers2015  
+Goodma J,10,206.966666667,14,8,119,34,46,54,41,2,3,32,6.5004375,0,0,0,3,2,1,0,San Diego Growlers2015  
+Sammon A,14,176.85,148,100,8,1,322,326,213,6,4,1,6.884,0,0,0,10,2,0,0,San Diego Growlers2015  
+Ackley J,12,221.133333333,176,126,6,3,415,444,331,13,12,0,0,0,0,0,16,8,0,1,San Diego Growlers2015  
+Dunn T,12,225.35,15,10,162,33,60,57,54,6,5,0,0,0,0,0,5,1,0,0,San Diego Growlers2015  
+Curtis A,12,206.633333333,188,130,13,3,360,340,280,16,36,0,0,0,0,0,24,4,0,1,San Diego Growlers2015  
+Lance N,9,356.783333333,65,41,160,37,194,205,173,10,14,86,6.48904651163,0,0,0,14,3,0,0,San Diego Growlers2015  
+Purdy T,12,187.616666667,94,63,95,19,110,85,86,24,12,3,7.33933333333,0,0,0,8,1,1,0,San Diego Growlers2015  
+Anonymous,1,0.0,0,0,0,0,4,6,2,0,0,0,0,0,0,0,1,3,0,0,San Diego Growlers2015  
+Slaugh R,4,62.15,25,16,16,4,35,31,18,4,0,0,0,0,0,0,0,0,0,0,San Diego Growlers2015  
+Gibson K,7,329.2,72,48,128,41,235,269,218,16,24,32,7.10575,0,0,1,17,4,0,1,San Diego Growlers2015  
+Lenta R,12,301.283333333,154,95,31,15,152,139,130,18,12,0,0,0,0,0,8,0,0,0,San Diego Growlers2015  
+Helms K,13,361.983333333,120,73,120,32,118,102,103,15,5,0,0,0,0,0,2,0,0,0,San Diego Growlers2015  
+Flock D,11,145.183333333,70,46,44,11,90,80,66,8,2,0,0,0,0,0,3,1,0,0,San Diego Growlers2015  
+Wu C,8,124.533333333,91,64,8,1,90,68,67,23,4,0,0,0,0,0,3,1,0,0,San Diego Growlers2015  
+Woovon N,4,56.0833333333,2,2,29,5,1,1,1,0,0,2,6.9165,0,0,0,0,0,0,0,San Diego Growlers2015  
+Parisi M,9,183.216666667,90,55,49,15,92,77,76,15,9,0,0,0,0,0,5,0,0,0,San Diego Growlers2015  
+Clark B,13,235.416666667,28,17,131,35,25,21,21,4,1,0,0,0,0,0,3,0,0,0,San Diego Growlers2015  
+Kirkla C,9,160.566666667,71,51,60,13,114,119,90,1,5,24,6.28366666667,0,0,0,13,0,0,0,San Diego Growlers2015  
+Griffi W,14,277.816666667,81,58,182,31,167,165,141,13,24,7,5.67585714286,0,0,2,12,1,0,1,San Diego Growlers2015  
+Milard S,13,490.4,64,33,242,66,158,139,137,21,14,15,5.63826666667,0,0,0,9,2,2,0,San Diego Growlers2015  
+Smith N,12,163.416666667,8,3,120,29,31,37,29,1,3,2,6.121,0,0,0,3,0,0,0,San Diego Growlers2015  
+Bridge N,8,165.066666667,28,15,74,18,55,53,45,5,5,0,0,0,0,1,3,1,0,0,San Diego Growlers2015  
+Mickle J,14,669.383333333,265,176,150,58,523,516,494,26,61,93,7.08993548387,0,0,5,33,9,2,1,San Diego Growlers2015  
+Nicker J,13,334.383333333,31,18,192,57,42,33,32,10,4,0,0,0,0,0,4,0,0,0,San Diego Growlers2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,0.0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,33,0,0,0,Atlanta Hustle2016  
+Allan L,2,38.6833333333,5,3,26,11,21,26,19,1,5,22,7.52340909091,0,0,0,1,1,2,0,Atlanta Hustle2016  
+Sun,2,35.6333333333,2,1,19,8,16,16,16,0,2,2,6.9515,0,0,0,3,0,0,0,Atlanta Hustle2016  
+Vickroy,2,55.8333333333,6,4,29,13,26,20,22,4,3,1,5.387,0,0,0,1,1,0,0,Atlanta Hustle2016  
+Bradham,2,40.95,1,0,27,13,4,1,1,3,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2016  
+Kyle S,2,40.95,26,20,2,1,60,61,47,1,1,0,0,1,0,0,3,2,0,0,Atlanta Hustle2016  
+Leonard,2,41.9,26,20,1,1,54,50,46,1,4,0,0,0,0,0,2,1,0,1,Atlanta Hustle2016  
+A Olsen,1,28.95,1,1,18,7,8,6,7,1,1,0,0,0,0,0,1,1,0,0,Atlanta Hustle2016  
+Breault,1,9.55,0,0,12,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2016  
+Dylan,2,32.9833333333,24,17,2,1,62,65,49,3,5,0,0,0,0,0,5,0,0,0,Atlanta Hustle2016  
+Erickson,2,42.5666666667,19,13,5,2,23,19,19,4,1,0,0,0,0,0,1,0,0,0,Atlanta Hustle2016  
+Hicks,1,8.15,3,1,4,1,8,8,7,0,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2016  
+Tree,2,52.55,4,2,26,11,11,15,9,2,2,0,0,0,0,0,2,0,0,0,Atlanta Hustle2016  
+C Olsen,1,24.7333333333,5,3,9,4,16,15,16,0,2,0,0,0,0,0,1,0,0,1,Atlanta Hustle2016  
+Poole,2,40.4833333333,28,20,1,1,48,45,44,3,5,0,0,0,0,0,2,0,0,0,Atlanta Hustle2016  
+Boecking,1,16.1166666667,6,5,6,2,23,23,23,0,0,0,0,0,0,0,1,1,0,0,Atlanta Hustle2016  
+A Taylor,1,13.9333333333,13,9,0,0,25,23,24,1,2,0,0,0,0,0,1,1,0,0,Atlanta Hustle2016  
+Gainer,2,53.95,28,21,6,2,40,35,35,5,3,0,0,0,0,0,0,1,0,0,Atlanta Hustle2016  
+Kelvin W,1,21.5333333333,1,1,16,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2016  
+Archie,1,14.0333333333,0,0,12,3,4,2,3,1,1,0,0,0,0,0,0,0,0,0,Atlanta Hustle2016  
+Trenton,2,52.7333333333,24,17,8,3,22,16,16,6,0,0,0,0,0,0,1,0,0,0,Atlanta Hustle2016  
+Berendes,1,17.25,1,1,12,5,4,4,3,1,0,0,0,0,0,0,1,0,0,0,Atlanta Hustle2016  
+Runner,2,47.3,6,4,26,11,25,44,22,1,3,19,6.49005882353,0,0,0,1,2,1,0,Atlanta Hustle2016  
+JP Burns,2,65.85,6,3,28,13,20,20,18,1,2,0,0,1,0,0,1,2,0,0,Atlanta Hustle2016  
+Sears,2,42.6333333333,3,2,25,9,7,3,3,4,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2016  
+Wooten,1,6.11666666667,0,0,9,2,2,1,2,0,0,0,0,0,0,0,1,1,0,0,Atlanta Hustle2016  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,0.0,0,0,0,0,0,217,0,0,0,0,0,0,0,0,217,0,0,0,Ottawa Outlaws2015  
+HogelM,13,252.85,171,118,33,18,341,336,256,18,12,0,0,0,0,1,14,5,0,0,Ottawa Outlaws2015  
+GoodkeyM,12,161.95,24,15,147,37,56,52,54,2,6,7,5.64575,0,0,1,7,4,0,1,Ottawa Outlaws2015  
+FroatsC,13,187.033333333,27,16,147,39,75,98,62,5,9,4,9.017,0,0,0,5,2,0,0,Ottawa Outlaws2015  
+SchmidtR,9,142.65,16,10,111,28,41,30,31,10,5,17,6.32466666667,0,0,0,6,4,0,0,Ottawa Outlaws2015  
+GeeK,7,108.633333333,27,12,76,21,57,52,49,1,1,4,0,0,0,0,2,3,0,0,Ottawa Outlaws2015  
+TurcottD,5,46.1333333333,3,1,49,16,29,39,28,1,3,1,0,0,0,0,5,0,0,0,Ottawa Outlaws2015  
+JanssenD,9,217.816666667,141,99,20,13,268,262,187,11,9,0,0,0,0,0,9,1,0,1,Ottawa Outlaws2015  
+BlackstL,11,207.783333333,21,10,172,55,65,50,48,16,11,30,3.58866666667,0,0,0,5,1,0,0,Ottawa Outlaws2015  
+RenaudP,6,92.9333333333,12,5,76,21,19,19,15,4,3,0,0,0,0,0,2,0,0,0,Ottawa Outlaws2015  
+CoreyA,11,187.6,67,46,126,34,156,141,134,14,19,122,6.49183333333,0,0,0,19,4,6,1,Ottawa Outlaws2015  
+ForestNL,13,334.516666667,212,144,37,16,218,200,195,23,10,1,0,0,0,0,10,2,0,0,Ottawa Outlaws2015  
+ProulxP,9,104.333333333,3,1,96,30,13,8,10,3,0,0,0,0,0,0,0,1,0,0,Ottawa Outlaws2015  
+HaigJ,8,159.316666667,113,77,15,6,54,48,45,7,6,0,0,0,0,0,6,0,0,0,Ottawa Outlaws2015  
+WayK,13,382.6,227,156,50,19,377,346,335,31,43,0,0,0,0,1,32,4,0,0,Ottawa Outlaws2015  
+LoiseauL,1,2.33333333333,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ottawa Outlaws2015  
+LoiseauK,12,337.716666667,167,111,77,30,302,279,265,30,20,1,6.066,0,0,1,24,2,0,0,Ottawa Outlaws2015  
+LeeM,12,193.35,28,16,152,49,86,84,68,17,17,28,4.92366666667,0,0,0,11,0,3,0,Ottawa Outlaws2015  
+HillJ,10,262.616666667,114,73,77,29,98,69,71,27,7,3,2.5165,0,0,0,6,4,0,0,Ottawa Outlaws2015  
+RingB,13,165.233333333,43,25,145,31,115,159,94,0,4,0,0,0,0,0,8,4,0,0,Ottawa Outlaws2015  
+AlexandD,11,364.916666667,217,146,50,24,601,633,514,12,44,0,0,0,0,2,35,11,0,0,Ottawa Outlaws2015  
+AlexandK,13,302.383333333,208,145,24,15,180,157,152,24,25,0,0,0,0,0,16,4,0,0,Ottawa Outlaws2015  
+ArsenauA,2,29.4,7,3,15,1,6,6,4,2,0,0,0,0,0,0,0,0,0,0,Ottawa Outlaws2015  
+McGregoJ,7,111.166666667,16,9,87,29,37,35,28,8,2,1,0,0,0,0,5,0,0,0,Ottawa Outlaws2015  
+PhelanL,11,109.483333333,19,11,107,35,45,46,41,4,7,18,4.841,0,0,0,4,0,0,0,Ottawa Outlaws2015  
+WestwelS,11,283.516666667,156,95,75,26,275,280,216,20,22,8,5.7075,0,0,0,14,9,0,0,Ottawa Outlaws2015  
+BergM,8,135.65,62,38,64,28,48,30,29,19,3,0,0,0,0,0,0,0,0,0,Ottawa Outlaws2015  
+GreenC,11,156.783333333,30,21,118,39,78,127,73,0,15,0,0,0,0,0,10,0,0,1,Ottawa Outlaws2015  
+OuchterA,9,232.766666667,141,103,26,10,175,163,161,14,12,1,3.583,0,0,1,13,2,0,0,Ottawa Outlaws2015  
+BoucherN,8,150.016666667,31,20,116,28,57,56,53,3,10,71,6.88794736842,0,0,0,9,2,1,0,Ottawa Outlaws2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,0.0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,200,0,0,0,Nashville Nightwatch2015  
+Dayton M,14,482.0,273,185,28,11,250,223,219,29,7,0,0,0,0,0,6,2,0,0,Nashville Nightwatch2015  
+Lally P,13,453.683333333,256,178,44,16,324,273,273,50,36,2,6.128,0,0,0,17,2,0,0,Nashville Nightwatch2015  
+Trett D,9,227.25,73,48,92,18,79,65,66,12,6,0,0,0,0,0,2,1,0,0,Nashville Nightwatch2015  
+Pepper N,2,36.25,9,4,16,3,17,17,17,0,1,0,0,0,0,0,0,0,0,0,Nashville Nightwatch2015  
+Willia E,10,153.866666667,24,10,116,16,56,62,50,0,1,0,0,0,0,0,5,2,0,0,Nashville Nightwatch2015  
+Gallin M,13,364.916666667,69,40,198,33,317,403,300,0,23,193,6.68924479167,0,0,2,47,7,11,0,Nashville Nightwatch2015  
+Carden J,10,217.633333333,43,19,113,18,69,57,57,12,5,0,0,0,0,0,3,2,0,0,Nashville Nightwatch2015  
+Markle R,6,46.85,8,5,39,2,25,27,22,0,1,0,0,0,0,0,4,1,1,0,Nashville Nightwatch2015  
+Radcli T,11,337.416666667,201,139,30,9,314,266,268,46,28,1,6.242,0,0,1,15,4,0,0,Nashville Nightwatch2015  
+McClel M,5,68.0,17,9,30,5,60,61,52,3,2,0,0,0,0,0,2,0,0,0,Nashville Nightwatch2015  
+Anonymous,1,0.0,0,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,0,0,Nashville Nightwatch2015  
+Waldro B,13,442.416666667,236,161,49,17,564,593,447,15,47,5,6.725,0,0,1,37,8,2,0,Nashville Nightwatch2015  
+Ortiz J,12,316.0,126,76,84,10,191,173,172,18,9,0,0,0,0,0,12,5,0,1,Nashville Nightwatch2015  
+Wu V,7,142.45,17,10,88,12,80,93,76,0,1,2,5.9405,0,0,0,8,1,2,0,Nashville Nightwatch2015  
+Chow J,8,184.733333333,103,66,11,6,147,150,124,1,1,0,0,0,0,3,9,2,0,0,Nashville Nightwatch2015  
+Conger T,2,80.2666666667,41,29,6,3,115,113,95,0,3,0,0,0,0,2,2,1,0,1,Nashville Nightwatch2015  
+Cain T,7,131.833333333,27,15,91,14,55,51,51,4,3,0,0,0,0,0,3,0,0,0,Nashville Nightwatch2015  
+Moore J,7,112.666666667,21,7,70,14,72,68,59,3,2,5,7.2014,0,0,1,6,3,1,0,Nashville Nightwatch2015  
+Reed D,11,104.4,10,3,80,16,24,20,21,3,1,0,0,0,0,1,1,0,0,0,Nashville Nightwatch2015  
+Barnha A,14,359.416666667,116,75,130,17,168,165,138,14,17,35,6.46545714286,0,0,0,17,2,3,0,Nashville Nightwatch2015  
+Bates J,13,230.85,25,13,173,33,62,50,51,11,1,0,0,0,0,0,1,1,0,0,Nashville Nightwatch2015  
+Hannon W,10,246.716666667,171,118,5,2,222,215,167,5,8,0,0,0,0,0,14,4,0,0,Nashville Nightwatch2015  
+Strass F,10,186.35,26,14,117,23,45,36,37,8,3,0,0,0,0,0,3,1,0,0,Nashville Nightwatch2015  
+Sansbu B,12,274.75,90,59,120,18,92,74,72,20,6,0,0,0,0,0,7,2,0,0,Nashville Nightwatch2015  
+Wright J,10,278.733333333,128,87,49,13,206,204,179,17,17,6,5.14133333333,0,0,0,27,3,1,0,Nashville Nightwatch2015  
+Terry K,12,429.2,188,132,75,22,588,619,514,5,44,18,5.82833333333,0,0,1,45,20,1,0,Nashville Nightwatch2015  
+Hammon C,12,255.433333333,69,37,148,21,149,154,119,5,8,19,6.11236842105,0,0,0,15,0,1,1,Nashville Nightwatch2015  
+Heath T,13,264.833333333,34,15,161,27,78,76,74,4,4,0,0,0,0,1,10,1,0,0,Nashville Nightwatch2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,848.45,7,1,17,7,0,171,0,0,0,0,0,0,0,0,171,0,0,0,Philadelphia Phoenix2015  
+Mott S,10,336.783333333,159,93,45,12,276,262,250,21,22,4,4.5595,0,0,0,32,4,0,0,Philadelphia Phoenix2015  
+Weinbe C,4,75.0833333333,39,22,21,7,51,47,49,2,2,2,5.79,0,0,0,3,2,0,0,Philadelphia Phoenix2015  
+Hollow J,4,117.883333333,19,10,43,2,17,16,14,1,4,0,0,0,0,0,3,2,0,0,Philadelphia Phoenix2015  
+Peck E,10,793.483333333,171,95,74,24,305,300,288,8,38,13,4.304,0,0,0,49,9,0,0,Philadelphia Phoenix2015  
+Startz C,7,234.733333333,137,56,35,6,174,177,109,5,2,0,0,0,0,0,8,1,0,0,Philadelphia Phoenix2015  
+Lambor E,10,749.7,41,8,149,12,38,37,32,4,0,3,3.96233333333,0,0,0,4,1,0,0,Philadelphia Phoenix2015  
+Willia B,10,670.166666667,134,40,41,7,95,81,77,14,7,5,4.3622,0,0,0,9,1,0,0,Philadelphia Phoenix2015  
+Franke G,1,11.1833333333,3,1,8,0,3,3,3,0,0,0,0,0,0,0,0,0,0,0,Philadelphia Phoenix2015  
+Peezic S,11,300.3,129,39,59,3,37,29,25,10,3,1,0,0,0,0,5,1,0,0,Philadelphia Phoenix2015  
+Allan R,1,6.76666666667,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Philadelphia Phoenix2015  
+Morgan S,9,511.133333333,33,21,67,10,36,33,29,4,3,2,3.696,0,0,0,3,2,0,0,Philadelphia Phoenix2015  
+Allen T,8,270.9,156,60,39,5,179,182,126,6,9,3,0,0,0,0,16,9,0,0,Philadelphia Phoenix2015  
+Bonell A,6,553.383333333,36,16,55,14,39,37,35,3,3,16,5.11125,0,0,0,4,2,0,0,Philadelphia Phoenix2015  
+Patel N,7,613.0,56,28,81,18,115,136,109,3,8,1,0.983,0,0,0,17,1,0,0,Philadelphia Phoenix2015  
+Anonymous,1,0.0,0,0,0,0,14,24,6,1,2,9,0,0,0,0,8,4,0,0,Philadelphia Phoenix2015  
+Forste R,12,378.8,220,109,39,12,279,272,233,18,15,2,6.195,0,0,0,22,1,0,0,Philadelphia Phoenix2015  
+Fortin E,10,251.483333333,54,19,123,19,93,110,86,1,2,24,5.93136363636,0,0,0,9,3,1,0,Philadelphia Phoenix2015  
+Hampso D,12,823.85,197,97,83,12,371,410,335,8,10,0,0,0,0,0,26,8,0,0,Philadelphia Phoenix2015  
+Michel M,13,404.066666667,98,36,168,23,61,48,42,15,13,95,5.31864705882,0,0,0,12,3,18,0,Philadelphia Phoenix2015  
+Kochen C,2,24.1833333333,2,1,12,5,7,6,5,2,1,0,0,0,0,0,0,0,0,0,Philadelphia Phoenix2015  
+Ng S,12,671.5,115,56,100,19,255,264,166,8,10,5,4.48725,0,0,0,19,5,0,0,Philadelphia Phoenix2015  
+Robert A,7,104.533333333,12,5,65,14,20,20,18,2,3,0,0,0,0,0,3,0,0,0,Philadelphia Phoenix2015  
+Esser S,9,648.233333333,35,6,130,20,26,23,23,3,3,0,0,0,0,0,2,0,0,0,Philadelphia Phoenix2015  
+Palumb J,3,39.7666666667,5,1,23,2,2,1,0,2,0,0,0,0,0,0,0,0,0,0,Philadelphia Phoenix2015  
+OConne J,5,37.9833333333,3,1,35,6,11,15,10,0,1,6,4.432,0,0,0,1,1,3,0,Philadelphia Phoenix2015  
+Goldbe A,4,47.3666666667,14,10,34,7,14,12,13,1,3,0,0,0,0,0,3,0,0,0,Philadelphia Phoenix2015  
+Brando,1,26.4833333333,17,11,3,2,44,47,39,0,7,0,0,0,0,0,2,0,0,0,Philadelphia Phoenix2015  
+Rosso S,4,500.516666667,19,10,50,10,30,30,25,5,3,6,0,0,0,0,3,0,0,0,Philadelphia Phoenix2015  
+Nardel E,4,126.816666667,16,9,58,3,18,14,12,4,3,0,0,0,0,0,2,0,0,0,Philadelphia Phoenix2015  
+Harrit C,6,172.95,56,17,59,4,28,30,26,0,2,2,5.2195,0,0,0,4,0,0,0,Philadelphia Phoenix2015  
+Bushek A,13,367.233333333,91,28,153,23,114,135,84,5,11,6,3.09533333333,0,0,0,17,4,0,0,Philadelphia Phoenix2015  
+Seyler J,14,603.733333333,116,38,98,14,52,42,40,11,3,0,0,0,0,0,8,0,0,0,Philadelphia Phoenix2015  
+Wolf K,12,700.916666667,134,52,112,19,146,164,133,5,15,12,3.82975,0,0,0,24,3,0,0,Philadelphia Phoenix2015  
+Lowy A,2,10.1833333333,4,1,9,1,3,5,2,0,1,4,4.51825,0,0,0,1,0,0,0,Philadelphia Phoenix2015  
+Sisto J,12,336.283333333,163,83,86,14,73,48,48,24,6,0,0,0,0,0,8,1,0,0,Philadelphia Phoenix2015  
+Lu E,4,88.4833333333,22,12,33,2,15,18,12,1,0,0,0,0,0,0,2,0,0,0,Philadelphia Phoenix2015  
+Magerr B,12,369.366666667,196,109,36,15,208,172,173,32,16,1,1.565,0,0,0,12,6,0,0,Philadelphia Phoenix2015  
+Eskin Z,9,115.933333333,14,3,72,11,5,1,2,2,0,1,0,0,0,0,0,1,0,0,Philadelphia Phoenix2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+Ojo R.,11,179.966666667,5,4,156,61,61,51,51,10,6,0,0,0,0,0,7,1,0,0,Toronto Rush2015  
+,1,0.116666666667,1,1,0,0,0,247,0,0,0,0,0,0,0,0,247,0,0,0,Toronto Rush2015  
+Meron J,6,102.716666667,4,2,90,45,54,77,46,7,6,43,6.41278571429,0,0,0,6,0,1,0,Toronto Rush2015  
+Watanabe,11,176.883333333,12,8,156,63,50,42,40,9,5,1,5.859,0,0,0,4,1,0,0,Toronto Rush2015  
+Mackenzi,4,89.0166666667,4,2,61,30,28,22,22,6,3,0,0,0,0,0,1,1,0,0,Toronto Rush2015  
+Raina,14,247.966666667,171,134,50,24,299,310,144,6,6,9,5.65866666667,0,0,0,11,2,0,0,Toronto Rush2015  
+Mostaghi,10,132.55,17,12,101,37,58,53,53,5,10,0,0,0,0,0,5,2,0,0,Toronto Rush2015  
+Henry T.,13,277.15,49,32,185,78,85,81,72,13,19,1,0,0,0,0,8,3,0,0,Toronto Rush2015  
+Jones M.,14,275.35,112,85,140,54,229,247,189,8,15,13,6.31666666667,0,0,0,8,2,1,0,Toronto Rush2015  
+Powell G,10,228.533333333,36,28,149,65,106,89,77,27,10,1,4.617,0,0,0,12,1,0,0,Toronto Rush2015  
+Yearwood,14,363.416666667,186,143,97,47,433,442,363,20,41,1,4.772,0,0,0,19,7,0,1,Toronto Rush2015  
+Lloyd M.,1,0.0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0,0,0,Toronto Rush2015  
+Anonymous,1,0.0,0,0,0,0,6,15,5,1,1,4,3.71825,0,0,0,1,0,0,0,Toronto Rush2015  
+Martin J,7,202.55,38,28,125,49,95,69,61,34,16,49,5.92339583333,0,0,0,3,1,3,0,Toronto Rush2015  
+Bradford,14,212.266666667,149,122,68,29,147,135,133,14,7,1,5.871,0,0,0,13,2,0,0,Toronto Rush2015  
+Hau J.,15,258.0,20,16,207,76,95,87,79,15,8,20,6.31029411765,0,0,0,16,0,5,0,Toronto Rush2015  
+Harrison,13,245.75,26,22,202,80,126,159,103,12,16,172,6.82187951807,0,0,0,11,3,14,0,Toronto Rush2015  
+McKnight,16,395.633333333,273,213,44,22,608,645,561,8,39,15,6.30586666667,0,0,0,37,10,0,0,Toronto Rush2015  
+Yue,11,186.9,9,6,144,61,54,48,46,8,4,0,0,0,0,0,1,0,0,0,Toronto Rush2015  
+Kubinec,11,169.766666667,13,10,164,57,66,54,52,14,6,29,6.02203448276,0,0,0,5,1,5,0,Toronto Rush2015  
+Vasilyev,10,287.216666667,47,34,179,65,186,234,169,2,30,13,5.86615384615,0,0,0,13,4,2,0,Toronto Rush2015  
+Kotwa T.,5,96.4333333333,6,2,78,28,17,11,11,6,2,0,0,0,0,0,0,0,0,0,Toronto Rush2015  
+Carroll,16,388.316666667,55,42,255,111,169,159,149,19,19,8,6.12616666667,0,0,0,11,1,0,0,Toronto Rush2015  
+Vlahos A,9,148.083333333,59,46,70,26,70,58,58,12,4,0,0,0,0,0,4,0,0,0,Toronto Rush2015  
+Armitage,12,292.166666667,154,120,66,33,135,85,82,53,7,1,5.87,0,0,0,5,3,0,0,Toronto Rush2015  
+Masek Ke,16,453.666666667,281,221,77,31,437,394,378,55,56,19,6.01338888889,0,0,0,29,10,1,0,Toronto Rush2015  
+Lindquis,14,398.6,183,141,131,52,342,336,311,29,55,9,5.63133333333,0,0,0,15,6,0,0,Toronto Rush2015  
+Harris C,15,437.916666667,242,187,90,42,349,316,296,47,47,28,5.18966666667,0,0,0,24,8,1,0,Toronto Rush2015  
+Hirst N.,10,172.766666667,114,89,36,21,143,141,103,11,9,2,4.2615,0,0,0,5,3,0,0,Toronto Rush2015  
+Watts A.,14,220.85,2,0,204,78,66,95,62,3,7,2,5.065,0,0,0,10,4,1,0,Toronto Rush2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+Yoder J,10,181.533333333,21,11,122,37,83,126,75,2,11,16,4.9185,0,0,0,7,1,0,0,Indianapolis Alley Cats2015  
+,1,0.583333333333,2,2,0,0,0,190,0,0,0,0,0,0,0,0,190,0,0,0,Indianapolis Alley Cats2015  
+Ames M,14,631.8,309,197,42,24,714,760,635,6,36,0,0,0,0,1,25,8,0,0,Indianapolis Alley Cats2015  
+Gross R,14,401.6,81,58,198,57,142,120,118,24,13,1,1.883,0,0,1,7,2,0,0,Indianapolis Alley Cats2015  
+Steine C,6,83.3,5,1,63,22,24,26,22,2,1,2,4.735,0,0,0,2,0,0,0,Indianapolis Alley Cats2015  
+Jarvis R,5,70.2166666667,4,0,57,15,7,7,6,1,0,0,0,0,0,0,1,0,0,0,Indianapolis Alley Cats2015  
+Loscar S,12,225.216666667,24,12,163,54,66,54,50,16,6,3,4.793,0,0,0,6,0,0,0,Indianapolis Alley Cats2015  
+Maynar Z,1,26.75,1,1,16,3,3,3,3,0,0,0,0,0,0,0,1,0,0,0,Indianapolis Alley Cats2015  
+Cecil J,8,106.083333333,2,1,93,25,22,14,14,8,0,0,0,0,0,0,3,1,0,0,Indianapolis Alley Cats2015  
+Johnso E,11,472.05,217,133,29,12,143,113,113,30,15,0,0,0,0,0,10,3,0,0,Indianapolis Alley Cats2015  
+Plew K,14,594.216666667,320,206,25,14,494,454,451,39,64,0,0,0,0,1,26,3,0,0,Indianapolis Alley Cats2015  
+Cox K,11,252.933333333,40,24,146,37,119,154,111,0,13,25,4.97924,0,0,0,19,3,1,0,Indianapolis Alley Cats2015  
+Anonymous,1,0.0,0,0,0,0,1,7,0,0,0,0,0,0,0,0,1,0,0,0,Indianapolis Alley Cats2015  
+Brock C,14,583.883333333,308,201,27,17,345,283,283,60,37,0,0,0,0,0,27,6,0,0,Indianapolis Alley Cats2015  
+Vander B,9,144.066666667,40,26,84,31,114,119,95,3,3,1,4.752,0,0,0,2,1,0,0,Indianapolis Alley Cats2015  
+Jacobs L,14,490.716666667,171,85,108,39,154,130,130,24,28,6,4.48783333333,0,0,0,14,3,1,1,Indianapolis Alley Cats2015  
+Carpen T,9,303.783333333,46,26,159,48,77,74,62,15,9,67,5.53848484848,0,0,1,7,2,3,0,Indianapolis Alley Cats2015  
+Page N,12,333.2,114,78,136,39,144,116,114,30,15,0,0,0,0,0,9,4,0,0,Indianapolis Alley Cats2015  
+Dehnbo M,10,175.933333333,11,3,119,41,27,23,23,4,2,0,0,0,0,0,4,0,0,0,Indianapolis Alley Cats2015  
+Schwar A,13,243.633333333,51,37,144,40,80,75,72,8,5,1,5.117,0,0,0,6,1,0,0,Indianapolis Alley Cats2015  
+Ringwo C,4,46.55,3,0,43,4,3,3,3,0,0,0,0,0,0,0,0,1,0,0,Indianapolis Alley Cats2015  
+Cheek J,5,88.7333333333,2,0,66,17,30,29,25,5,5,13,5.93938461538,0,0,0,1,0,0,0,Indianapolis Alley Cats2015  
+Hights S,4,73.8166666667,38,25,17,5,66,59,55,9,5,0,0,0,0,0,2,0,0,0,Indianapolis Alley Cats2015  
+Hutton N,14,323.516666667,18,8,214,66,77,87,73,4,20,176,5.32755747126,0,0,0,14,1,17,0,Indianapolis Alley Cats2015  
+Young L,9,150.25,9,4,113,37,39,36,30,9,6,5,5.15175,0,0,0,3,0,0,0,Indianapolis Alley Cats2015  
+Toine A,13,530.316666667,270,176,27,16,488,498,414,11,15,0,0,0,0,0,19,1,0,0,Indianapolis Alley Cats2015  
+Carlet P,11,293.316666667,36,20,163,47,86,93,76,9,10,18,4.26888888889,0,0,0,21,4,1,0,Indianapolis Alley Cats2015  
+Rasmus H,6,114.766666667,78,58,10,5,66,52,52,13,7,0,0,0,0,0,3,1,0,0,Indianapolis Alley Cats2015  
+Ventur B,12,445.383333333,234,144,12,8,404,405,249,7,6,0,0,0,0,0,23,1,0,1,Indianapolis Alley Cats2015  
+Naji S,11,175.35,9,3,131,45,61,101,60,1,8,2,3.9845,0,0,0,8,1,0,0,Indianapolis Alley Cats2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,3.75,3,2,9,2,0,193,0,0,0,0,0,0,0,0,193,0,0,0,D C Breeze2015  
+Antoin D,4,63.5333333333,4,1,38,15,24,19,20,4,3,0,0,0,0,0,3,2,0,0,D C Breeze2015  
+Daniel S,14,405.733333333,37,18,242,81,142,221,133,2,24,180,5.51164571429,0,0,0,18,9,21,0,D C Breeze2015  
+Troy H,7,112.983333333,15,9,79,26,47,46,40,7,5,0,0,0,0,0,5,0,0,0,D C Breeze2015  
+Anthon M,7,137.95,77,55,23,7,85,74,76,9,4,1,6.982,0,0,0,9,2,0,0,D C Breeze2015  
+Jon P,12,296.75,141,93,84,25,134,118,115,19,11,6,5.4502,0,0,0,17,3,1,1,D C Breeze2015  
+Zach B,8,114.3,65,35,32,11,107,113,70,2,8,0,0,0,0,0,4,4,0,0,D C Breeze2015  
+Ben F,13,367.383333333,104,58,147,34,224,229,201,10,16,2,4.4185,0,0,1,19,4,0,1,D C Breeze2015  
+Andrew A,11,170.9,15,7,145,37,47,38,32,15,6,0,0,0,0,0,2,3,0,0,D C Breeze2015  
+Seth C,5,107.533333333,34,18,42,13,66,67,61,3,3,5,4.68925,0,0,0,14,0,1,0,D C Breeze2015  
+Jarnai B,12,339.716666667,210,129,14,8,476,504,426,8,26,0,0,0,0,3,37,12,0,2,D C Breeze2015  
+Anonymous,1,0.0,0,0,0,0,11,20,6,1,1,34,2.96028571429,0,0,0,5,1,0,0,D C Breeze2015  
+Leo P,10,224.133333333,61,38,84,32,104,107,77,7,4,0,0,0,0,0,4,0,0,0,D C Breeze2015  
+Kyle K,6,78.5333333333,5,4,44,19,24,22,21,3,5,1,0,0,0,0,2,0,0,0,D C Breeze2015  
+Mike M,14,231.283333333,16,6,159,50,48,46,37,10,6,0,0,0,0,0,4,2,0,0,D C Breeze2015  
+David B,12,354.116666667,184,117,39,13,251,251,176,15,27,2,3.0105,0,0,1,30,2,0,0,D C Breeze2015  
+Matt R,11,246.516666667,15,7,180,53,74,78,66,6,7,7,5.15742857143,0,0,0,7,0,2,0,D C Breeze2015  
+Mark F,14,281.333333333,157,102,12,5,154,130,131,23,19,0,0,0,0,1,12,0,0,0,D C Breeze2015  
+Peter M,9,167.9,95,60,23,9,64,61,60,2,5,0,0,0,0,0,1,2,0,0,D C Breeze2015  
+Glenn P,12,287.6,135,88,91,26,228,222,190,14,27,12,6.3285,0,0,1,17,1,0,1,D C Breeze2015  
+Peter A,3,34.05,19,11,11,4,18,17,16,2,1,0,0,0,0,0,4,0,0,0,D C Breeze2015  
+Franci H,5,110.933333333,46,21,19,7,28,28,25,3,1,0,0,0,0,0,4,0,0,0,D C Breeze2015  
+Clay C,4,67.5666666667,42,23,17,7,35,32,31,4,3,0,0,0,0,0,1,0,0,0,D C Breeze2015  
+Russ H,4,130.1,36,19,19,7,38,35,26,4,1,0,0,0,0,0,3,1,0,0,D C Breeze2015  
+Bryant D,10,161.116666667,9,4,119,36,44,31,29,15,1,1,6.119,0,0,0,5,0,0,0,D C Breeze2015  
+Matt K,11,368.083333333,212,144,22,10,322,292,283,37,33,0,0,0,0,1,14,1,0,3,D C Breeze2015  
+Brad S,11,341.416666667,48,25,165,48,96,97,83,12,10,0,0,0,0,0,18,1,0,0,D C Breeze2015  
+David BK,9,266.783333333,153,101,17,9,154,130,128,25,17,0,0,0,0,0,10,3,0,0,D C Breeze2015  
+Alex J,6,122.383333333,13,8,93,22,38,38,33,5,4,34,5.92325806452,0,0,0,5,0,2,0,D C Breeze2015  
+Jim B,9,182.25,19,8,106,29,38,47,31,2,2,0,0,0,0,0,6,1,1,0,D C Breeze2015  
+Nico L,10,318.5,155,103,49,14,323,316,205,14,13,0,0,0,0,0,10,4,0,2,D C Breeze2015  
+Chip C,12,358.166666667,87,44,130,48,87,69,68,19,9,3,8.09966666667,0,0,3,11,3,2,0,D C Breeze2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,0.0,0,0,0,0,0,194,0,0,0,0,0,0,0,0,194,0,0,0,Atlanta Hustle2015  
+Allan L,8,165.016666667,24,12,99,30,84,101,75,5,5,58,6.89453448276,0,0,0,9,2,2,0,Atlanta Hustle2015  
+Dylan T,11,343.95,209,160,22,12,372,408,299,14,48,3,7.05966666667,0,0,1,31,6,1,1,Atlanta Hustle2015  
+F Wooten,10,138.233333333,45,33,63,16,55,64,41,5,4,22,7.24314285714,0,0,0,4,0,0,0,Atlanta Hustle2015  
+Sun,1,31.4833333333,2,1,16,7,11,11,11,0,2,2,6.9515,0,0,0,2,0,0,0,Atlanta Hustle2015  
+Vickroy,1,33.4833333333,2,1,18,7,10,7,8,2,1,1,5.387,0,0,0,0,0,0,0,Atlanta Hustle2015  
+Sebbi D,6,79.25,5,5,58,21,37,44,32,2,2,2,5.492,0,0,0,3,0,0,0,Atlanta Hustle2015  
+Dylan,1,20.1333333333,15,11,2,1,33,34,24,2,4,0,0,0,0,0,2,0,0,0,Atlanta Hustle2015  
+S Sears,10,210.75,34,19,123,30,48,35,36,12,5,0,0,0,0,0,3,0,0,1,Atlanta Hustle2015  
+B. Liu,3,81.5333333333,22,15,47,14,46,53,41,2,6,0,0,0,0,0,2,0,0,0,Atlanta Hustle2015  
+RSimmons,5,63.8333333333,2,1,52,20,20,14,16,4,3,0,0,0,0,0,2,2,0,0,Atlanta Hustle2015  
+Kyle S,15,451.283333333,280,216,36,22,542,553,381,16,29,4,6.8855,1,0,0,23,3,0,0,Atlanta Hustle2015  
+J Clark,10,312.233333333,169,121,30,14,269,243,241,26,19,13,7.6306,0,0,0,19,4,1,0,Atlanta Hustle2015  
+B Hannah,9,223.366666667,77,49,90,26,142,134,127,15,15,25,6.43496,0,0,1,14,4,3,1,Atlanta Hustle2015  
+Leonard,1,20.05,14,12,1,1,21,20,19,1,3,0,0,0,0,0,0,0,0,0,Atlanta Hustle2015  
+A Olsen,11,193.8,8,4,141,41,66,57,60,6,4,0,0,0,0,1,4,2,0,0,Atlanta Hustle2015  
+Breault,10,208.433333333,42,28,130,49,125,127,115,9,20,15,5.19,0,0,0,9,2,1,0,Atlanta Hustle2015  
+Anonymous,1,0.0,0,0,0,0,3,7,1,0,0,0,0,0,0,0,2,1,0,0,Atlanta Hustle2015  
+TGoforth,8,131.583333333,28,16,77,23,36,38,33,2,5,1,4.802,0,0,0,5,1,0,0,Atlanta Hustle2015  
+RBradham,11,209.833333333,8,5,165,53,62,40,40,22,5,0,0,0,0,0,6,0,0,0,Atlanta Hustle2015  
+R Runner,11,388.216666667,50,32,216,68,195,261,182,11,17,53,6.28878846154,0,0,0,21,1,2,1,Atlanta Hustle2015  
+Matt S,13,362.566666667,240,185,29,16,291,223,225,66,17,1,6.7,0,0,0,3,2,0,1,Atlanta Hustle2015  
+Erickson,1,10.95,10,6,2,1,10,9,9,1,1,0,0,0,0,0,0,0,0,0,Atlanta Hustle2015  
+J Feng,4,55.8666666667,3,1,44,14,37,35,35,2,2,1,7.736,0,0,0,2,1,0,0,Atlanta Hustle2015  
+Tree,1,24.7166666667,1,0,16,7,5,8,4,1,2,0,0,0,0,0,1,0,0,0,Atlanta Hustle2015  
+M. Poole,8,209.216666667,160,129,13,10,218,209,174,11,16,0,0,0,0,0,7,1,0,0,Atlanta Hustle2015  
+Boezi,1,1.78333333333,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2015  
+M Spear,12,329.216666667,42,25,216,61,181,205,169,11,27,133,6.62411111111,0,0,1,31,3,5,0,Atlanta Hustle2015  
+Poole,1,18.6333333333,16,12,1,1,23,20,19,3,2,0,0,0,0,0,0,0,0,0,Atlanta Hustle2015  
+S. Hicks,13,256.5,154,125,56,20,191,184,136,16,16,21,6.40542105263,0,0,1,10,2,3,2,Atlanta Hustle2015  
+A Taylor,1,13.9333333333,13,9,0,0,25,23,24,1,2,0,0,0,0,0,1,1,0,0,Atlanta Hustle2015  
+D Cox,7,105.0,10,7,76,17,28,24,25,3,2,0,0,0,0,0,4,0,0,0,Atlanta Hustle2015  
+Jack K,9,161.483333333,31,19,111,32,70,62,62,8,3,0,0,0,0,0,4,1,0,0,Atlanta Hustle2015  
+Gainer,1,22.35,16,12,4,2,26,22,23,3,2,0,0,0,0,0,0,1,0,0,Atlanta Hustle2015  
+Kelvin W,1,21.5333333333,1,1,16,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2015  
+Archie,13,292.816666667,22,9,196,61,57,47,46,11,12,0,0,0,0,0,3,1,0,0,Atlanta Hustle2015  
+Trenton,1,19.3166666667,14,10,3,2,9,5,5,4,0,0,0,0,0,0,1,0,0,0,Atlanta Hustle2015  
+Berendes,1,17.25,1,1,12,5,4,4,3,1,0,0,0,0,0,0,1,0,0,0,Atlanta Hustle2015  
+T Spinks,11,326.383333333,37,21,207,59,90,82,81,9,7,0,0,0,0,0,8,2,0,0,Atlanta Hustle2015  
+R James,10,128.783333333,11,7,117,39,44,38,37,7,2,0,0,0,0,0,2,0,0,0,Atlanta Hustle2015  
+Runner,1,28.25,2,1,16,6,11,23,11,0,2,12,6.58354545455,0,0,0,1,1,1,0,Atlanta Hustle2015  
+JP Burns,1,30.7666666667,2,1,15,7,11,11,10,1,1,0,0,1,0,0,1,2,0,0,Atlanta Hustle2015  
+B. Moore,11,353.516666667,219,166,30,14,225,200,193,25,21,1,5.722,0,0,0,9,3,0,0,Atlanta Hustle2015  
+Sears,1,15.8166666667,0,0,12,6,3,2,2,1,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2015  
+Sun Choi,4,49.8833333333,5,3,44,13,24,21,19,4,0,0,0,0,0,0,5,0,0,0,Atlanta Hustle2015  
+Bradham,1,13.3,0,0,12,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Atlanta Hustle2015  
+C. Olsen,10,323.2,193,155,27,15,298,266,266,31,30,0,0,0,0,0,18,0,0,1,Atlanta Hustle2015  
+Matt K.,9,198.216666667,71,48,95,26,135,158,111,1,13,8,6.7815,0,0,0,10,2,0,0,Atlanta Hustle2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,9.8,6,4,19,10,0,204,0,0,0,0,0,0,0,0,204,0,0,0,Seattle Cascades2015  
+Kinley T,2,19.3333333333,3,2,12,1,4,6,4,0,1,0,0,0,0,0,1,0,0,0,Seattle Cascades2015  
+Lim,3,86.7333333333,42,31,16,5,83,81,69,5,4,2,5.768,0,0,0,4,1,0,0,Seattle Cascades2015  
+Koss R,16,518.9,141,95,216,59,191,208,155,24,27,162,5.99042361111,0,0,0,30,6,15,2,Seattle Cascades2015  
+Hirnin N,2,2.23333333333,0,0,3,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,Seattle Cascades2015  
+Murray P,11,264.266666667,142,110,43,17,224,209,184,16,25,1,0,0,0,0,10,6,0,0,Seattle Cascades2015  
+Illian R,11,296.15,160,134,76,27,158,128,115,37,24,2,3.824,0,0,0,8,3,0,0,Seattle Cascades2015  
+Chen- D,1,24.6,1,1,14,6,4,3,3,1,0,0,0,0,0,0,0,0,0,0,Seattle Cascades2015  
+Herold W,4,86.7166666667,3,1,66,15,14,13,14,0,2,7,6.05642857143,0,0,0,0,0,0,0,Seattle Cascades2015  
+Zukows G,7,154.6,11,4,101,26,27,24,20,5,3,3,4.36066666667,0,0,0,4,1,0,0,Seattle Cascades2015  
+Caldwell,1,16.25,12,9,0,0,12,12,12,0,2,0,0,0,0,0,2,0,0,0,Seattle Cascades2015  
+Chen W,12,266.516666667,95,80,122,32,122,131,94,5,7,4,5.32975,0,0,0,9,1,0,0,Seattle Cascades2015  
+Russel M,6,174.6,22,8,113,34,37,32,28,9,6,0,0,0,0,0,3,0,0,0,Seattle Cascades2015  
+Rankin Z,7,209.85,111,77,47,20,118,110,93,20,23,18,6.50844444444,0,0,0,20,3,0,0,Seattle Cascades2015  
+Lehman S,4,87.8666666667,46,35,24,5,41,38,35,6,1,0,0,0,0,0,2,0,0,0,Seattle Cascades2015  
+Caldwe M,2,50.8166666667,32,25,6,5,8,9,0,2,6,0,0,0,0,0,3,1,0,0,Seattle Cascades2015  
+Weiss L,2,34.4,4,2,32,5,8,8,7,1,1,4,3.472,0,0,0,2,0,0,0,Seattle Cascades2015  
+Anonymous,1,0.0,0,0,0,0,25,38,17,2,5,13,2.222,0,0,0,2,2,0,0,Seattle Cascades2015  
+Farwel R,5,68.1166666667,6,1,56,15,8,8,6,2,1,0,0,0,0,0,1,0,0,0,Seattle Cascades2015  
+Chen D,2,44.7333333333,4,1,34,18,7,3,0,6,2,0,0,0,0,0,1,0,0,0,Seattle Cascades2015  
+Fox B,1,14.7666666667,0,0,20,6,0,1,0,0,1,2,5.6745,0,0,0,0,0,0,0,Seattle Cascades2015  
+Hart S,8,192.033333333,19,9,142,46,32,25,21,11,4,6,6.00216666667,0,0,0,3,0,0,0,Seattle Cascades2015  
+Simfox B,7,144.566666667,10,5,90,26,18,26,16,2,4,4,5.829,0,0,0,4,1,0,0,Seattle Cascades2015  
+Rehder M,10,381.783333333,183,137,70,30,183,142,138,42,24,18,6.99566666667,0,0,0,13,3,5,1,Seattle Cascades2015  
+Bolton J,7,127.433333333,12,4,97,22,24,29,22,2,6,44,6.33048837209,0,0,1,4,1,3,0,Seattle Cascades2015  
+Cavana M,4,81.1333333333,6,2,39,9,12,15,12,0,1,1,0.951,0,0,0,1,0,0,0,Seattle Cascades2015  
+Benalo S,3,66.9333333333,37,24,11,2,27,27,14,2,1,0,0,0,0,0,6,1,0,1,Seattle Cascades2015  
+Simon A,9,257.583333333,116,84,78,27,139,132,92,14,15,20,6.5778,0,0,1,8,4,0,0,Seattle Cascades2015  
+Stacey J,5,81.5166666667,12,8,52,18,17,14,13,4,9,0,0,0,0,0,0,2,0,0,Seattle Cascades2015  
+Karlin D,10,332.9,203,155,52,21,378,400,316,7,23,2,4.1,0,0,1,18,3,0,0,Seattle Cascades2015  
+Clark D,12,372.133333333,107,80,163,46,112,75,63,45,15,4,4.84925,0,0,0,10,2,1,1,Seattle Cascades2015  
+Hausma J,13,320.783333333,115,77,115,33,125,115,96,18,23,43,6.66751282051,0,0,0,19,6,5,0,Seattle Cascades2015  
+Lenon A,8,229.05,116,78,31,17,175,177,122,8,19,3,6.729,0,0,1,12,4,0,1,Seattle Cascades2015  
+Barich F,6,122.583333333,49,34,46,10,58,54,46,4,5,1,5.25,0,0,0,6,1,0,0,Seattle Cascades2015  
+Cook S,10,172.933333333,13,5,132,36,25,23,17,8,3,0,0,0,0,0,2,0,0,0,Seattle Cascades2015  
+Smith Z,8,160.316666667,14,5,122,35,39,42,35,4,7,1,3.466,0,0,0,5,0,0,0,Seattle Cascades2015  
+Cavan M,2,59.4833333333,11,6,32,11,23,23,21,2,6,1,0,0,0,0,3,0,0,0,Seattle Cascades2015  
+Wallis S,6,121.5,79,54,36,7,53,54,35,5,15,6,6.8345,0,0,0,10,1,0,0,Seattle Cascades2015  
+O'Brie M,10,332.316666667,177,130,29,15,337,351,279,8,16,0,0,0,0,3,16,8,0,0,Seattle Cascades2015  
+Lim J,2,55.1166666667,35,28,13,5,42,39,28,4,6,1,7.817,0,0,0,4,0,0,0,Seattle Cascades2015  
+Titcom X,1,17.9833333333,0,0,7,3,5,4,4,1,0,0,0,0,0,0,0,0,0,0,Seattle Cascades2015  
+Titcom V,3,45.3666666667,22,13,19,7,11,12,10,1,1,2,7.224,0,0,0,2,0,0,0,Seattle Cascades2015  
+Sefton J,12,300.116666667,165,131,69,22,233,204,193,27,18,0,0,0,0,1,11,5,0,2,Seattle Cascades2015  
+Harkne S,12,255.333333333,41,27,146,38,100,95,85,13,9,0,0,0,0,1,4,2,0,0,Seattle Cascades2015  
+Rosatt T,7,151.016666667,86,73,59,17,107,95,77,14,11,0,0,0,0,1,3,0,0,0,Seattle Cascades2015  
+Linn D,15,391.816666667,58,31,249,72,113,140,96,8,13,10,5.7071,0,0,0,7,1,2,0,Seattle Cascades2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,10.9166666667,7,1,1,0,0,160,0,0,0,0,0,0,0,0,160,0,0,0,Detroit Mechanix2015  
+Besser,10,403.483333333,237,96,15,7,389,399,337,6,23,0,0,0,0,0,17,7,0,0,Detroit Mechanix2015  
+Hubbard,14,445.783333333,169,57,204,21,210,165,160,46,7,2,5.3535,0,0,0,4,5,0,0,Detroit Mechanix2015  
+Gerald,5,50.9333333333,24,6,25,0,13,11,9,1,1,1,0,0,0,0,2,1,0,0,Detroit Mechanix2015  
+Takashi,14,220.4,100,38,78,11,140,139,117,3,5,1,4.34,0,0,0,20,2,0,0,Detroit Mechanix2015  
+Kirk,5,100.966666667,32,4,27,0,9,9,8,0,0,0,0,0,0,0,1,0,0,0,Detroit Mechanix2015  
+Bush,11,338.416666667,217,86,12,5,162,156,144,4,3,0,0,0,0,0,12,1,0,0,Detroit Mechanix2015  
+Souichi,9,85.6833333333,33,9,42,0,15,14,12,1,0,0,0,0,0,0,2,0,0,0,Detroit Mechanix2015  
+Del Real,9,345.666666667,214,104,22,8,143,119,116,26,12,0,0,0,0,0,14,0,0,0,Detroit Mechanix2015  
+Murphy,6,129.366666667,44,21,46,9,68,72,55,4,3,9,5.78433333333,0,0,0,6,1,1,0,Detroit Mechanix2015  
+Krantz,11,294.2,88,27,150,16,160,189,132,4,7,136,6.03295238095,0,0,0,20,8,2,0,Detroit Mechanix2015  
+Gilson,9,243.566666667,112,45,60,10,77,72,66,5,7,4,4.6955,0,0,0,12,2,0,0,Detroit Mechanix2015  
+Jager,10,317.483333333,199,94,8,4,250,263,182,5,8,1,0,0,0,0,11,4,0,0,Detroit Mechanix2015  
+Chris,8,131.45,53,10,69,3,68,70,57,0,2,0,0,0,0,0,13,2,0,0,Detroit Mechanix2015  
+Soldini,9,193.883333333,101,34,47,8,47,34,30,10,1,0,0,0,0,0,9,4,0,0,Detroit Mechanix2015  
+Danny,13,278.7,110,32,161,13,137,138,127,6,7,13,3.0195,0,0,0,22,2,0,0,Detroit Mechanix2015  
+Alex,13,188.383333333,69,19,91,5,68,70,53,2,5,24,4.56714285714,0,0,0,14,2,0,0,Detroit Mechanix2015  
+Perdulla,7,64.6166666667,17,4,56,3,35,36,31,1,2,0,0,0,0,0,4,0,0,0,Detroit Mechanix2015  
+Wasdi,14,503.216666667,239,107,94,16,382,395,340,2,16,3,5.318,0,0,0,41,8,0,0,Detroit Mechanix2015  
+Anonymous,1,0.0,0,0,0,0,11,21,7,1,2,10,2.083,0,0,0,9,0,0,0,Detroit Mechanix2015  
+Luca,12,436.916666667,249,122,14,6,469,469,363,2,22,0,0,0,0,0,28,8,0,0,Detroit Mechanix2015  
+Sandberg,10,209.15,117,53,50,5,120,121,98,1,3,0,0,0,0,0,5,2,0,0,Detroit Mechanix2015  
+Coulter,7,287.266666667,146,83,31,6,224,198,184,37,27,5,7.8442,0,0,0,25,3,0,0,Detroit Mechanix2015  
+Channing,11,369.683333333,177,77,80,17,225,200,195,22,13,22,5.94038888889,0,0,0,19,6,1,0,Detroit Mechanix2015  
+Scott,12,506.466666667,306,150,48,11,512,528,448,29,48,4,6.6905,0,0,0,79,6,0,0,Detroit Mechanix2015  
+Todd,8,237.7,118,65,27,7,97,88,86,9,3,0,0,0,0,0,8,1,0,0,Detroit Mechanix2015  
+Saltsman,13,229.4,74,16,157,13,43,37,39,3,1,2,7.811,0,0,0,7,3,0,0,Detroit Mechanix2015  
+Dafeng,12,338.383333333,87,19,149,20,104,119,89,4,6,11,5.31054545455,0,0,0,12,3,0,0,Detroit Mechanix2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,8.2,1,1,7,0,0,223,0,0,0,0,0,0,0,0,223,0,0,0,San Francisco Flame Throwers2015  
+Lang B,15,344.7,101,64,159,47,187,161,155,30,23,100,6.20215151515,0,0,0,14,2,7,0,San Francisco Flame Throwers2015  
+Chialv F,14,378.566666667,174,113,127,49,447,465,354,13,25,38,6.02035135135,0,0,0,35,3,5,1,San Francisco Flame Throwers2015  
+Slovan N,11,170.016666667,108,72,30,10,155,151,145,8,7,0,0,0,0,1,11,1,0,0,San Francisco Flame Throwers2015  
+Hubbar B,12,223.483333333,57,34,103,28,103,98,96,6,6,6,5.11,0,0,0,13,1,0,1,San Francisco Flame Throwers2015  
+Nord A,8,157.916666667,88,61,23,12,107,91,93,11,14,0,0,0,0,2,12,3,0,1,San Francisco Flame Throwers2015  
+Surman A,9,141.8,79,54,43,15,99,94,75,8,5,0,0,0,0,0,0,2,0,0,San Francisco Flame Throwers2015  
+Marlia G,15,258.116666667,114,80,102,41,168,135,134,34,20,16,5.5536,0,0,1,9,0,3,1,San Francisco Flame Throwers2015  
+Raty A,2,2.96666666667,1,1,2,1,2,2,2,0,0,0,0,0,0,0,0,1,0,0,San Francisco Flame Throwers2015  
+Chatte S,8,129.95,68,41,39,15,101,90,90,11,7,1,0.948,0,0,1,6,2,0,0,San Francisco Flame Throwers2015  
+Jeffer J,10,264.766666667,72,53,139,44,166,199,152,10,24,74,5.48768918919,0,0,0,17,0,1,0,San Francisco Flame Throwers2015  
+Kawaok R,1,18.45,7,6,10,7,19,19,14,0,1,0,0,0,0,0,0,0,0,0,San Francisco Flame Throwers2015  
+Miller C,15,378.066666667,94,58,204,62,254,264,216,6,15,1,3.466,0,0,1,6,4,0,0,San Francisco Flame Throwers2015  
+Dallma L,12,241.65,72,53,127,40,198,172,166,29,13,18,3.61022222222,0,0,0,20,5,0,0,San Francisco Flame Throwers2015  
+Anonymous,1,0.0,0,0,0,0,20,28,20,0,0,6,2.62425,0,0,0,3,2,0,0,San Francisco Flame Throwers2015  
+Greenb J,2,25.7166666667,3,2,17,7,6,5,5,1,0,0,0,0,0,0,0,0,0,0,San Francisco Flame Throwers2015  
+Purdy Z,1,14.95,2,0,13,3,6,5,6,0,0,0,0,0,0,1,0,0,0,0,San Francisco Flame Throwers2015  
+Fein B,11,190.65,61,40,99,23,80,68,67,13,4,6,5.213,0,0,0,9,1,0,0,San Francisco Flame Throwers2015  
+Boucher,3,61.9333333333,32,24,18,9,40,34,28,11,2,4,7.09125,0,0,0,4,0,0,0,San Francisco Flame Throwers2015  
+Richar A,10,293.233333333,63,39,116,33,114,98,101,13,10,28,6.29125,0,0,0,11,4,1,0,San Francisco Flame Throwers2015  
+Madden B,14,276.9,119,76,99,31,120,104,101,18,8,6,6.17633333333,0,0,0,9,1,0,0,San Francisco Flame Throwers2015  
+Gormle R,7,135.833333333,35,23,49,14,59,44,35,13,1,1,4.1,0,0,0,0,2,0,0,San Francisco Flame Throwers2015  
+Sugiok K,9,187.116666667,36,26,98,27,39,36,36,3,5,0,0,0,0,0,4,1,0,0,San Francisco Flame Throwers2015  
+Naruo D,11,162.05,73,47,48,19,78,73,70,7,15,1,1.199,0,0,0,2,0,0,0,San Francisco Flame Throwers2015  
+Yun J,9,165.816666667,36,22,75,20,61,50,52,9,2,0,0,0,0,0,9,2,0,0,San Francisco Flame Throwers2015  
+Lahey T,14,441.6,109,68,193,57,369,434,341,7,20,2,4.686,0,0,1,27,6,0,0,San Francisco Flame Throwers2015  
+Young L,7,184.716666667,88,60,63,27,178,185,148,6,5,0,0,0,0,0,10,2,0,0,San Francisco Flame Throwers2015  
+Kerns E,11,331.916666667,127,85,100,40,262,273,221,17,32,25,5.72284,0,0,2,22,1,1,0,San Francisco Flame Throwers2015  
+Lahey P,9,140.4,49,32,63,19,68,48,45,20,2,0,0,0,0,0,6,0,0,0,San Francisco Flame Throwers2015  
+Janin E,12,296.433333333,167,117,27,19,383,441,325,0,35,1,5.316,0,0,0,23,6,0,0,San Francisco Flame Throwers2015  
+Bouche E,4,97.9666666667,48,33,23,13,100,87,83,12,9,4,6.6625,0,0,0,3,1,0,0,San Francisco Flame Throwers2015  
+Konker H,10,267.033333333,60,33,117,33,111,96,98,13,12,2,3.358,0,0,2,13,2,0,0,San Francisco Flame Throwers2015  
+Ikeda C,12,317.216666667,70,41,153,39,231,236,196,4,5,0,0,0,0,1,6,3,0,0,San Francisco Flame Throwers2015  
+Swink S,7,142.0,75,53,41,22,156,158,131,3,9,0,0,0,0,2,3,1,0,0,San Francisco Flame Throwers2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,0.0,0,0,0,0,0,146,0,0,0,0,0,0,0,0,146,0,0,0,Vancouver Riptide2015  
+Lore K,13,308.516666667,192,127,58,19,222,226,147,9,8,0,0,0,0,0,13,1,0,0,Vancouver Riptide2015  
+Sun R,5,60.5,31,23,29,7,12,11,11,1,1,0,0,0,0,0,2,0,0,0,Vancouver Riptide2015  
+Leduc M,13,286.8,77,42,164,34,93,75,73,19,8,6,3.81016666667,0,0,0,6,1,0,0,Vancouver Riptide2015  
+Anders B,12,144.533333333,27,14,117,12,48,51,44,4,5,5,4.0186,0,0,0,8,0,1,0,Vancouver Riptide2015  
+Yu P,3,54.8,16,10,40,5,47,44,40,1,2,0,0,0,0,0,4,3,0,0,Vancouver Riptide2015  
+Lee R,12,246.216666667,57,33,148,26,125,139,109,5,7,21,5.39405,0,0,1,13,1,1,0,Vancouver Riptide2015  
+Baker B,9,142.966666667,10,4,106,12,26,20,21,5,0,0,0,0,0,0,2,1,0,0,Vancouver Riptide2015  
+Guo E,7,230.45,158,110,19,12,133,108,108,25,12,0,0,0,0,0,7,0,0,0,Vancouver Riptide2015  
+Norris J,11,279.2,218,143,18,12,379,384,313,6,34,1,7.439,0,0,1,21,5,0,1,Vancouver Riptide2015  
+Tan J,10,112.25,12,2,80,16,33,31,31,2,1,0,0,0,0,0,2,0,0,0,Vancouver Riptide2015  
+Bryson M,9,209.716666667,35,14,142,22,80,86,67,6,7,0,0,0,0,0,6,1,0,0,Vancouver Riptide2015  
+Anonymous,1,0.0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,1,1,0,0,Vancouver Riptide2015  
+Tam R,7,131.916666667,9,3,109,14,39,40,35,4,0,0,0,0,0,0,2,0,0,0,Vancouver Riptide2015  
+Dozzi M,10,139.75,19,9,116,14,27,28,25,2,3,13,3.68923076923,0,0,0,4,1,0,0,Vancouver Riptide2015  
+Wu D,12,393.866666667,233,160,56,24,158,124,123,35,9,0,0,0,0,1,16,2,0,0,Vancouver Riptide2015  
+Chatha G,10,387.066666667,243,164,65,27,258,212,210,48,30,3,4.85066666667,0,0,1,15,3,0,0,Vancouver Riptide2015  
+Hunter M,11,164.466666667,18,8,120,16,42,39,37,5,3,48,4.39895833333,0,0,0,3,3,2,0,Vancouver Riptide2015  
+Yip C,8,132.833333333,29,17,73,16,36,30,31,5,1,0,0,0,0,0,6,0,0,0,Vancouver Riptide2015  
+Fenton D,12,308.066666667,144,94,118,25,123,91,91,31,20,7,4.01216666667,0,0,0,9,2,0,0,Vancouver Riptide2015  
+Davis A,13,298.466666667,27,6,228,31,51,50,47,4,4,3,2.51066666667,0,0,1,3,0,0,0,Vancouver Riptide2015  
+Lam F,6,136.8,12,2,105,16,19,16,16,3,1,13,3.575,0,0,0,1,0,0,1,Vancouver Riptide2015  
+McFady C,8,174.7,66,42,76,15,71,63,62,9,8,3,6.432,0,0,0,3,1,0,0,Vancouver Riptide2015  
+Underh K,13,464.283333333,286,196,68,29,625,634,517,29,49,15,5.30306666667,0,0,4,27,12,0,2,Vancouver Riptide2015  
+Gailit A,12,393.566666667,256,178,45,22,308,282,277,29,23,0,0,0,0,2,14,1,0,1,Vancouver Riptide2015  
+Tejpar R,9,257.233333333,132,93,76,21,200,202,183,8,16,30,5.9304,0,0,0,20,3,0,1,Vancouver Riptide2015  
+Sincla M,14,321.616666667,87,52,178,32,214,247,188,11,20,155,4.67321710526,0,0,0,16,7,2,0,Vancouver Riptide2015  
+Tsang T,9,217.783333333,80,53,97,20,174,171,155,14,9,32,3.768,0,0,0,13,1,0,0,Vancouver Riptide2015  
+Bellav J,14,466.95,277,200,69,33,608,598,453,19,58,0,0,0,0,1,26,9,0,2,Vancouver Riptide2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,0.0,0,0,0,0,0,237,0,0,0,0,0,0,0,0,237,0,0,0,New York Empire2015  
+Flint J,1,9.41666666667,0,0,10,5,4,5,4,0,0,0,0,0,0,0,1,0,0,0,New York Empire2015  
+Ludwig K,7,130.8,64,44,13,7,57,53,51,6,7,0,0,0,0,0,5,0,0,0,New York Empire2015  
+Awerbu B,11,172.183333333,86,62,51,23,192,201,138,5,5,1,7.14,0,0,0,13,0,0,0,New York Empire2015  
+Aulett M,14,338.55,216,148,25,11,453,444,384,23,30,1,4.962,0,0,2,28,6,0,0,New York Empire2015  
+Weiner M,10,120.166666667,57,36,14,4,41,39,38,3,2,0,0,0,0,0,1,0,0,0,New York Empire2015  
+Ward R,16,375.1,19,11,224,98,101,83,71,30,8,0,0,0,0,0,9,1,0,0,New York Empire2015  
+Steven M,14,334.966666667,207,132,12,7,145,107,106,38,6,0,0,0,0,0,7,4,0,0,New York Empire2015  
+Farrel T,11,197.083333333,5,4,154,60,59,48,47,12,6,4,6.74275,0,0,0,4,0,0,0,New York Empire2015  
+McLaug B,8,116.683333333,9,8,77,30,42,58,42,0,3,21,6.10752380952,0,0,1,7,0,1,0,New York Empire2015  
+Ye R,6,86.1166666667,33,22,33,13,77,83,65,0,2,1,7.969,0,0,0,5,0,0,0,New York Empire2015  
+Wining L,6,155.05,91,56,8,3,158,168,123,2,14,0,0,0,0,1,12,2,0,0,New York Empire2015  
+Guerin I,13,185.666666667,4,2,118,54,39,36,31,8,5,0,0,0,0,0,4,0,0,0,New York Empire2015  
+Baum M,10,181.166666667,21,14,86,37,82,114,75,2,8,25,6.81492,0,0,0,20,1,6,0,New York Empire2015  
+LeMar M,16,310.883333333,6,4,234,94,164,189,152,12,24,16,6.3068125,0,0,0,20,1,1,0,New York Empire2015  
+Skware K,9,104.6,89,60,6,2,154,153,114,3,8,2,6.8,0,0,2,13,1,0,2,New York Empire2015  
+Wilkes A,11,205.7,118,79,31,10,113,97,99,14,5,0,0,0,0,0,4,1,0,0,New York Empire2015  
+Ouelle J,9,130.283333333,1,1,91,36,32,30,29,3,5,0,0,0,0,0,2,0,0,0,New York Empire2015  
+Brooks T,13,260.016666667,212,145,12,4,277,260,251,24,44,6,7.14783333333,0,0,2,26,0,1,0,New York Empire2015  
+Bryant I,13,335.1,33,21,189,82,209,294,189,5,34,10,5.3846,0,0,1,17,5,2,0,New York Empire2015  
+Bemis E,12,155.416666667,94,61,26,11,71,56,57,14,3,0,0,0,0,0,5,0,0,0,New York Empire2015  
+Snyder M,3,31.4166666667,0,0,31,13,20,26,18,2,4,0,0,0,0,1,0,0,0,0,New York Empire2015  
+Ivers B,14,408.75,19,13,233,92,95,70,70,25,3,0,0,0,0,0,1,0,0,0,New York Empire2015  
+Drost R,15,418.883333333,62,43,255,105,183,172,157,26,20,0,0,0,0,0,18,0,0,0,New York Empire2015  
+Dixon G,13,277.433333333,82,56,116,47,374,403,325,6,22,0,0,0,0,4,25,2,0,0,New York Empire2015  
+Babbin J,6,75.6833333333,2,1,56,23,33,34,30,2,3,26,6.23446153846,0,0,0,5,0,1,0,New York Empire2015  
+Katz B,12,327.316666667,187,120,38,11,374,399,300,12,32,1,6.404,0,0,0,43,1,0,0,New York Empire2015  
+Marsh J,6,132.766666667,117,76,3,1,131,112,111,20,15,0,0,0,0,0,17,1,0,0,New York Empire2015  
+Taylor S,15,410.416666667,20,13,261,100,142,137,128,13,9,229,6.65560526316,0,0,0,9,3,20,0,New York Empire2015  
+Yz I,10,169.6,126,82,8,2,121,110,103,18,12,5,6.39,0,0,0,12,0,0,0,New York Empire2015  
+Drost M,13,374.133333333,22,16,245,93,169,158,145,24,13,0,0,0,0,1,13,1,0,0,New York Empire2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,9.71666666667,0,0,2,2,0,192,0,0,0,0,0,0,0,0,192,0,0,0,Rochester Dragons2015  
+Chris B,4,71.2,11,5,49,7,33,53,30,0,0,0,0,0,0,0,5,0,0,0,Rochester Dragons2015  
+Jon B,12,316.416666667,72,34,148,36,128,124,97,9,6,2,1.7155,0,0,0,9,3,0,0,Rochester Dragons2015  
+Micky R,12,472.966666667,239,128,66,21,426,397,385,27,28,0,0,0,0,0,30,7,0,0,Rochester Dragons2015  
+Rich L,8,123.216666667,22,6,89,14,35,28,30,5,0,0,0,0,0,0,1,4,0,0,Rochester Dragons2015  
+Tim K,14,346.616666667,87,39,179,37,98,76,72,26,11,81,5.52055555556,0,0,0,7,4,7,0,Rochester Dragons2015  
+Chris L,11,143.6,16,5,110,19,30,24,25,5,3,0,0,0,0,0,1,0,0,0,Rochester Dragons2015  
+Anthon M,6,70.8166666667,11,4,62,7,15,12,12,3,0,0,0,0,0,0,1,0,0,0,Rochester Dragons2015  
+TJ Burns,2,45.5333333333,9,4,26,8,11,10,8,3,1,0,0,0,0,0,1,0,0,0,Rochester Dragons2015  
+Brian K,10,320.166666667,184,102,22,12,504,507,405,3,10,0,0,0,0,0,20,14,0,0,Rochester Dragons2015  
+Kevin Q,11,379.95,232,129,39,15,338,345,316,14,49,1,2.949,0,0,2,46,13,0,0,Rochester Dragons2015  
+CharlieR,1,7.73333333333,8,6,4,0,3,3,3,0,1,0,0,0,0,0,0,0,0,0,Rochester Dragons2015  
+RalieghV,1,7.48333333333,0,0,7,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,Rochester Dragons2015  
+Anonymous,1,0.0,0,0,0,0,11,29,10,0,0,0,0,0,0,0,1,0,0,0,Rochester Dragons2015  
+Doug U,11,347.066666667,190,108,42,15,222,189,192,29,21,2,7.016,0,0,0,16,6,0,0,Rochester Dragons2015  
+Kyle M,12,143.233333333,10,1,119,25,43,36,38,5,2,3,3.58833333333,0,0,0,5,1,0,0,Rochester Dragons2015  
+Eric Y,10,77.1166666667,28,14,45,6,26,25,20,1,3,0,0,0,0,0,3,0,0,0,Rochester Dragons2015  
+Dave A,3,91.1833333333,12,8,51,13,65,92,56,3,9,51,5.9741,0,0,0,10,1,4,0,Rochester Dragons2015  
+Wilson G,8,183.25,134,71,15,2,239,239,155,3,10,0,0,0,0,0,19,5,0,0,Rochester Dragons2015  
+Thom W,11,132.9,42,16,79,7,45,43,43,2,0,0,0,0,0,0,1,1,0,0,Rochester Dragons2015  
+Pat S,7,133.016666667,55,22,66,7,90,96,69,2,2,0,0,0,0,0,5,8,0,0,Rochester Dragons2015  
+Brand K,6,38.0666666667,8,4,42,3,15,14,12,1,0,0,0,0,0,0,0,0,0,0,Rochester Dragons2015  
+Max R,10,390.016666667,192,108,69,14,528,570,480,1,28,47,5.39065957447,0,0,0,55,12,0,0,Rochester Dragons2015  
+Matt C,12,363.183333333,216,127,24,11,237,193,191,44,12,0,0,0,0,0,11,1,0,0,Rochester Dragons2015  
+Max K,8,140.0,106,51,15,2,76,67,66,10,4,0,0,0,0,0,4,0,0,0,Rochester Dragons2015  
+Connor F,11,399.466666667,237,128,23,8,258,232,231,21,19,1,6.003,0,0,0,20,3,0,0,Rochester Dragons2015  
+Dan M,11,323.75,177,100,35,7,327,336,265,5,8,0,0,0,0,0,18,2,0,0,Rochester Dragons2015  
+Carter M,13,364.316666667,146,73,125,27,152,147,139,13,14,1,4.866,0,0,0,18,4,0,0,Rochester Dragons2015  
+Craig M,7,139.55,34,16,73,14,82,90,72,2,1,0,0,0,0,0,8,2,0,0,Rochester Dragons2015  
+Sam C,14,258.816666667,47,21,174,29,122,146,109,4,8,54,6.16622222222,0,0,0,20,5,5,0,Rochester Dragons2015  
+Bret C,7,101.566666667,13,7,63,16,23,18,20,3,1,0,0,0,0,0,0,2,0,0,Rochester Dragons2015  
+Justin I,7,187.05,52,28,69,14,76,76,63,11,4,17,5.44858823529,0,0,0,16,3,0,0,Rochester Dragons2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,17.15,4,3,6,0,0,224,0,0,0,0,0,0,0,0,224,0,0,0,Raleigh Flyers2015  
+Snoke D,12,522.416666667,264,196,44,33,464,457,327,26,29,0,0,1,0,2,12,10,0,1,Raleigh Flyers2015  
+McGoog J,8,164.283333333,61,47,55,24,98,101,71,6,7,1,4.5,0,0,0,3,2,0,0,Raleigh Flyers2015  
+Jessi J,1,12.1166666667,0,0,13,5,1,2,1,0,0,0,0,0,0,0,0,0,0,0,Raleigh Flyers2015  
+Chandl D,12,340.333333333,83,61,118,38,128,109,110,16,7,0,0,0,0,0,5,0,0,0,Raleigh Flyers2015  
+Zhou M,14,219.75,0,0,217,60,71,74,63,8,13,70,4.25439583333,0,0,0,6,3,3,0,Raleigh Flyers2015  
+Tarasi D,12,465.183333333,232,165,48,32,348,363,265,19,34,0,0,0,0,0,18,6,0,1,Raleigh Flyers2015  
+Weeks P,1,25.0666666667,8,4,9,4,14,12,8,2,1,0,0,0,0,0,0,0,0,0,Raleigh Flyers2015  
+Nether J,7,319.583333333,143,106,41,16,265,306,213,6,26,14,5.87092857143,0,0,1,22,6,0,0,Raleigh Flyers2015  
+Goode R,8,165.066666667,67,47,54,25,59,50,50,9,3,1,0,0,0,0,7,0,0,0,Raleigh Flyers2015  
+Hartzo J,5,79.95,0,0,79,26,19,16,14,5,3,0,0,0,0,0,3,0,0,0,Raleigh Flyers2015  
+Cooper S,3,71.4333333333,2,2,39,17,11,16,11,0,2,0,0,0,0,0,1,1,0,0,Raleigh Flyers2015  
+Green T,9,215.016666667,26,20,166,47,123,178,114,2,16,26,6.54808,0,0,0,17,1,2,0,Raleigh Flyers2015  
+Willia J,3,170.1,43,29,24,9,45,38,37,8,7,0,0,0,0,0,2,1,0,0,Raleigh Flyers2015  
+Snell B,1,23.9333333333,10,8,17,5,18,16,15,3,1,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
+Mitche T,16,700.533333333,294,209,89,48,298,276,269,26,21,2,5.6525,0,0,1,25,4,0,1,Raleigh Flyers2015  
+Allen J,15,433.9,281,217,72,35,343,298,280,62,60,20,6.10636842105,0,0,0,35,13,0,0,Raleigh Flyers2015  
+Colicc C,4,50.3,0,0,35,13,15,10,11,4,0,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
+Anonymous,1,0.0,0,0,0,0,3,8,1,1,0,1,2.201,0,0,0,2,0,0,0,Raleigh Flyers2015  
+Bowen J,15,627.466666667,302,220,53,36,289,231,222,62,49,0,0,0,0,0,27,2,0,0,Raleigh Flyers2015  
+Ryan A,5,76.8666666667,0,0,68,26,18,13,14,4,1,5,5.70533333333,0,0,0,2,0,1,0,Raleigh Flyers2015  
+Neve M,14,278.483333333,149,110,65,21,174,149,146,25,12,0,0,0,0,0,6,1,0,0,Raleigh Flyers2015  
+Pope T,8,102.5,0,0,119,24,30,28,22,8,4,101,5.02136666667,0,0,2,6,3,5,0,Raleigh Flyers2015  
+Richar D,15,247.1,2,1,193,45,21,12,14,7,1,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
+Stumpf M,3,52.6666666667,0,0,33,11,7,5,5,2,0,0,0,0,0,0,0,0,0,0,Raleigh Flyers2015  
+Moore M,13,217.183333333,6,3,197,57,52,43,42,10,6,1,7.167,0,0,0,5,0,0,0,Raleigh Flyers2015  
+Cretel J,12,280.466666667,53,38,207,50,131,129,122,9,18,2,7.5255,0,0,0,18,5,0,1,Raleigh Flyers2015  
+Matthe R,11,281.3,5,2,192,52,48,45,40,8,3,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
+Saul N,7,301.533333333,95,63,99,32,224,255,192,8,16,33,6.72590625,0,0,0,13,4,1,1,Raleigh Flyers2015  
+Clark B,3,60.0833333333,4,3,44,16,11,11,10,1,3,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
+Poulos S,2,28.8666666667,12,8,15,5,22,27,16,1,2,13,6.03790909091,0,0,0,5,0,0,0,Raleigh Flyers2015  
+Hastin J,5,82.3166666667,1,0,66,20,34,32,29,5,1,0,0,0,0,0,4,0,0,0,Raleigh Flyers2015  
+Dieter B,6,230.166666667,123,91,19,15,105,94,93,10,11,0,0,0,0,0,2,1,0,0,Raleigh Flyers2015  
+Maxsta X,8,175.5,12,8,114,21,60,73,54,2,1,68,6.61867647059,0,0,0,10,6,4,0,Raleigh Flyers2015  
+Bender S,12,227.666666667,5,2,196,57,91,103,84,7,16,67,6.06586153846,0,0,0,10,0,6,2,Raleigh Flyers2015  
+Taylor H,2,33.6,1,0,27,5,11,11,9,2,1,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
+Casey B,12,497.25,253,181,39,25,423,418,315,17,38,0,0,0,0,0,20,7,0,0,Raleigh Flyers2015  
+Lin M,8,165.233333333,82,60,25,8,93,74,77,16,9,1,5.536,0,0,0,3,3,0,0,Raleigh Flyers2015  
+Colema J,13,350.45,9,3,210,63,53,36,36,17,1,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
+McAlis T,2,76.8,7,4,36,10,7,6,6,1,0,0,0,0,0,0,1,0,0,0,Raleigh Flyers2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,0.0,0,0,0,0,0,236,0,0,0,0,0,0,0,0,236,0,0,0,Pittsburgh Thunderbirds2015  
+Dulabo R,10,409.083333333,28,19,183,67,66,60,52,14,5,14,5.34945454545,0,0,0,9,0,1,0,Pittsburgh Thunderbirds2015  
+Beards E,15,462.566666667,290,233,101,42,189,118,116,72,8,0,0,0,0,0,2,2,0,0,Pittsburgh Thunderbirds2015  
+RaniiD M,7,273.966666667,92,67,116,47,219,229,203,9,37,25,5.41225,0,0,0,8,5,2,1,Pittsburgh Thunderbirds2015  
+Pitts C,7,217.966666667,99,75,108,39,83,67,59,19,7,1,7.892,0,0,0,3,0,0,0,Pittsburgh Thunderbirds2015  
+Sheppa M,10,216.683333333,35,23,173,69,85,76,62,16,18,102,5.97667,0,0,0,6,1,2,0,Pittsburgh Thunderbirds2015  
+Pannon M,13,452.216666667,28,17,229,76,75,66,62,13,6,0,0,0,0,0,3,1,0,0,Pittsburgh Thunderbirds2015  
+Hritz M,3,70.6666666667,3,3,30,11,15,15,13,1,1,0,0,0,0,0,0,0,0,0,Pittsburgh Thunderbirds2015  
+Wissel T,9,331.683333333,19,14,152,57,135,168,123,7,13,1,0,0,0,0,6,3,0,0,Pittsburgh Thunderbirds2015  
+Thorne A,7,234.35,148,118,30,19,333,339,292,14,24,3,4.593,0,0,1,20,2,0,0,Pittsburgh Thunderbirds2015  
+Mast J,15,522.15,199,161,119,50,467,478,350,8,9,0,0,0,0,0,15,5,0,0,Pittsburgh Thunderbirds2015  
+Mogiel S,10,162.266666667,4,3,152,55,60,64,55,5,8,36,4.76394117647,0,0,0,4,0,0,0,Pittsburgh Thunderbirds2015  
+Thorn- M,1,34.3833333333,18,14,3,1,20,18,18,2,2,0,0,0,0,0,2,0,0,0,Pittsburgh Thunderbirds2015  
+Repper A,14,335.033333333,52,36,233,87,127,116,105,22,14,36,6.011,0,0,0,11,2,2,0,Pittsburgh Thunderbirds2015  
+Thorne M,2,67.5166666667,40,26,7,6,52,42,42,7,4,0,0,0,0,0,5,3,0,0,Pittsburgh Thunderbirds2015  
+Earles P,8,279.116666667,184,144,44,24,430,447,382,9,61,5,5.2138,0,0,1,35,12,0,1,Pittsburgh Thunderbirds2015  
+Anonymous,1,0.0,0,0,0,0,4,15,1,0,1,36,2.88158333333,0,0,0,9,0,0,0,Pittsburgh Thunderbirds2015  
+Slevin J,2,46.1166666667,8,6,30,10,27,31,22,1,1,0,0,0,0,0,0,0,0,0,Pittsburgh Thunderbirds2015  
+DeAmic J,10,190.883333333,4,3,150,47,29,21,19,10,0,2,2.348,0,0,0,2,0,0,0,Pittsburgh Thunderbirds2015  
+Brenen C,11,249.883333333,113,90,127,47,243,267,201,4,19,0,0,0,0,1,19,1,0,0,Pittsburgh Thunderbirds2015  
+DeGiro T,12,343.55,200,164,102,53,439,422,408,28,86,1,3.222,0,0,0,19,7,0,0,Pittsburgh Thunderbirds2015  
+VanNes M,4,43.0166666667,2,1,45,14,15,21,15,0,1,0,0,0,0,0,4,0,0,0,Pittsburgh Thunderbirds2015  
+Trimbl S,12,252.733333333,80,65,119,46,76,66,60,16,11,1,3.722,0,0,0,5,0,0,0,Pittsburgh Thunderbirds2015  
+Bechis D,2,55.3833333333,7,4,50,13,24,21,19,4,2,0,0,0,0,0,0,0,0,0,Pittsburgh Thunderbirds2015  
+Zarobi E,3,79.1833333333,6,3,39,8,17,14,15,2,2,0,0,0,0,0,1,1,0,0,Pittsburgh Thunderbirds2015  
+Kaczma N,5,84.6833333333,11,7,69,30,40,42,34,3,3,0,0,0,0,0,0,0,0,0,Pittsburgh Thunderbirds2015  
+Delgad F,11,308.9,7,6,144,52,68,63,56,12,6,1,5.7,0,0,0,6,1,0,0,Pittsburgh Thunderbirds2015  
+Fedore M,13,460.066666667,35,23,239,76,155,159,127,24,21,81,5.36761728395,0,0,2,9,5,1,0,Pittsburgh Thunderbirds2015  
+Saul I,9,261.016666667,182,141,30,15,372,388,276,3,24,1,0,0,0,0,26,5,0,0,Pittsburgh Thunderbirds2015  
+Greeno J,9,137.666666667,4,2,99,35,56,68,51,3,2,0,0,0,0,0,5,3,0,0,Pittsburgh Thunderbirds2015  
+Schure S,11,188.7,12,7,160,56,101,129,99,2,16,112,6.30440186916,0,0,0,13,3,7,0,Pittsburgh Thunderbirds2015  
+Thomas B,7,84.15,1,1,70,20,17,16,15,2,2,0,0,0,0,0,1,1,0,0,Pittsburgh Thunderbirds2015  
+Haser N,5,243.616666667,2,1,91,35,26,20,16,10,1,0,0,0,0,0,1,0,0,0,Pittsburgh Thunderbirds2015  
+Vatz D,13,351.866666667,245,204,53,25,216,156,139,62,9,0,0,0,0,0,7,0,0,0,Pittsburgh Thunderbirds2015  
+Shultz D,4,65.2666666667,3,2,47,14,8,5,5,3,0,0,0,0,0,0,1,1,0,0,Pittsburgh Thunderbirds2015  
+Watson A,13,437.183333333,254,200,79,42,366,323,314,48,31,3,5.4735,0,0,0,14,6,0,0,Pittsburgh Thunderbirds2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,0.0,0,0,0,0,0,169,0,0,0,0,0,0,0,0,169,0,0,0,Minnesota Wind Chill2015  
+Lien J,12,263.833333333,107,68,103,37,270,291,218,11,16,3,4.14633333333,0,0,1,16,3,0,0,Minnesota Wind Chill2015  
+Heid N,5,108.8,21,11,68,32,74,89,71,1,13,21,4.95876190476,0,0,0,9,3,2,0,Minnesota Wind Chill2015  
+Dresch J,10,194.233333333,66,47,86,30,177,196,156,9,27,79,5.77110126582,0,0,0,33,7,3,0,Minnesota Wind Chill2015  
+Abramo L,3,12.4666666667,0,0,11,3,7,10,7,0,0,1,2.757,0,0,0,2,0,0,0,Minnesota Wind Chill2015  
+Lien A,12,256.616666667,172,98,30,10,465,489,413,5,9,2,3.796,0,0,0,23,11,0,0,Minnesota Wind Chill2015  
+Jensen C,12,126.833333333,19,9,88,25,41,47,35,4,7,2,6.187,0,0,0,5,3,0,0,Minnesota Wind Chill2015  
+Schoen B,13,353.1,131,82,128,44,202,160,147,51,20,0,0,0,0,0,7,6,0,0,Minnesota Wind Chill2015  
+Reis S,10,197.3,30,16,110,42,57,55,50,6,10,39,5.76546153846,0,0,0,5,0,2,0,Minnesota Wind Chill2015  
+Rooffe D,9,90.5333333333,9,8,73,22,27,21,21,6,3,0,0,0,0,0,4,0,0,0,Minnesota Wind Chill2015  
+Newlin S,1,25.85,9,6,5,2,8,10,5,1,3,0,0,0,0,0,1,0,0,0,Minnesota Wind Chill2015  
+Niles P,7,120.316666667,62,34,33,12,82,85,72,3,6,0,0,0,0,0,9,3,0,0,Minnesota Wind Chill2015  
+Cashma P,9,119.783333333,33,15,52,16,81,90,73,0,0,15,4.9196,0,0,0,9,3,0,0,Minnesota Wind Chill2015  
+Hunt D,4,74.5666666667,26,13,38,11,53,64,47,1,3,6,6.52233333333,0,0,0,16,1,0,0,Minnesota Wind Chill2015  
+Groven T,8,169.95,82,35,45,16,209,216,164,1,7,11,6.29772727273,0,0,0,10,4,0,0,Minnesota Wind Chill2015  
+Lee A,9,112.466666667,9,6,92,31,19,17,15,3,2,0,0,0,0,0,0,0,0,0,Minnesota Wind Chill2015  
+VanKan J,2,34.95,21,10,3,1,19,16,18,1,1,0,0,0,0,0,0,2,0,0,Minnesota Wind Chill2015  
+Anonymous,1,0.0,0,0,0,0,2,4,2,0,0,0,0,0,0,0,1,0,0,0,Minnesota Wind Chill2015  
+Merie Z,11,258.883333333,93,54,74,32,76,57,58,17,1,0,0,0,0,0,3,2,0,0,Minnesota Wind Chill2015  
+Shirle D,12,337.433333333,145,79,69,18,226,228,193,22,10,0,0,0,0,0,23,2,0,0,Minnesota Wind Chill2015  
+Carr P,6,157.416666667,86,37,17,5,109,115,88,1,6,0,0,0,0,1,5,0,0,0,Minnesota Wind Chill2015  
+Kittle J,12,281.6,49,27,185,74,104,87,83,21,12,0,0,1,0,0,7,1,0,0,Minnesota Wind Chill2015  
+Shramk L,8,143.5,76,38,36,14,71,61,60,10,9,3,5.07566666667,0,0,0,5,0,0,0,Minnesota Wind Chill2015  
+Bolton J,3,165.8,74,22,13,6,87,85,76,3,4,3,5.55833333333,0,0,0,7,1,0,0,Minnesota Wind Chill2015  
+Johnso R,4,52.4666666667,10,3,29,7,26,33,22,0,2,13,6.793,0,0,0,1,0,1,0,Minnesota Wind Chill2015  
+Arenso G,2,37.6666666667,8,4,15,1,24,25,23,0,1,9,5.87111111111,0,0,0,2,2,0,0,Minnesota Wind Chill2015  
+Matis B,13,293.866666667,53,28,157,57,113,102,94,18,11,3,5.95,0,0,0,10,4,0,0,Minnesota Wind Chill2015  
+Polett T,2,44.9833333333,10,5,24,12,38,42,37,0,0,0,0,0,0,0,2,1,0,0,Minnesota Wind Chill2015  
+Sulliv B,8,144.616666667,27,14,83,23,51,46,46,5,1,0,0,0,0,0,1,1,0,0,Minnesota Wind Chill2015  
+Schmit P,2,8.38333333333,3,2,4,0,3,2,3,0,0,1,4.788,0,0,0,0,1,0,0,Minnesota Wind Chill2015  
+Caball L,5,159.583333333,68,19,29,17,71,80,60,1,8,0,0,0,0,0,6,1,0,0,Minnesota Wind Chill2015  
+Jordan M,10,244.85,142,66,24,11,104,87,86,17,5,0,0,0,0,1,3,1,0,0,Minnesota Wind Chill2015  
+A-K Ian,4,150.333333333,82,31,7,3,163,170,137,2,5,0,0,0,0,0,13,5,0,0,Minnesota Wind Chill2015  
+Wolle C,11,295.666666667,113,63,88,31,151,130,132,19,12,0,0,0,0,1,4,4,0,0,Minnesota Wind Chill2015  
+Jagt B,7,278.566666667,85,34,94,46,125,105,104,20,26,6,4.351,1,0,0,12,5,1,0,Minnesota Wind Chill2015  
+Groess J,1,29.5166666667,7,1,12,2,19,22,15,1,1,0,0,0,0,0,3,2,0,0,Minnesota Wind Chill2015  
+Peters M,1,29.7666666667,7,2,7,3,10,18,8,0,0,7,4.80128571429,0,0,0,7,1,0,0,Minnesota Wind Chill2015  
+Collom D,14,489.233333333,206,104,109,45,366,364,329,14,26,0,0,0,0,0,28,9,0,0,Minnesota Wind Chill2015  
+Hanke N,9,207.1,54,27,90,27,95,90,84,8,7,47,5.91410638298,0,0,1,14,1,1,0,Minnesota Wind Chill2015  
+Rasmus E,10,302.416666667,115,65,88,37,218,238,179,10,16,31,5.11122580645,0,0,0,21,1,1,0,Minnesota Wind Chill2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,0.583333333333,5,5,0,0,0,222,0,0,0,0,0,0,0,0,222,0,0,0,Jacksonville Cannons2015  
+Larocque,4,129.6,43,28,53,17,72,71,60,6,10,0,0,0,0,0,7,1,0,0,Jacksonville Cannons2015  
+Travagli,13,320.1,53,37,171,50,190,249,176,1,15,155,6.19145833333,0,0,0,22,2,9,0,Jacksonville Cannons2015  
+Langdon,2,81.0333333333,7,5,24,12,32,33,27,4,4,0,0,0,0,0,4,0,0,0,Jacksonville Cannons2015  
+Poulos,7,212.283333333,126,105,23,18,264,274,218,13,32,3,7.36333333333,0,0,0,19,2,0,0,Jacksonville Cannons2015  
+Brody J,8,162.333333333,6,2,103,30,33,29,21,10,4,0,0,0,0,0,5,0,0,0,Jacksonville Cannons2015  
+McKelvey,6,130.55,6,2,90,22,21,19,18,3,4,0,0,0,0,0,2,0,0,0,Jacksonville Cannons2015  
+Grady E,4,45.35,10,4,35,9,15,14,14,1,0,1,0,0,0,0,1,0,0,0,Jacksonville Cannons2015  
+Mi Bode,1,6.75,0,0,8,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Jacksonville Cannons2015  
+Patterso,7,159.216666667,9,4,108,28,43,46,41,2,2,0,0,0,0,0,4,1,0,0,Jacksonville Cannons2015  
+Gaines A,10,307.933333333,91,60,95,34,106,91,81,17,10,0,0,0,0,0,14,0,0,0,Jacksonville Cannons2015  
+Ierardi,15,323.05,24,14,211,58,118,124,109,8,12,20,6.11053846154,0,0,0,10,2,0,0,Jacksonville Cannons2015  
+Roca A,7,122.266666667,24,13,74,21,93,112,86,1,10,0,0,0,0,0,10,3,0,0,Jacksonville Cannons2015  
+Best J,14,413.95,124,81,151,47,360,405,322,9,23,10,6.02271428571,0,0,0,32,11,1,0,Jacksonville Cannons2015  
+Jakob D,2,24.0333333333,9,4,17,1,10,12,6,0,1,0,0,0,0,0,1,0,0,0,Jacksonville Cannons2015  
+Wharton,12,241.45,41,19,140,34,87,82,78,7,10,0,0,0,0,0,6,1,0,0,Jacksonville Cannons2015  
+Freystae,12,395.25,211,165,61,32,315,259,253,60,36,0,0,0,0,0,12,3,0,0,Jacksonville Cannons2015  
+Seuntjen,7,145.616666667,9,5,107,25,29,26,25,4,2,0,0,0,0,0,0,1,0,0,Jacksonville Cannons2015  
+Anonymous,1,0.0,0,0,0,0,0,5,0,0,0,12,3.729,0,0,0,0,0,1,0,Jacksonville Cannons2015  
+Chard R,10,223.066666667,37,19,114,26,63,58,51,10,7,4,6.79,0,0,0,4,0,0,0,Jacksonville Cannons2015  
+Catron T,10,295.466666667,156,125,47,26,198,172,163,29,15,0,0,0,0,0,10,1,0,0,Jacksonville Cannons2015  
+Egger B,6,108.3,30,21,63,17,97,103,90,3,4,0,0,0,0,0,7,1,0,0,Jacksonville Cannons2015  
+Hickson,14,442.6,254,199,52,23,362,327,259,34,31,2,6.24,0,0,0,23,7,0,0,Jacksonville Cannons2015  
+Bode M,8,265.25,152,124,43,20,256,247,197,20,19,0,0,0,0,0,5,1,0,0,Jacksonville Cannons2015  
+Floyd Z,9,108.35,15,12,79,20,35,34,31,3,2,1,0,0,0,0,0,1,0,0,Jacksonville Cannons2015  
+Hunter N,11,207.583333333,18,11,112,33,60,51,44,14,4,0,0,1,0,0,4,0,0,0,Jacksonville Cannons2015  
+Shepard,8,101.116666667,9,6,60,16,35,32,31,2,0,0,0,0,0,0,4,1,0,0,Jacksonville Cannons2015  
+Sullivan,13,395.083333333,222,172,52,26,396,395,338,29,55,5,4.8516,0,0,0,47,5,1,0,Jacksonville Cannons2015  
+Perales,14,474.6,159,116,143,45,315,333,238,5,24,7,5.42375,0,0,0,20,5,0,0,Jacksonville Cannons2015  
+Walker J,15,341.683333333,67,32,174,43,70,55,49,18,5,134,6.01438596491,0,0,0,3,2,12,0,Jacksonville Cannons2015  
+Van Brus,15,512.183333333,248,187,100,37,209,180,171,33,19,12,6.903,0,0,0,10,2,0,0,Jacksonville Cannons2015  
+Hanselma,3,52.6833333333,9,6,32,11,20,16,15,4,0,0,0,0,0,0,1,0,0,0,Jacksonville Cannons2015  
+Carlet B,1,9.16666666667,1,1,10,2,2,1,1,1,0,0,0,0,0,0,0,0,0,0,Jacksonville Cannons2015  
+Carlet A,15,382.583333333,133,98,149,44,125,110,93,15,7,0,0,0,0,0,5,2,0,0,Jacksonville Cannons2015  
+McCall C,4,38.6,9,5,22,4,12,9,9,2,0,0,0,0,0,0,0,1,0,0,Jacksonville Cannons2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,0.583333333333,0,0,1,0,0,204,0,0,0,0,0,0,0,0,204,0,0,0,Chicago Wildfire2015  
+Sheehan,10,141.033333333,19,10,113,40,177,192,172,2,13,4,5.10275,0,0,0,18,0,0,0,Chicago Wildfire2015  
+Danny,11,174.183333333,79,58,52,21,88,63,64,24,4,1,0,0,0,0,3,2,0,0,Chicago Wildfire2015  
+Zubair,4,75.2,2,1,37,16,37,38,35,2,3,2,5.259,0,0,0,4,1,0,0,Chicago Wildfire2015  
+DW,12,266.65,40,25,144,46,93,86,82,7,5,0,0,0,0,0,1,1,0,0,Chicago Wildfire2015  
+Vock,9,130.433333333,28,22,61,19,38,28,28,10,2,1,6.125,0,0,0,2,0,0,0,Chicago Wildfire2015  
+Matzuka,10,501.016666667,127,86,198,80,630,752,569,5,40,88,4.97945588235,0,0,0,31,15,2,0,Chicago Wildfire2015  
+Max,10,139.65,7,3,91,37,42,48,37,5,1,0,0,0,0,0,4,0,0,0,Chicago Wildfire2015  
+Kennedy,10,174.183333333,19,12,106,40,112,124,98,9,4,3,4.5105,0,0,0,14,1,0,0,Chicago Wildfire2015  
+MattSteg,4,101.116666667,22,12,30,11,37,33,31,5,2,0,0,0,0,0,2,0,0,0,Chicago Wildfire2015  
+Cullen,11,348.2,136,94,72,29,245,229,230,15,27,1,0,0,0,0,25,4,0,0,Chicago Wildfire2015  
+Jack,7,209.916666667,71,45,37,20,70,56,57,13,2,0,0,0,0,0,5,0,0,0,Chicago Wildfire2015  
+Anonymous,1,0.0,0,0,0,0,11,27,7,1,1,18,4.557,0,0,0,7,0,1,0,Chicago Wildfire2015  
+JSS,8,97.3666666667,13,8,62,24,40,33,36,4,1,15,5.99173333333,0,0,0,3,2,1,0,Chicago Wildfire2015  
+Slymer,10,234.466666667,24,12,134,50,74,60,60,14,6,0,0,0,0,0,6,1,0,0,Chicago Wildfire2015  
+Silver,1,23.05,1,0,12,7,13,12,12,1,1,0,0,0,0,0,0,0,0,0,Chicago Wildfire2015  
+Kaufmann,7,195.666666667,45,35,81,34,71,55,53,17,6,12,5.157125,0,0,0,5,1,2,0,Chicago Wildfire2015  
+Roush,2,23.4,0,0,15,5,5,4,4,1,0,1,3.249,0,0,0,0,0,0,0,Chicago Wildfire2015  
+JRob,8,143.916666667,13,5,80,30,83,87,81,2,5,26,4.861875,0,0,0,7,0,7,0,Chicago Wildfire2015  
+AJ,7,215.283333333,113,83,31,17,185,154,153,32,10,0,0,0,0,0,7,1,0,0,Chicago Wildfire2015  
+Fergus,10,269.116666667,152,108,27,14,435,440,358,14,19,0,0,0,0,0,20,3,0,0,Chicago Wildfire2015  
+Rory,2,68.2333333333,41,34,8,4,33,26,27,6,4,0,0,0,0,0,2,1,0,0,Chicago Wildfire2015  
+Adrian,11,339.533333333,147,98,43,20,284,267,234,10,13,13,5.56076923077,0,0,0,14,13,0,0,Chicago Wildfire2015  
+Bob,11,382.216666667,170,123,54,27,457,488,387,12,32,17,5.3562,0,0,0,34,8,1,0,Chicago Wildfire2015  
+J Silver,6,94.5666666667,6,3,54,14,33,37,32,1,3,0,0,0,0,0,2,0,0,0,Chicago Wildfire2015  
+Uber,11,230.1,28,21,127,46,72,65,61,11,3,0,0,0,0,0,5,1,0,0,Chicago Wildfire2015  
+Jimmy,8,84.25,2,0,63,25,43,48,43,0,3,0,0,0,0,0,1,0,0,0,Chicago Wildfire2015  
+Neil,7,135.833333333,17,12,108,38,54,47,47,7,6,0,0,0,0,0,4,1,0,0,Chicago Wildfire2015  
+Shiel,10,303.85,148,110,26,19,298,285,277,14,29,0,0,0,0,0,12,1,0,0,Chicago Wildfire2015  
+Von,3,48.25,7,6,31,12,13,10,10,3,2,0,0,0,0,0,1,0,0,0,Chicago Wildfire2015  
+Rathunde,4,59.05,0,0,42,17,20,15,16,4,3,0,0,0,0,0,3,0,0,0,Chicago Wildfire2015  
+Goose,11,411.616666667,132,94,131,50,282,287,243,30,32,77,4.4880877193,0,0,0,29,9,1,0,Chicago Wildfire2015  
+Brodie,2,1.86666666667,1,0,1,0,2,3,1,1,0,0,0,0,0,0,1,0,0,0,Chicago Wildfire2015  
+Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team
+,1,2.13333333333,2,1,3,0,0,130,0,0,0,0,0,0,0,0,130,0,0,0,Charlotte Express2015  
+Olson E,8,246.983333333,153,97,14,8,418,421,357,5,24,0,0,0,0,0,27,3,0,0,Charlotte Express2015  
+Burns E,12,280.666666667,87,44,109,17,109,93,96,13,7,1,5.4,0,0,0,7,2,0,0,Charlotte Express2015  
+Schanz R,6,80.1666666667,15,4,53,13,30,24,25,5,1,0,0,0,0,0,2,1,0,0,Charlotte Express2015  
+Stone J,14,425.133333333,256,161,34,15,564,587,455,9,19,1,4.283,0,0,0,27,6,0,0,Charlotte Express2015  
+Lieber J,3,74.2333333333,39,29,7,2,64,67,59,0,5,0,0,0,0,0,3,4,0,0,Charlotte Express2015  
+Grunin A,13,155.333333333,16,5,107,27,38,32,33,5,4,0,0,0,0,0,5,1,0,0,Charlotte Express2015  
+Lee S,11,162.383333333,82,46,38,14,184,181,158,6,6,0,0,0,0,0,9,1,0,0,Charlotte Express2015  
+Hood M,13,475.483333333,190,115,99,26,279,273,252,20,37,17,6.19947058824,0,0,2,29,7,2,0,Charlotte Express2015  
+Russel A,12,339.116666667,96,50,127,24,217,245,194,5,18,2,5.4495,0,0,0,28,4,1,0,Charlotte Express2015  
+Johnso C,7,140.316666667,11,2,75,16,12,7,8,4,0,0,0,0,0,0,0,1,0,0,Charlotte Express2015  
+Stukes M,3,42.8833333333,16,7,20,2,11,10,8,2,1,0,0,0,0,0,2,0,0,0,Charlotte Express2015  
+Kelley S,14,262.433333333,43,17,137,31,51,39,42,9,6,0,0,0,0,0,2,1,0,0,Charlotte Express2015  
+Anonymous,1,0.0,0,0,0,0,16,37,12,1,1,25,5.17475,0,0,0,5,1,1,0,Charlotte Express2015  
+Whitti G,4,79.8666666667,46,25,11,3,58,56,50,3,2,1,0,0,0,0,7,1,0,0,Charlotte Express2015  
+Barry I,11,256.183333333,155,96,53,17,368,363,294,10,1,0,0,1,0,0,13,7,0,0,Charlotte Express2015  
+Muniz C,14,420.466666667,236,151,65,21,365,351,336,23,39,9,5.76411111111,0,0,3,37,2,0,0,Charlotte Express2015  
+Welchm D,10,265.5,81,41,103,23,89,79,80,8,6,0,0,0,0,0,4,2,0,0,Charlotte Express2015  
+Schopl D,8,152.333333333,40,26,53,10,29,25,24,5,5,0,0,0,0,0,1,0,0,0,Charlotte Express2015  
+Silva K,11,242.733333333,123,73,38,12,113,85,87,26,3,0,0,0,0,2,8,1,0,0,Charlotte Express2015  
+Glenn M,8,154.75,36,17,81,16,44,45,41,2,4,38,6.61865789474,0,0,0,5,1,4,0,Charlotte Express2015  
+Fontai S,10,273.35,175,115,15,11,178,146,144,33,18,0,0,0,0,0,8,1,0,0,Charlotte Express2015  
+Howey E,12,269.6,63,29,153,27,117,139,91,12,11,26,5.778625,0,0,0,14,4,0,0,Charlotte Express2015  
+Fox E,11,216.9,126,74,10,6,229,235,172,1,12,0,0,0,0,0,10,7,0,1,Charlotte Express2015  
+Nordeg J,11,301.1,56,33,141,27,99,81,79,20,11,0,0,0,0,0,6,2,0,0,Charlotte Express2015  
+Sisco S,8,230.533333333,50,31,97,30,66,59,50,16,7,0,0,0,0,0,5,0,0,0,Charlotte Express2015  
+McCall S,2,30.0166666667,17,11,3,2,33,29,31,2,1,0,0,0,0,1,3,1,0,0,Charlotte Express2015  
+Saffa Z,5,79.3166666667,10,5,55,11,18,18,17,1,1,9,6.50355555556,0,0,0,2,0,1,0,Charlotte Express2015  
+Gardne M,11,300.016666667,30,13,162,31,72,89,63,7,4,144,6.61995804196,0,0,0,9,0,10,0,Charlotte Express2015  
+Gerber C,6,88.9,34,19,32,6,28,21,22,6,4,0,0,0,0,0,1,0,0,0,Charlotte Express2015  
+Porter K,8,255.35,81,43,68,13,56,54,47,9,9,0,0,0,0,0,11,2,0,0,Charlotte Express2015  
+Bostia A,10,116.916666667,29,13,81,15,24,21,21,3,3,0,0,0,0,0,4,0,0,0,Charlotte Express2015  

@@ -1,11 +1,10 @@
 def writeToCSV(players, outfile, teamName):
-	outfile.write("name,games,seconds played,O Points,O Conversions,D Points,D Conversions,touches,throws,catches,goals,assists,pulls,pull\
-	 hangtime,callies,bad callies,stalls,throwaways,drops,OB Pulls,penalties(turnover),team\n")
+	outfile.write("Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Average Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties, Team\n")
 	for playerName in players:	
 		outstr = ''
 		outstr += playerName + ","
 		outstr += str(len(players[playerName]["gameDates"])) + ","
-		outstr += str(players[playerName]["secondsPlayed"]) + ","
+		outstr += str(players[playerName]["secondsPlayed"]/60.0) + ","
 		outstr += str(players[playerName]["OPoints"]) + ","
 		outstr += str(players[playerName]["OPointConversions"]) + ","
 		outstr += str(players[playerName]["DPoints"]) + ","
