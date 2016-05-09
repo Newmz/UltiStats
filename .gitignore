@@ -5,3 +5,7 @@
 debuggingImages/*
 Workspace/*.csv
 Workspace/*
+/*.csv
+/*/*.csv
+/*/*/*.csv
+/*/*/*/*.csv
