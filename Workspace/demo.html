@@ -20,7 +20,7 @@
    shape-rendering: crispEdges;
  }
  rect:hover {
-    fill:gold;
+    fill:gold!important;
  }
  rect {
     fill:#444444;
@@ -116,7 +116,7 @@ div.labelD {
     opacity:.6;
  }
 .dot:hover {
-    fill:gold;
+    fill:gold!important;
  }
 .graphButton {
     top:10px;
@@ -312,6 +312,8 @@ var playerWindow = d3.select("div.playerInfo");
     d3.selectAll("circle")
           .filter(function(d) {return !(d["Name"] === player["Name"]);})
           .style("fill", "#444444")
+          .attr("r", 4.5)
+          .style("opacity", 0.6);
   } 
 
   function createPlayerStats(player) {
