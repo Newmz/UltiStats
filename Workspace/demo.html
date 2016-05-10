@@ -40,7 +40,12 @@
   margin-top:2px;
   margin-bottom:2px;
   margin-left:6px;
+  margin-right:6px;
 }
+.playerInfoItem:hover {
+  color:gold;
+}
+
 .menuSelector {
   text-align:center;
   margin-left:40px;
@@ -60,7 +65,7 @@
 }
 .stat2 {
   top:5px;
-  left:260px;
+  left:240px;
   position:absolute;
   height:16px;
   display:inline-block;
@@ -76,15 +81,33 @@ div.labelY {
   position:absolute;
   top:6px;
   height:16px;
-  left:210px;
+  left:190px;
 }
 div.labelC {
   color: #444444;
   position:absolute;
   top:6px;
   height:16px;
-  left:414px;
+  left:374px;
 }
+div.labelD {
+  color: #444444;
+  position:absolute;
+  top:6px;
+  height:16px;
+  left:560px;
+}
+
+.dataType {
+  color: #444444;
+  position:absolute;
+  top:6px;
+  height:16px;
+  left:630px;
+}
+
+
+
  .dot {
     fill:#444444;
     opacity:.6;
@@ -94,14 +117,14 @@ div.labelC {
  }
 .graphButton {
     top:10px;
-    left: 600px;
+    left: 706px;
     position:absolute;
     height:16px;
     
  }
  .chartType {
   top:5px;
-  left:504px;
+  left:464px;
   position:absolute;
   
   height:16px;
@@ -142,6 +165,7 @@ div.playerInfo {
 <div class="stat2"> </div>
 <div class="chartType">
 </div>
+<div class="dataType"> </div>
 <div class="chartButton">
     <button class="graphButton" type="button" onclick="updateChart()">New Graph</button>
 </div>
@@ -176,11 +200,12 @@ var playerWindow = d3.select("div.playerInfo");
       .append("g")
         .attr("transform", 
           "translate(" + margin.left + "," + margin.top + ")");
-    params = { stat1:"Name", stat2:"Goals", chartType:"bar"};
+    params = { stat1:"Name", stat2:"Goals", chartType:"bar", dataset:"Players"};
     var stats = [];
     var myData;
     var graphData = [];
     charts = ["bar", "scatterplot"];
+    datasets = ["Players", "Teams"];
      //  var stat1;
      //  var stat2;
   var graphType = d3.select("option.chartType")
@@ -225,13 +250,19 @@ var playerWindow = d3.select("div.playerInfo");
           .style("margin-top", 0)
           .style("margin-bottom", 0)
           .attr("transform");
-    d3.select("body").append("div")
-          .attr("class", "labelD");
+      d3.select("body").append("div")
+          .attr("class", "labelD")
+          .text("dataset:")
+          .style("margin-top", 0)
+          .style("margin-bottom", 0)
+          .attr("transform");
     var s1 = d3.select("div.stat1").append("select")
           .attr("class", "statDropDown");
     var s2 = d3.select("div.stat2").append("select")
           .attr("class", "statDropDown");
     var chart = d3.select("div.chartType").append("select")
+          .attr("class", "statDropDown");
+    var dataType = d3.select("div.dataType").append("select")
           .attr("class", "statDropDown");
     var type = chart.selectAll("select")
             .data(charts).enter()
@@ -248,19 +279,74 @@ var playerWindow = d3.select("div.playerInfo");
             .append("option")
               .text(function(d) {return d;})
               .on("click", function(d){params["stat2"] = d;});
+    dataType.selectAll("select")
+            .data(datasets).enter()
+            .append("option")
+              .text(function(d) {return d;})
+              .on("click", function(d){params["dataset"] = d;});
   }
+
+  function highlight(player) {
+    var bars = d3.selectAll("rect")
+          .filter(function(d) {return d["Name"] === player["Name"];})
+          .style("fill", "brown");
+    d3.selectAll("rect")
+          .filter(function(d) {return !(d["Name"] === player["Name"]);})
+          .style("fill", "#444444")
+      //     .on("mouseover", function(d) {
+      //       this.style.fill="gold";
+      //       //make div tooltip
+      //       div.transition()    
+      //           .duration(100)    
+      //           .style("opacity", .7);
+      //       div.html(d["Name"] + "\n" + d["Team"] + " " + d[stat2])  
+      //           .style("left", (d3.event.pageX) + "px")   
+      //           .style("top", (d3.event.pageY - 28) + "px")
+      //           .style("color", "#444444");    
+      // })
+      // .on("click", function(d) {
+      //   updateChart();
+      //   //createPlayerStats(d);
+      //   //highlight(d);})
+      // })
+      // .on("mouseout", function(d){
+      //   this.style.fill="#444444";
+      //     div.transition()
+      //           .duration(100)
+      //           .style("opacity", 0);
+        
+      // });   
+          // .on("mouseover", function(d) {this.style.fill="gold"})
+          // .on("mouseout", function(d) {this.style.fill="#444444"});
+    d3.selectAll("div.playerInfoItem")
+          .filter(function(d) {return d === params["stat2"]})
+          .style("background-color", "brown")
+          .style("color", "gold");
+    d3.selectAll("div.playerInfoItem")
+          .filter(function(d) {return d !== params["stat2"]})
+          .style("background-color", "#444444")
+          .style("color", "#dddddd");
+
+  } 
+
   function createPlayerStats(player) {
-    d3.selectAll("p.playerInfoItem").remove("p");
+    d3.selectAll("div.playerInfoItem").remove("div");
     var pStats = d3.select("div.playerInfo");
-    pStats = pStats.selectAll("p").data(Object.keys(player));
+    pStats = pStats.selectAll("div").data(Object.keys(player));
     pStats.attr("class", "playerInfoItem");
-    pStats.enter().append("p")
+    pStats.enter().append("div")
           .attr("class", "playerInfoItem")
+          .attr("id", function (d) {return player[d];})
           .text(function(d) {
             var t = "";
             t += d + ": ";
             t += player[d];
-            return t;});
+            return t;})
+          .on("click", function(d) {
+            params["stat2"] = d;
+            updateChart();
+            highlight(player);
+          });
   }
   function createSelectionMenu(teamData){
     var list = dropDownMenu.selectAll("div")
@@ -281,56 +367,67 @@ var playerWindow = d3.select("div.playerInfo");
     }
   }
   function graphTeam(team){
-    d3.select(this)
-      .style("background-color", "gold")
-      .style("color", "#444444")
-      .on("click", ungraphTeam)
-      //.attr("color", "#e41a1c")
-    myData.forEach(function(d) {
-      if (d["Name"] === "") {
-      }
-      else {
-        for (var stat in d) {
-          if (stat === "Name" || stat === "Team") continue;
-          d[stat] = +d[stat];
+    if (params["dataset"] === "Players") {
+      d3.select(this)
+        .style("background-color", "gold")
+        .style("color", "#444444")
+        .on("click", ungraphTeam)
+        //.attr("color", "#e41a1c")
+      myData.forEach(function(d) {
+        if (d["Name"] === "") {
         }
-        
-        if (d["Team"] === team["Name"]) {
-          graphData.push(d);
-        }
-      }       
-    });
-    //console.log(graphData)
-    //newGraph(graphData, "catches");  
-    updateChart();  
+        else {
+          for (var stat in d) {
+            if (stat === "Name" || stat === "Team") continue;
+            d[stat] = +d[stat];
+          }
+          
+          if (d["Team"] === team["Name"]) {
+            graphData.push(d);
+          }
+        }       
+      });
+      //console.log(graphData)
+      //newGraph(graphData, "catches");  
+      updateChart();  
+    }
+    else {
+
+    }
+      
   }
   function ungraphTeam(team){
-    d3.select(this)
-      .style("background-color","#444444")
-      .style("color", "#dddddd")
-      .on("click", graphTeam)
-      .attr("fill", "black")
-    var newGraphData = [];
-    graphData.forEach(function(d) {
-      if (d["Name"] === "") {
-      }
-      else {
-        for (var stat in d) {
-          if (stat === "Name" || stat === "Team") continue;
-          d[stat] = +d[stat];
+    if (params["dataset"] === "Players") {
+        d3.select(this)
+        .style("background-color","#444444")
+        .style("color", "#dddddd")
+        .on("click", graphTeam)
+        .attr("fill", "black")
+      var newGraphData = [];
+      graphData.forEach(function(d) {
+        if (d["Name"] === "") {
         }
-        if (d["Team"] === team["Name"]) {
-          
-        }
-        else{
-          newGraphData.push(d);
-        }
-      }       
-    });
-    //console.log(graphData)
-    graphData = newGraphData;
-    //newGraph(graphData, "catches");    
-    updateChart(); 
+        else {
+          for (var stat in d) {
+            if (stat === "Name" || stat === "Team") continue;
+            d[stat] = +d[stat];
+          }
+          if (d["Team"] === team["Name"]) {
+            
+          }
+          else{
+            newGraphData.push(d);
+          }
+        }       
+      });
+      //console.log(graphData)
+      graphData = newGraphData;
+      //newGraph(graphData, "catches");    
+      updateChart(); 
+    }
+    else {
+
+    }
   }
   function clearGraph() {
     d3.selectAll("svg").remove("#chart");
@@ -406,6 +503,7 @@ var playerWindow = d3.select("div.playerInfo");
     var xAxisFormat = d3.svg.axis()
       .scale(xRange)
       .orient("bottom");
+    //xRange.domain(graphData.map(function(d) { return d["Name"]; })).rangeRoundBands([0, width], .1);
     xRange.domain(graphData.map(function(d) { return d["Name"]; })).rangeRoundBands([0, width], .1);
     var yAxisFormat = d3.svg.axis()
       .scale(yRange)
@@ -446,7 +544,9 @@ var playerWindow = d3.select("div.playerInfo");
       .attr("width", xRange.rangeBand())
       .attr("y", function(d) { return yRange(d[stat]); })
       .attr("height", function(d) { return height - yRange(d[stat]); })
+      .attr("value", function (d) { return d["Name"];})
       .on("mouseover", function(d) {
+        //this.style("fill", "gold");
         //make div tooltip
         div.transition()    
                 .duration(100)    
@@ -456,11 +556,14 @@ var playerWindow = d3.select("div.playerInfo");
                 .style("top", (d3.event.pageY - 28) + "px")
                 .style("color", "#444444");    
       })
-      .on("click", function(d) {createPlayerStats(d);})
+      .on("click", function(d) {
+        createPlayerStats(d);
+        highlight(d);})
       .on("mouseout", function(d){
-        div.transition()
+          div.transition()
                 .duration(100)
-                .style("opacity", 0)
+                .style("opacity", 0);
+        
       });   
     }
   </script>
