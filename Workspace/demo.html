@@ -304,6 +304,14 @@ var playerWindow = d3.select("div.playerInfo");
           .filter(function(d) {return d !== params["stat2"]})
           .style("background-color", "#444444")
           .style("color", "#dddddd");
+    d3.selectAll("circle")
+          .filter(function(d) {return d["Name"] === player["Name"];})
+          .style("fill", "brown")
+          .style("opacity", 1)
+          .attr("r", 7);
+    d3.selectAll("circle")
+          .filter(function(d) {return !(d["Name"] === player["Name"]);})
+          .style("fill", "#444444")
   } 
 
   function createPlayerStats(player) {
@@ -495,6 +503,7 @@ var playerWindow = d3.select("div.playerInfo");
       .attr("transform", "translate(0,690)")
       .call(xAxisFormat)
     .selectAll("text")
+      .attr("class","xAxis")
       .style("text-anchor", "end")
       .attr("dx", "-.8em")
       .attr("dy", "-.55em")
@@ -515,7 +524,10 @@ var playerWindow = d3.select("div.playerInfo");
       .style("text-anchor", "end")
       .text(stat);
       }
-      
+  if (graphData.length > 70) {
+    var ticks = d3.selectAll("text.xAxis");
+    ticks.remove();
+  }
   svg.selectAll("bar")
       .data(graphData)
       .enter().append("rect")
