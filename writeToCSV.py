@@ -1,10 +1,10 @@
 def writeToCSV(players, outfile, teamName):
-	outfile.write("Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Avg Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties,Team\n")
+	outfile.write("Name,Games,Minutes Played,O Points,O Conversions,D Points,D Conversions,Touches,Throws,Catches,Goals,Assists,Pulls,Avg Pull Hangtime,Callahans,Callahans Thrown,Stalls,Throwaways,Drops,Pulls OB,Penalties,1+Offensive +/-, 1+Defensive +/-,Team\n")
 	for playerName in players:	
 		outstr = ''
 		outstr += playerName + ","
 		outstr += str(len(players[playerName]["gameDates"])) + ","
-		outstr += str(players[playerName]["secondsPlayed"]/60.0) + ","
+		outstr += str(players[playerName]["secondsPlayed"]/60) + ","
 		outstr += str(players[playerName]["OPoints"]) + ","
 		outstr += str(players[playerName]["OPointConversions"]) + ","
 		outstr += str(players[playerName]["DPoints"]) + ","
@@ -26,6 +26,14 @@ def writeToCSV(players, outfile, teamName):
 		outstr += str(players[playerName]["drops"]) + ","
 		outstr += str(players[playerName]["OB Pulls"]) + ","
 		outstr += str(players[playerName]["penalties"]) + ","
+		if players[playerName]["OPoints"] > 0:
+			outstr += str(1.0+(2.0*players[playerName]["OPointConversions"]-players[playerName]["OPoints"])/(1.0*players[playerName]["OPoints"])) + ","
+		else:
+			outstr += "0,"
+		if players[playerName]["DPoints"] > 0:
+			outstr += str(1.0+(2.0*players[playerName]["DPointConversions"]-players[playerName]["DPoints"])/(1.0*players[playerName]["DPoints"])) + ","
+		else:
+			outstr += "0,"
 		outstr += teamName
 		outstr += "\n"
 		outfile.write(outstr)
