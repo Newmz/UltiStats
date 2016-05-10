@@ -19,11 +19,14 @@
    stroke: #000;
    shape-rendering: crispEdges;
  }
- .bar:hover {
+ rect:hover {
     fill:gold;
  }
- .bar {
+ rect {
     fill:#444444;
+ }
+ rect.highlight {
+  fill:brown;
  }
 .selector {
   height:710px;
@@ -112,7 +115,7 @@ div.labelD {
     fill:#444444;
     opacity:.6;
  }
- .dot:hover {
+.dot:hover {
     fill:gold;
  }
 .graphButton {
@@ -293,31 +296,6 @@ var playerWindow = d3.select("div.playerInfo");
     d3.selectAll("rect")
           .filter(function(d) {return !(d["Name"] === player["Name"]);})
           .style("fill", "#444444")
-      //     .on("mouseover", function(d) {
-      //       this.style.fill="gold";
-      //       //make div tooltip
-      //       div.transition()    
-      //           .duration(100)    
-      //           .style("opacity", .7);
-      //       div.html(d["Name"] + "\n" + d["Team"] + " " + d[stat2])  
-      //           .style("left", (d3.event.pageX) + "px")   
-      //           .style("top", (d3.event.pageY - 28) + "px")
-      //           .style("color", "#444444");    
-      // })
-      // .on("click", function(d) {
-      //   updateChart();
-      //   //createPlayerStats(d);
-      //   //highlight(d);})
-      // })
-      // .on("mouseout", function(d){
-      //   this.style.fill="#444444";
-      //     div.transition()
-      //           .duration(100)
-      //           .style("opacity", 0);
-        
-      // });   
-          // .on("mouseover", function(d) {this.style.fill="gold"})
-          // .on("mouseout", function(d) {this.style.fill="#444444"});
     d3.selectAll("div.playerInfoItem")
           .filter(function(d) {return d === params["stat2"]})
           .style("background-color", "brown")
@@ -326,7 +304,6 @@ var playerWindow = d3.select("div.playerInfo");
           .filter(function(d) {return d !== params["stat2"]})
           .style("background-color", "#444444")
           .style("color", "#dddddd");
-
   } 
 
   function createPlayerStats(player) {
@@ -356,7 +333,8 @@ var playerWindow = d3.select("div.playerInfo");
         //.attr("width", 320)
         .attr("class", "menuSelector")
         .text(function(d){return d["Name"];})
-        .on("click", graphTeam);
+        .on("click", graphTeam)
+        .on("drag", graphTeam);
   }
   function updateChart() {
     if (params["chartType"] === "bar") {
@@ -482,8 +460,10 @@ var playerWindow = d3.select("div.playerInfo");
                       .style("left", (d3.event.pageX) + "px")   
                       .style("top", (d3.event.pageY - 28) + "px")
                       .style("color", "#444444");  
+              console.log(this);
             })
-            .on("click", function(d) {createPlayerStats(d);})
+            .on("click", function(d) {createPlayerStats(d);
+              highlight(d);})
             .on("mouseout", function(d){
         div.transition()
                 .duration(100)
@@ -538,7 +518,7 @@ var playerWindow = d3.select("div.playerInfo");
       
   svg.selectAll("bar")
       .data(graphData)
-    .enter().append("rect")
+      .enter().append("rect")
       .attr("class", "bar")
       .attr("x", function(d) { return xRange(d["Name"]); })
       .attr("width", xRange.rangeBand())
